@@ -1,0 +1,3122 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Universal Hooks: just use****** everywhere, Functional or Class Components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:41:32Z",
+            "owner": "salvoravida",
+            "repo": "react-universal-hooks",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jooks",
+          "description": "Unit-test your custom hooks by mocking React's Hooks API (useState, etc.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-15T02:31:25Z",
+            "owner": "antoinejaussoin",
+            "repo": "jooks",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Helper to build HOCs using hooks. Useful for using hooks with class components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-28T11:19:35Z",
+            "owner": "jul-sh",
+            "repo": "hook-into-props",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ahooks",
+          "description": "A collection of React Hooks specifically aiming at enterprise applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T11:13:20Z",
+            "owner": "alibaba",
+            "repo": "hooks",
+            "stars": 14976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@react-hookz/web",
+          "description": "A library of general-purpose React hooks built with care and SSR compatibility in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T00:05:08Z",
+            "owner": "react-hookz",
+            "repo": "web",
+            "stars": 2212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-recipes",
+          "description": "👩‍🍳 Collection of essential hook recipes 🥘",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-23T04:18:36Z",
+            "owner": "craig1123",
+            "repo": "react-recipes",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunflower(🌻)",
+          "description": "Collection of React Hooks returning components of antd.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T02:12:55Z",
+            "owner": "ant-design",
+            "repo": "sunflower",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Captain hook",
+          "description": "Modest list of hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-04-18T09:03:27Z",
+            "owner": "stevenpersia",
+            "repo": "captain-hook",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crooks",
+          "description": "A collection of unique React Hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-19T01:51:44Z",
+            "owner": "chrisjpatty",
+            "repo": "crooks",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hooks-by-example",
+          "description": "Collection of beginner-friendly real world examples of hook usage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-31T17:51:16Z",
+            "owner": "latviancoder",
+            "repo": "hooks-by-example",
+            "stars": 135
+          }
+        }
+      ],
+      "title": "Catalogs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Hooks for fetching, caching and updating asynchronous data in React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:30:24Z",
+            "owner": "TanStack",
+            "repo": "query",
+            "stars": 50117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Form validation without the hassle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T11:44:31Z",
+            "owner": "react-hook-form",
+            "repo": "react-hook-form",
+            "stars": 44823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Collection of essential hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T18:51:23Z",
+            "owner": "streamich",
+            "repo": "react-use",
+            "stars": 44012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hooks library for remote data fetching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:38:25Z",
+            "owner": "vercel",
+            "repo": "swr",
+            "stars": 32456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React media query module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-01T21:26:29Z",
+            "owner": "yocontra",
+            "repo": "react-responsive",
+            "stars": 7173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:39:44Z",
+            "owner": "thebuilder",
+            "repo": "react-intersection-observer",
+            "stars": 5537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Easy peasy global state for React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-30T13:33:53Z",
+            "owner": "ctrlplusb",
+            "repo": "easy-peasy",
+            "stars": 5038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook to use immer to manipulate state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-17T11:16:07Z",
+            "owner": "immerjs",
+            "repo": "use-immer",
+            "stars": 4548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-09T09:39:17Z",
+            "owner": "jaredpalmer",
+            "repo": "the-platform",
+            "stars": 4369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Transform your local state into global state using and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:07:34Z",
+            "owner": "diegohaz",
+            "repo": "constate",
+            "stars": 4004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A collection of hooks for use with Firebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-22T13:31:16Z",
+            "owner": "CSFrequency",
+            "repo": "react-firebase-hooks",
+            "stars": 3635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for hotkeys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T08:10:39Z",
+            "owner": "JohannesKlauss",
+            "repo": "react-hotkeys-hook",
+            "stars": 3499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A debounce (and throttle) hook for React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T07:03:41Z",
+            "owner": "xnimorz",
+            "repo": "use-debounce",
+            "stars": 3383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⚙️ Running heavy task in background using web workers, without blocking the UI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-06T17:32:01Z",
+            "owner": "alewin",
+            "repo": "useWorker",
+            "stars": 3114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React useContextSelector hook in userland.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-08T21:45:37Z",
+            "owner": "dai-shi",
+            "repo": "use-context-selector",
+            "stars": 2961
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T15:22:43Z",
+            "owner": "dai-shi",
+            "repo": "react-tracked",
+            "stars": 2821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🐶 useFetch, React hook for making isomorphic http requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-07T16:10:12Z",
+            "owner": "ava",
+            "repo": "use-http",
+            "stars": 2300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React Hook for managing state in URL query parameters with easy serialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-01-21T23:42:33Z",
+            "owner": "pbeshai",
+            "repo": "use-query-params",
+            "stars": 2230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "An easy way to use RxJS v6+ with react hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-07T09:44:29Z",
+            "owner": "LeetCode-OpenSource",
+            "repo": "rxjs-hooks",
+            "stars": 2179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Lightweight React bindings for MobX based on experimental React hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-12-30T16:20:49Z",
+            "owner": "mobxjs",
+            "repo": "mobx-react-lite",
+            "stars": 2118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React swipe event handler hook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-23T19:01:23Z",
+            "owner": "FormidableLabs",
+            "repo": "react-swipeable",
+            "stars": 2113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A small collection of utility hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T09:55:42Z",
+            "owner": "kitze",
+            "repo": "react-hanger",
+            "stars": 1930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-21T08:09:36Z",
+            "owner": "kentcdodds",
+            "repo": "use-deep-compare-effect",
+            "stars": 1918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Minimal hooks-first GraphQL client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:55:22Z",
+            "owner": "nearform",
+            "repo": "graphql-hooks",
+            "stars": 1886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Modern, very fast and extendable state management for React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-20T22:46:54Z",
+            "owner": "avkonst",
+            "repo": "hookstate",
+            "stars": 1655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "State management that tailored for react, it is simple, predictable, progressive and efficient.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T07:13:06Z",
+            "owner": "heluxjs",
+            "repo": "helux",
+            "stars": 1387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "📍 React hook for Google Maps Places Autocomplete.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-02T14:39:17Z",
+            "owner": "wellyshen",
+            "repo": "use-places-autocomplete",
+            "stars": 1292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A custom React Hook to help you implement a \"dark mode\" component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T15:59:16Z",
+            "owner": "donavon",
+            "repo": "use-dark-mode",
+            "stars": 1282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🍿 React hook for highly-performant and manipulable animations using Web Animations API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-12T16:38:17Z",
+            "owner": "wellyshen",
+            "repo": "use-web-animations",
+            "stars": 1271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "♻️ A tiny React hook for rendering large datasets like a breeze.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-12T16:38:49Z",
+            "owner": "wellyshen",
+            "repo": "react-cool-virtual",
+            "stars": 1221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to fetch ad-hoc data into your React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-08T12:55:35Z",
+            "owner": "slorber",
+            "repo": "react-async-hook",
+            "stars": 1189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A simple global state management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-29T08:16:18Z",
+            "owner": "dai-shi",
+            "repo": "react-hooks-global-state",
+            "stars": 1099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "👩‍🍳 Collection of essential hook recipes 🥘",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-23T04:18:36Z",
+            "owner": "craig1123",
+            "repo": "react-recipes",
+            "stars": 1044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "📏 React hook to measure an element's size and handle responsive components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-12T16:39:34Z",
+            "owner": "wellyshen",
+            "repo": "react-cool-dimensions",
+            "stars": 934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for managing form and inputs state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T21:38:48Z",
+            "owner": "wsmd",
+            "repo": "react-use-form-state",
+            "stars": 927
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🌀 usePortal, React hook for Portals",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T07:31:54Z",
+            "owner": "iamthesiz",
+            "repo": "react-useportal",
+            "stars": 885
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to or else.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-12T16:39:58Z",
+            "owner": "wellyshen",
+            "repo": "react-cool-portal",
+            "stars": 732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React custom hooks for web workers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-05T10:28:34Z",
+            "owner": "dai-shi",
+            "repo": "react-hooks-worker",
+            "stars": 711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook which syncs with the comp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-23T17:19:55Z",
+            "owner": "rehooks",
+            "repo": "local-storage",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hook for pub-sub behavior using React Router.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-09-19T21:47:32Z",
+            "owner": "CharlesStover",
+            "repo": "use-react-router",
+            "stars": 563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🖥️ React hook to monitor an element enters or leaves the viewport (or another element).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-12T16:40:16Z",
+            "owner": "wellyshen",
+            "repo": "react-cool-onclickoutside",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🖱 React hook to listen for clicks outside of the component(s).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-12T16:40:16Z",
+            "owner": "wellyshen",
+            "repo": "react-cool-onclickoutside",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A set of reusable react hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-06T08:14:17Z",
+            "owner": "beizhedenglong",
+            "repo": "react-hooks-lib",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "CSS media queries with React hook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-14T00:02:53Z",
+            "owner": "streamich",
+            "repo": "use-media",
+            "stars": 522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Redux binding with React Hooks and Proxy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-12T06:32:14Z",
+            "owner": "dai-shi",
+            "repo": "reactive-react-redux",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React custom hooks for async functions with abortability and composability",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T03:01:51Z",
+            "owner": "dai-shi",
+            "repo": "react-hooks-async",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A set of React Hooks to handle mouse events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T04:31:26Z",
+            "owner": "sandiiarov",
+            "repo": "use-events",
+            "stars": 494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for the Fetch API with support for Suspense.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-02-11T19:30:21Z",
+            "owner": "CharlesStover",
+            "repo": "fetch-suspense",
+            "stars": 492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to implement Undo and Redo functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T08:14:06Z",
+            "owner": "homerchen19",
+            "repo": "use-undo",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for conveniently use Fetch API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T10:31:29Z",
+            "owner": "ilyalesik",
+            "repo": "react-fetch-hook",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hook for state management with Profunctor Optics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-01-13T09:14:37Z",
+            "owner": "staltz",
+            "repo": "use-profunctor-state",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to automatically update navigation based on scroll position.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-15T17:45:17Z",
+            "owner": "Purii",
+            "repo": "react-use-scrollspy",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Complex Loader Management Hook for React Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-08-22T20:56:04Z",
+            "owner": "f",
+            "repo": "react-wait",
+            "stars": 306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "👖 A hooks-first CSS-in-JS library, focused on semantics and runtime performance",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-11T01:56:51Z",
+            "owner": "danieldelcore",
+            "repo": "trousers",
+            "stars": 299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React Native plugin to run React and handle communication between them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-13T08:41:03Z",
+            "owner": "inokawa",
+            "repo": "react-native-react-bridge",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-13T10:25:53Z",
+            "owner": "turkyden",
+            "repo": "react-darkreader",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A headless calendar hook for React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-01T15:28:41Z",
+            "owner": "Avarios",
+            "repo": "use-lilius",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "☯️ React hook to determine if you are on the server, browser, or react native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-14T23:21:29Z",
+            "owner": "iamthesiz",
+            "repo": "use-ssr",
+            "stars": 263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook that copies text to a user's clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-24T23:06:26Z",
+            "owner": "danoc",
+            "repo": "react-use-clipboard",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "It's react's useEffect/useMemo/useCallback hooks, except using deep comparison on the inputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T11:09:32Z",
+            "owner": "sandiiarov",
+            "repo": "use-deep-compare",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Hooks for browser Speech Recognition and Speech Synthesis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-01T16:22:54Z",
+            "owner": "MikeyParton",
+            "repo": "react-speech-kit",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "📋 React hooks for forms state and validation, less code more performant.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-07-27T15:44:02Z",
+            "owner": "wellyshen",
+            "repo": "react-cool-form",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for determining the size of a component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-05T10:55:06Z",
+            "owner": "rehooks",
+            "repo": "component-size",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for handle easily the Google Tag Manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-04T06:26:27Z",
+            "owner": "elgorditosalsero",
+            "repo": "react-gtm-hook",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hooks for universal cookies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-09T19:08:00Z",
+            "owner": "ItsBenCodes",
+            "repo": "cookies",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A delightful modal dialog component for React, built from the ground up to support React Hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T18:41:20Z",
+            "owner": "upmostly",
+            "repo": "modali",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hooks to svg drawing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-28T05:58:53Z",
+            "owner": "kmkzt",
+            "repo": "react-hooks-svgdrawing",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🔥 React hooks for socket.io, SEE and more to come",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-14T07:21:16Z",
+            "owner": "mfrachet",
+            "repo": "server-push-hooks",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for forcing re-render of a functional Component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-12T18:56:52Z",
+            "owner": "quisido",
+            "repo": "use-force-update",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React useReducer with async actions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-19T15:26:06Z",
+            "owner": "dai-shi",
+            "repo": "use-reducer-async",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React hook to reading from and writing to the user's clipboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-09T23:32:26Z",
+            "owner": "CharlesStover",
+            "repo": "use-clippy",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook to open the modal easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T22:40:14Z",
+            "owner": "microcmsio",
+            "repo": "react-hooks-use-modal",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook that does a fetch and aborts when the components is unloaded or a different request is made.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-15T07:03:35Z",
+            "owner": "mauricedb",
+            "repo": "use-abortable-fetch",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Ponyfill for the proposed React Hooks API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-15T09:19:41Z",
+            "owner": "yesmeck",
+            "repo": "react-with-hooks",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for generating async memoized data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-01T06:35:54Z",
+            "owner": "awmleer",
+            "repo": "use-async-memo",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Global state management with React Hooks. It also supports the use of middleware like redux-thunk or redux-saga or your own custom middleware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-11T16:21:58Z",
+            "owner": "iusehooks",
+            "repo": "redhooks",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "✨useSSE - use Server-Side Effect. both on client and server side.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-05T17:14:29Z",
+            "owner": "kmoskwiak",
+            "repo": "useSSE",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Returns information about scroll speed, distance, direction and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T03:41:43Z",
+            "owner": "dejorrit",
+            "repo": "scroll-data-hook",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for subscribing to window size.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-01T01:48:44Z",
+            "owner": "rehooks",
+            "repo": "window-size",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to dynamically load an external script and know when its loaded",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-07T20:39:08Z",
+            "owner": "hupe1980",
+            "repo": "react-script-hook",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook that tracks mouse events on selected element 🐭",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-15T12:10:02Z",
+            "owner": "mkosir",
+            "repo": "react-hook-mighty-mouse",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hook for Online status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-11T17:51:54Z",
+            "owner": "rehooks",
+            "repo": "online-status",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook to show your current playing song from Spotify or any other site last.fm supports in realtime. ♪",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-20T20:56:13Z",
+            "owner": "alii",
+            "repo": "use-last-fm",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A global state management framework with a hook .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-08T23:59:30Z",
+            "owner": "regionjs",
+            "repo": "region",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Managed, cancelable and safe-oriented api requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-09T13:56:46Z",
+            "owner": "schettino",
+            "repo": "react-request-hook",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for creating input values.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-01T02:37:56Z",
+            "owner": "rehooks",
+            "repo": "input-value",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for detecting when an element was scrolled to bottom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T17:53:32Z",
+            "owner": "tudorgergely",
+            "repo": "use-scroll-to-bottom",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for subscribing to your single app state (works with your current Redux app).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-17T14:13:41Z",
+            "owner": "philipp-spiess",
+            "repo": "use-substate",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Hooks api for react-powerplug components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-09T19:48:04Z",
+            "owner": "kalcifer",
+            "repo": "react-powerhooks",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to communicate among browser contexts (tabs, windows, iframes).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-12-28T06:01:29Z",
+            "owner": "AvraamMavridis",
+            "repo": "react-window-communication-hook",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A collection of useful React hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T00:49:22Z",
+            "owner": "zakariaharti",
+            "repo": "react-hookedup",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Collection of hook-based memoized selector factories for declarations outside of render.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-29T22:50:25Z",
+            "owner": "Andarist",
+            "repo": "react-selector-hooks",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for getting window and position.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-01T02:37:59Z",
+            "owner": "rehooks",
+            "repo": "window-scroll-position",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-04-15T16:14:18Z",
+            "owner": "jorisre",
+            "repo": "react-screen-wake-lock",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook when you want a callback invoked when a DOM element was not clicked.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-09T05:54:51Z",
+            "owner": "geobde",
+            "repo": "use-click-away",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🖼 useModal, React hook for Modals/Dialogs/Lightboxes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T11:05:37Z",
+            "owner": "iamthesiz",
+            "repo": "use-react-modal",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Dead simple yet powerful countdown hook for React. Powered by .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-01T02:06:43Z",
+            "owner": "alexkhismatulin",
+            "repo": "react-use-count-down",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "An alternative to that accepts middlewares.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-30T13:19:18Z",
+            "owner": "o0y0o",
+            "repo": "use-reducer-x",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for getting network-status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-01T02:37:55Z",
+            "owner": "rehooks",
+            "repo": "network-status",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for using as-bind with a WASM source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-23T01:56:05Z",
+            "owner": "tylervipond",
+            "repo": "use-as-bind",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Async HTTP request data for axios. Designed for diverse UI states, SSR and data pre-caching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T01:53:29Z",
+            "owner": "RyanRoll",
+            "repo": "react-use-api",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook to bind redux.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-06-13T22:02:37Z",
+            "owner": "flepretre",
+            "repo": "use-redux",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for Media Queries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-02T16:21:07Z",
+            "owner": "betterminddev",
+            "repo": "react-media-hook",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for updating the document-title.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-01T01:01:47Z",
+            "owner": "rehooks",
+            "repo": "document-title",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook utility library.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-30T21:56:30Z",
+            "owner": "withvoid",
+            "repo": "melting-pot",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to detect when a page is being printed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T16:25:33Z",
+            "owner": "gregnb",
+            "repo": "use-detect-print",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hooks for handle auth stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-20T11:13:57Z",
+            "owner": "inmagik",
+            "repo": "use-eazy-auth",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook for implementing a calendar with events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-01T12:36:28Z",
+            "owner": "gregnb",
+            "repo": "react-use-calendar",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A set of React Hooks to get hooked on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T07:51:44Z",
+            "owner": "tau-engineering",
+            "repo": "reggie",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for simplifying Promise based data fetching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-15T06:57:10Z",
+            "owner": "saivanji",
+            "repo": "promise-hook",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React lifecycle and utilities hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-08-11T04:28:31Z",
+            "owner": "dispix",
+            "repo": "react-pirate",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for socket.io-client, manipulate socket.io client without any side effect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-04-03T09:40:24Z",
+            "owner": "iamgyz",
+            "repo": "use-socket.io-client",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to handle forms state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-04T20:14:32Z",
+            "owner": "GeDiez",
+            "repo": "react-use-formless",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-28T13:36:28Z",
+            "owner": "daniel-dx",
+            "repo": "nice-hooks",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to track the visibility of a functional component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-30T08:16:40Z",
+            "owner": "AvraamMavridis",
+            "repo": "react-intersection-visible-hook",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Multi-language using hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-15T03:26:12Z",
+            "owner": "streamich",
+            "repo": "use-t",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A Progressive Solution for Query Table Scene.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-19T13:45:51Z",
+            "owner": "ahooksjs",
+            "repo": "useTable",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "useState and useReducer using Immer to update state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-27T03:02:00Z",
+            "owner": "sin",
+            "repo": "react-immer-hooks",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for storing value in the browser using .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-11T17:55:39Z",
+            "owner": "kigiri",
+            "repo": "react-use-idb",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for using the scroll position.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-06-01T17:50:06Z",
+            "owner": "neo",
+            "repo": "react-use-scroll-position",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "is a React Hook to check when the component is mounted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T03:44:13Z",
+            "owner": "helderberto",
+            "repo": "use-is-mounted-ref",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hook to manage html meta tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-18T22:27:56Z",
+            "owner": "lordgiotto",
+            "repo": "react-metatags-hook",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for accessing mapped state from a Redux store.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-11-09T06:49:08Z",
+            "owner": "ianobermiller",
+            "repo": "redux-react-hook",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook wrapper around Popper.js.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-07-10T15:40:15Z",
+            "owner": "sandiiarov",
+            "repo": "use-popper",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "📬 React hook for email autocomplete inputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-12-05T00:17:05Z",
+            "owner": "ava",
+            "repo": "use-email-autocomplete",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🏥 Lightweight React hook for checking health of API services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T00:30:28Z",
+            "owner": "senviocom",
+            "repo": "react-health-check",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React CRUD hooks for axios, comprehensive list of examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T09:05:00Z",
+            "owner": "sergey-s",
+            "repo": "use-axios-react",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React hook that gives you shopping cart functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T19:19:43Z",
+            "owner": "sammdec",
+            "repo": "use-cart",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Native hook for getting screen and window dimensions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-11-28T05:03:04Z",
+            "owner": "CharlesStover",
+            "repo": "use-dimensions",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React Hook that allows you to detect X and Y overflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-08T00:48:58Z",
+            "owner": "amorriscode",
+            "repo": "use-overflow",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Simple implementation of undo/redo functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T22:48:46Z",
+            "owner": "sandiiarov",
+            "repo": "use-simple-undo",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for subscribing to document visibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-06T20:12:37Z",
+            "owner": "rehooks",
+            "repo": "document-visibility",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook to element visibility. Uses the intersection observer API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-25T22:39:43Z",
+            "owner": "kmkzt",
+            "repo": "react-hooks-visible",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for trigger effect from any place of code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T21:32:22Z",
+            "owner": "ilyalesik",
+            "repo": "react-use-trigger",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for google-recaptcha v3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-02-04T13:51:07Z",
+            "owner": "hupe1980",
+            "repo": "react-recaptcha-hook",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Custom react hook to list countries and languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-03-14T17:22:06Z",
+            "owner": "oktaysenkan",
+            "repo": "use-countries",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⚛️ Minimal \"optimistic UI\" pattern implementation with a React hook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-05T05:43:56Z",
+            "owner": "mamal72",
+            "repo": "react-optimistic-ui-hook",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "⌨️ A simple hook to make keyDown listening event easier.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-22T07:08:43Z",
+            "owner": "pranesh239",
+            "repo": "use-key-capture",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hooks to listen to both mouse down or up and click events with a once called function.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-12-11T02:45:49Z",
+            "owner": "dimitrinicolas",
+            "repo": "use-mouse-action",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to get position top left of an element.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-29T13:06:29Z",
+            "owner": "tranbathanhtung",
+            "repo": "usePosition",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hooks for getting refs of elements via context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-15T10:49:59Z",
+            "owner": "megazazik",
+            "repo": "react-context-refs",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for loading data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-21T07:54:33Z",
+            "owner": "smmoosavi",
+            "repo": "react-use-data-loader",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🤖 React hook for making request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T09:08:45Z",
+            "owner": "react-rekindle",
+            "repo": "use-request",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for manage modal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-26T05:19:07Z",
+            "owner": "wowlusitong",
+            "repo": "react-use-modal",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "The tiniest hook style react router.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-05T16:22:41Z",
+            "owner": "victorteokw",
+            "repo": "react-use-path",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for Dev.to API requests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-07-09T21:24:29Z",
+            "owner": "bdbch",
+            "repo": "react-devto",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React wrapper for PeerData library for files, media streaming/sharing using WebRTC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T15:21:12Z",
+            "owner": "vardius",
+            "repo": "react-peer-data",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React wrapper for .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T15:20:32Z",
+            "owner": "vardius",
+            "repo": "react-user-media",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for continuous double-clicks and combining click and double-click events",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-27T10:44:58Z",
+            "owner": "zattoo",
+            "repo": "use-double-click",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A finite state machine hook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-19T14:28:41Z",
+            "owner": "rkrupinski",
+            "repo": "use-state-machine",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Layout management in React.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T02:48:09Z",
+            "owner": "ytiurin",
+            "repo": "react-hook-layout",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Hook to get natural image size from url.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-16T23:27:17Z",
+            "owner": "use-hooks",
+            "repo": "react-hooks-image-size",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for using existing Redux middlewares (like thunk or saga) with .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-02T19:21:40Z",
+            "owner": "venil7",
+            "repo": "react-usemiddleware",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "HotKeys.js React Hook that listen to keydown and keyup keyboard events, defining and dispatching keyboard shortcuts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-12-11T02:13:53Z",
+            "owner": "sandiiarov",
+            "repo": "use-hotkeys",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Execute asynchronous actions with",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-18T12:14:49Z",
+            "owner": "octet-stream",
+            "repo": "use-suspender",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Utility package for creating reusable implementations of React state provider patterns from hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T03:56:56Z",
+            "owner": "mcclayton",
+            "repo": "react-state-patterns",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "infinity: :page_with_curl: :hourglass_flowing_sand: Super lightweight infinite loading (scroll) hook for React apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-12T21:46:13Z",
+            "owner": "robcalcroft",
+            "repo": "react-use-infinite-loader",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "sunrise: :zap: Add image lazy loading to your React app with ease",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T06:11:01Z",
+            "owner": "robcalcroft",
+            "repo": "react-use-lazy-load-image",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Almost same to useEffect, but not deferred.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-03T13:59:21Z",
+            "owner": "awmleer",
+            "repo": "use-action",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Determining screen size type for Bootstrap 4 grid.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-27T14:31:08Z",
+            "owner": "pankod",
+            "repo": "react-hooks-screen-type",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React hook which can register a service worker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-09T18:15:45Z",
+            "owner": "JCofman",
+            "repo": "react-hook-use-service-worker",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Super Simple React Hooks for react-redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-03-20T05:45:08Z",
+            "owner": "brn",
+            "repo": "rrh",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🎨 wirte css in js with react hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-05T16:19:34Z",
+            "owner": "style-hook",
+            "repo": "style-hook",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "It checks whether an element has scrolled into view or not.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-11-29T15:59:36Z",
+            "owner": "imbhargav5",
+            "repo": "rehooks-visibility-sensor",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Simple, accessible React hook for tracking hover state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-24T09:24:49Z",
+            "owner": "therealparmesh",
+            "repo": "use-hovering",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook that handles updating and clearing localstorage values while keeping them in sync with your components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-06T22:52:50Z",
+            "owner": "bdbch",
+            "repo": "react-localstorage",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🐶React hook for custom request，compatible with various lib, support redux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-29T07:05:09Z",
+            "owner": "zhixiaoqiang",
+            "repo": "react-request-hook",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A simple React hook for message bars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-15T03:02:13Z",
+            "owner": "zanlib0",
+            "repo": "react-use-message-bar",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Convenient helpers for handling boolean state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-08T11:08:24Z",
+            "owner": "mykolaharmash",
+            "repo": "use-boolean",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React hook to keep track of state changes for undo/redo functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-03T02:32:53Z",
+            "owner": "haydn",
+            "repo": "use-state-snapshots",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Hook to see if the user is typing within a textarea or input",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-12-22T01:10:31Z",
+            "owner": "KATT",
+            "repo": "use-is-typing",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T16:43:15Z",
+            "owner": "wednesday-solutions",
+            "repo": "react-screentype-hook",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for Github API requests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-08-14T18:36:21Z",
+            "owner": "bdbch",
+            "repo": "react-github",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hooks for caching many callbacks by key, for example, in loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-15T10:40:49Z",
+            "owner": "megazazik",
+            "repo": "react-cached-callback",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React component and hook to render children conditionally based on a promise status.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-15T12:19:19Z",
+            "owner": "moxystudio",
+            "repo": "react-promiseful",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Share Hook with Context",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T10:09:32Z",
+            "owner": "fodau",
+            "repo": "conuse",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A library containing generic react hooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-24T20:37:11Z",
+            "owner": "momentechnologies",
+            "repo": "moment-hooks",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Manage multiselect state.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T19:36:13Z",
+            "owner": "jschloer",
+            "repo": "use-multiselect",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React hook to use D3.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-06-14T14:51:13Z",
+            "owner": "inokawa",
+            "repo": "react-use-d3",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Open file dialog without struggling with file input using useFileDialog react hook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-09-04T06:13:22Z",
+            "owner": "omidnikrah",
+            "repo": "use-file-dialog",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook for using (Bootstrap-inspired) window width breakpoints",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T04:45:19Z",
+            "owner": "TyMick",
+            "repo": "use-window-width-breakpoints",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Instance functions inside FunctionComponent like and equal in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-10T16:13:13Z",
+            "owner": "MarvelSQ",
+            "repo": "use-properties-hook",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Hooks wrapping a data validation library called Indicative",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-08-19T10:17:18Z",
+            "owner": "marceloadsj",
+            "repo": "react-indicative-hooks",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Manage state and side effects like a breeze.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T03:44:15Z",
+            "owner": "inmagik",
+            "repo": "react-rocketjump",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🚀 Declarative React forms using hooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T08:38:31Z",
+            "owner": "j-a-y-h",
+            "repo": "react-uniformed",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "🎣 A hook whose setter can be directly given to HTML inputs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T03:20:10Z",
+            "owner": "robcalcroft",
+            "repo": "react-use-input",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook enabling client side hydration of Server-Side-Rendered components when server-produced markup needs to differ from the final client application markup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-26T16:13:19Z",
+            "owner": "awardit",
+            "repo": "react-use-browser",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for generating SSR-safe unique id strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-13T17:33:02Z",
+            "owner": "Yaska",
+            "repo": "react-use-id-hook",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hooks for connecting to the Wavelet smart-contract platform",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-12T06:24:42Z",
+            "owner": "perlin-network",
+            "repo": "react-use-wavelet",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook that allows you to set simple drag and drop functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-19T17:10:33Z",
+            "owner": "sbaidon",
+            "repo": "useDropZone",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook returning the window's orientation (portrait vs. landscape) based off of current window dimensions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-10-30T17:11:00Z",
+            "owner": "TyMick",
+            "repo": "use-window-orientation",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hooks for non-primitive dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-25T21:25:36Z",
+            "owner": "codeshake",
+            "repo": "react-deep-hooks",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hook for managing the page title.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-04T22:42:33Z",
+            "owner": "RyanFitzgerald",
+            "repo": "react-page-name",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook that caches API requests that works with redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-02-05T12:14:50Z",
+            "owner": "grug",
+            "repo": "react-use-fetch-with-redux",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook that takes care of fetching and selecting data with redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-27T07:00:31Z",
+            "owner": "JohannesKlauss",
+            "repo": "react-use-fetch-factory",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React hook about triggers once only when dependencies have changed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-08-19T08:48:05Z",
+            "owner": "iam-frankqiu",
+            "repo": "react-use-watch",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React hook to handle browser history events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-02-15T16:10:43Z",
+            "owner": "zcallan",
+            "repo": "use-browser-history",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to turn numeric input behavior into pretty much what you expect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-07T08:58:34Z",
+            "owner": "d-asensio",
+            "repo": "use-controlled-input-number",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for creating input file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-08T14:04:14Z",
+            "owner": "neighborhood999",
+            "repo": "use-input-file",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React hook for deferring state change. That's essential when your UI needs to wait for disappearing animation is complete to unmount component.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-02-28T15:49:38Z",
+            "owner": "msereniti",
+            "repo": "useDeferredState",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Form library. Exposes dispatch to allow for the library to be extended through side effects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-08-12T15:09:43Z",
+            "owner": "ckedwards",
+            "repo": "react-form-stateful",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T22:11:09Z",
+            "owner": "bboydflo",
+            "repo": "use-value-after",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A simple hook to wait for elements to be rendered with MutationObserver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-03-17T15:18:58Z",
+            "owner": "renansoares",
+            "repo": "useWaitForElements",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A hook that reads the HTML element's attribute value and any updates to that value allowing you to update your UI accordingly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-04T16:29:43Z",
+            "owner": "davidicus",
+            "repo": "use-lang-direction",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hook for set the page title when the user is shifting focus away from the current window.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-08-12T21:56:15Z",
+            "owner": "cyntler",
+            "repo": "use-window-blur-change-title",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook based declarative form library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-11-18T06:41:28Z",
+            "owner": "andy9775",
+            "repo": "react-declare-form",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook that adds local storage support to the hook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-06T00:39:05Z",
+            "owner": "Tweries",
+            "repo": "useReducerWithLocalStorage",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Elegant form management primitives for the react hooks era.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook for subscribing to the event.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "useState like hook for global state management.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Multiple state management using React Hooks API.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "A React hook for returning autocomplete values for a search string within an array.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "a reactive alternative to React's .",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook that automatically adds the next page, saving users from a full page load.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React hook to fetch the graphics card information of the client using canvas",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hook that colocates reducer and side effects",
+          "children": []
+        }
+      ],
+      "title": "Packages"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:35.908Z",
+    "original_repository": "rehooks/awesome-react-hooks",
+    "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
+    "enhanced_repository": "enhansome/enhansome-react-hooks",
+    "enhanced_repository_description": null,
+    "title": "awesome-react-hooks with stars"
+  }
+}
