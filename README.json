@@ -194,7 +194,7 @@
             "last_commit": "2026-06-10T18:51:23Z",
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44012
+            "stars": 44013
           }
         },
         {
@@ -3112,7 +3112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:35.908Z",
+    "last_updated": "2026-08-13T06:07:34.041Z",
     "original_repository": "rehooks/awesome-react-hooks",
     "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
     "enhanced_repository": "enhansome/enhansome-react-hooks",
