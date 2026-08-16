@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T11:13:49Z",
+            "last_commit": "2026-08-16T05:13:22Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50136
+            "stars": 50144
           }
         },
         {
@@ -177,7 +177,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T00:24:36Z",
+            "last_commit": "2026-08-16T00:59:55Z",
             "owner": "react-hook-form",
             "repo": "react-hook-form",
             "stars": 44823
@@ -194,7 +194,7 @@
             "last_commit": "2026-06-10T18:51:23Z",
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44015
+            "stars": 44016
           }
         },
         {
@@ -208,7 +208,7 @@
             "last_commit": "2026-08-13T17:10:47Z",
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32456
+            "stars": 32457
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T18:32:27Z",
+            "last_commit": "2026-08-15T21:00:18Z",
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4003
@@ -3112,7 +3112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:09:20.128Z",
+    "last_updated": "2026-08-16T05:13:34.951Z",
     "original_repository": "rehooks/awesome-react-hooks",
     "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
     "enhanced_repository": "enhansome/enhansome-react-hooks",
