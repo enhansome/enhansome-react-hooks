@@ -62,7 +62,7 @@
             "last_commit": "2026-08-09T11:13:20Z",
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14975
+            "stars": 14974
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T00:04:04Z",
+            "last_commit": "2026-08-17T00:03:50Z",
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2212
+            "stars": 2211
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T05:13:22Z",
+            "last_commit": "2026-08-17T03:18:03Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50144
+            "stars": 50148
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-16T00:59:55Z",
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44823
+            "stars": 44821
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2026-06-10T18:51:23Z",
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44016
+            "stars": 44017
           }
         },
         {
@@ -289,7 +289,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T21:00:18Z",
+            "last_commit": "2026-08-16T21:26:41Z",
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4003
@@ -317,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T08:10:39Z",
+            "last_commit": "2026-08-17T04:39:21Z",
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3503
+            "stars": 3502
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-08-05T07:03:41Z",
             "owner": "xnimorz",
             "repo": "use-debounce",
-            "stars": 3383
+            "stars": 3384
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2023-08-29T08:16:18Z",
             "owner": "dai-shi",
             "repo": "react-hooks-global-state",
-            "stars": 1099
+            "stars": 1098
           }
         },
         {
@@ -880,7 +880,7 @@
             "last_commit": "2024-08-15T17:45:17Z",
             "owner": "Purii",
             "repo": "react-use-scrollspy",
-            "stars": 316
+            "stars": 315
           }
         },
         {
@@ -3112,7 +3112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:13:34.951Z",
+    "last_updated": "2026-08-17T05:22:33.918Z",
     "original_repository": "rehooks/awesome-react-hooks",
     "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
     "enhanced_repository": "enhansome/enhansome-react-hooks",
