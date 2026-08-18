@@ -69,33 +69,33 @@
 
 ## Packages
 
-* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,148 | 🐛 245 | 🌐 TypeScript | 📅 2026-08-17 Hooks for fetching, caching and updating asynchronous data in React.
-* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,821 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-16 Form validation without the hassle.
-* [`react-use`](https://github.com/streamich/react-use) ⭐ 44,017 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
-* [`swr`](https://github.com/zeit/swr) ⭐ 32,457 | 🐛 214 | 🌐 TypeScript | 📅 2026-08-13 React Hooks library for remote data fetching.
+* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,149 | 🐛 210 | 🌐 TypeScript | 📅 2026-08-17 Hooks for fetching, caching and updating asynchronous data in React.
+* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,817 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-16 Form validation without the hassle.
+* [`react-use`](https://github.com/streamich/react-use) ⭐ 44,016 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
+* [`swr`](https://github.com/zeit/swr) ⭐ 32,454 | 🐛 215 | 🌐 TypeScript | 📅 2026-08-13 React Hooks library for remote data fetching.
 * [`react-responsive`](https://github.com/contra/react-responsive) ⭐ 7,172 | 🐛 5 | 🌐 TypeScript | 📅 2025-03-01 React media query module.
 * [`useInView`](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,538 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-12 React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 * [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) ⭐ 5,037 | 🐛 27 | 🌐 JavaScript | 📅 2026-06-30 Easy peasy global state for React.
-* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,548 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 28,974 | 🐛 57 | 🌐 JavaScript | 📅 2026-08-16 to manipulate state.
+* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,546 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 28,977 | 🐛 58 | 🌐 JavaScript | 📅 2026-08-16 to manipulate state.
 * [`the-platform`](https://github.com/palmerhq/the-platform) ⭐ 4,369 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-09 Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
-* [`constate`](https://github.com/diegohaz/constate) ⭐ 4,003 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-16 Transform your local state into global state using `useContextState` and `useContextReducer`.
+* [`constate`](https://github.com/diegohaz/constate) ⭐ 4,003 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-17 Transform your local state into global state using `useContextState` and `useContextReducer`.
 * [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) ⭐ 3,635 | 🐛 43 | 🌐 TypeScript | 📅 2024-04-22 A collection of hooks for use with [Firebase](https://firebase.google.com).
-* [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) ⭐ 3,502 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-17 React hook for hotkeys.
+* [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) ⭐ 3,503 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-17 React hook for hotkeys.
 * [`use-debounce`](https://github.com/xnimorz/use-debounce) ⭐ 3,384 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-05 A debounce (and throttle) hook for React.
-* [`@koale/useworker`](https://github.com/alewin/useWorker) ⭐ 3,114 | 🐛 30 | 🌐 JavaScript | 📅 2026-06-06 ⚙️ Running heavy task in background using web workers, without blocking the UI
+* [`@koale/useworker`](https://github.com/alewin/useWorker) ⭐ 3,113 | 🐛 30 | 🌐 JavaScript | 📅 2026-06-06 ⚙️ Running heavy task in background using web workers, without blocking the UI
 * [`use-context-selector`](https://github.com/dai-shi/use-context-selector) ⭐ 2,961 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-08 React useContextSelector hook in userland.
 * [`react-tracked`](https://github.com/dai-shi/react-tracked) ⭐ 2,821 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-19 Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.
-* [`use-http`](https://github.com/alex-cory/use-http) ⭐ 2,300 | 🐛 91 | 🌐 TypeScript | 📅 2024-02-07 🐶 useFetch, React hook for making isomorphic http requests.
+* [`use-http`](https://github.com/alex-cory/use-http) ⭐ 2,300 | 🐛 92 | 🌐 TypeScript | 📅 2024-02-07 🐶 useFetch, React hook for making isomorphic http requests.
 * [`use-query-params`](https://github.com/pbeshai/use-query-params) ⭐ 2,232 | 🐛 44 | 🌐 TypeScript | 📅 2026-01-21 A React Hook for managing state in URL query parameters with easy serialization.
 * [`rxjs-hooks`](https://github.com/LeetCode-OpenSource/rxjs-hooks) ⭐ 2,179 | 🐛 21 | 🌐 TypeScript | 📅 2023-04-07 An easy way to use RxJS v6+ with react hooks.
 * [`mobx-react-lite`](https://github.com/mobxjs/mobx-react-lite) ⚠️ Archived Lightweight React bindings for MobX based on experimental React hooks.
 * [`react-swipeable`](https://github.com/dogfessional/react-swipeable) ⭐ 2,113 | 🐛 31 | 🌐 TypeScript | 📅 2024-12-23 React swipe event handler hook.
 * [`react-hanger`](https://github.com/kitze/react-hanger) ⭐ 1,930 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-13 A small collection of utility hooks.
-* [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) ⭐ 1,918 | 🐛 8 | 🌐 TypeScript | 📅 2024-08-21 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
-* [`graphql-hooks`](https://github.com/nearform/graphql-hooks) ⭐ 1,886 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-14 Minimal hooks-first GraphQL client.
-* [`@hookstate/core`](https://github.com/avkonst/hookstate) ⭐ 1,655 | 🐛 32 | 🌐 TypeScript | 📅 2025-03-20 Modern, very fast and extendable state management for React.
+* [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) ⭐ 1,917 | 🐛 8 | 🌐 TypeScript | 📅 2024-08-21 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
+* [`graphql-hooks`](https://github.com/nearform/graphql-hooks) ⭐ 1,886 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-17 Minimal hooks-first GraphQL client.
+* [`@hookstate/core`](https://github.com/avkonst/hookstate) ⭐ 1,654 | 🐛 32 | 🌐 TypeScript | 📅 2025-03-20 Modern, very fast and extendable state management for React.
 * [`concent`](https://github.com/concentjs/concent) ⭐ 1,387 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-20 State management that tailored for react, it is simple, predictable, progressive and efficient.
-* [`use-places-autocomplete`](https://github.com/wellyshen/use-places-autocomplete) ⭐ 1,292 | 🐛 42 | 🌐 TypeScript | 📅 2025-04-02 📍 React hook for Google Maps Places Autocomplete.
+* [`use-places-autocomplete`](https://github.com/wellyshen/use-places-autocomplete) ⭐ 1,291 | 🐛 42 | 🌐 TypeScript | 📅 2025-04-02 📍 React hook for Google Maps Places Autocomplete.
 * [`useDarkMode`](https://github.com/donavon/use-dark-mode) ⭐ 1,282 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-03 A custom React Hook to help you implement a "dark mode" component.
 * [`@wellyshen/use-web-animations`](https://github.com/wellyshen/use-web-animations) ⭐ 1,271 | 🐛 24 | 🌐 TypeScript | 📅 2023-08-12 🍿 React hook for highly-performant and manipulable animations using Web Animations API.
 * [`react-cool-virtual`](https://github.com/wellyshen/react-cool-virtual) ⭐ 1,221 | 🐛 37 | 🌐 TypeScript | 📅 2023-08-12 ♻️ A tiny React hook for rendering large datasets like a breeze.
@@ -291,4 +291,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
