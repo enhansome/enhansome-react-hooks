@@ -69,14 +69,14 @@
 
 ## Packages
 
-* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,161 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-19 Hooks for fetching, caching and updating asynchronous data in React.
+* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,164 | 🐛 175 | 🌐 TypeScript | 📅 2026-08-19 Hooks for fetching, caching and updating asynchronous data in React.
 * [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,821 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 Form validation without the hassle.
 * [`react-use`](https://github.com/streamich/react-use) ⭐ 44,017 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
-* [`swr`](https://github.com/zeit/swr) ⭐ 32,458 | 🐛 215 | 🌐 TypeScript | 📅 2026-08-13 React Hooks library for remote data fetching.
+* [`swr`](https://github.com/zeit/swr) ⭐ 32,459 | 🐛 215 | 🌐 TypeScript | 📅 2026-08-13 React Hooks library for remote data fetching.
 * [`react-responsive`](https://github.com/contra/react-responsive) ⭐ 7,172 | 🐛 5 | 🌐 TypeScript | 📅 2025-03-01 React media query module.
 * [`useInView`](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,538 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-18 React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 * [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) ⭐ 5,037 | 🐛 27 | 🌐 JavaScript | 📅 2026-06-30 Easy peasy global state for React.
-* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,546 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 28,979 | 🐛 58 | 🌐 JavaScript | 📅 2026-08-16 to manipulate state.
+* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,546 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 28,980 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-19 to manipulate state.
 * [`the-platform`](https://github.com/palmerhq/the-platform) ⭐ 4,369 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-09 Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 * [`constate`](https://github.com/diegohaz/constate) ⭐ 4,004 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-18 Transform your local state into global state using `useContextState` and `useContextReducer`.
 * [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) ⭐ 3,635 | 🐛 43 | 🌐 TypeScript | 📅 2024-04-22 A collection of hooks for use with [Firebase](https://firebase.google.com).
