@@ -66,7 +66,7 @@
             "last_commit": "2026-08-09T11:13:20Z",
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14977
+            "stars": 14978
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T00:48:22Z",
+            "last_commit": "2026-08-21T04:59:39Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50168
+            "stars": 50178
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 174038031,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T00:24:46Z",
+            "last_commit": "2026-08-21T00:24:02Z",
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44824
+            "stars": 44825
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-06-10T18:51:23Z",
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44019
+            "stars": 44018
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-05T07:03:41Z",
             "owner": "xnimorz",
             "repo": "use-debounce",
-            "stars": 3384
+            "stars": 3385
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-05-19T15:22:43Z",
             "owner": "dai-shi",
             "repo": "react-tracked",
-            "stars": 2821
+            "stars": 2820
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-17T21:07:01Z",
             "owner": "nearform",
             "repo": "graphql-hooks",
-            "stars": 1887
+            "stars": 1886
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2025-03-20T22:46:54Z",
             "owner": "avkonst",
             "repo": "hookstate",
-            "stars": 1654
+            "stars": 1652
           }
         },
         {
@@ -732,7 +732,7 @@
             "last_commit": "2023-03-05T10:28:34Z",
             "owner": "dai-shi",
             "repo": "react-hooks-worker",
-            "stars": 711
+            "stars": 710
           }
         },
         {
@@ -1254,7 +1254,7 @@
             "archived": false,
             "id": 156375263,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:29:12Z",
+            "last_commit": "2026-08-20T05:18:47Z",
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 160
@@ -1974,25 +1974,10 @@
             "archived": false,
             "id": 263476527,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T03:44:13Z",
+            "last_commit": "2026-08-20T19:39:03Z",
             "owner": "helderberto",
             "repo": "use-is-mounted-ref",
             "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "",
-          "description": "React Hook to manage html meta tags.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 186289354,
-            "language": "TypeScript",
-            "last_commit": "2024-06-18T22:27:56Z",
-            "owner": "lordgiotto",
-            "repo": "react-metatags-hook",
-            "stars": 39
           }
         },
         {
@@ -2008,6 +1993,21 @@
             "owner": "ianobermiller",
             "repo": "redux-react-hook",
             "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "React Hook to manage html meta tags.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 186289354,
+            "language": "TypeScript",
+            "last_commit": "2024-06-18T22:27:56Z",
+            "owner": "lordgiotto",
+            "repo": "react-metatags-hook",
+            "stars": 37
           }
         },
         {
@@ -3275,7 +3275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:16:34.201Z",
+    "last_updated": "2026-08-21T05:18:04.233Z",
     "original_repository": "rehooks/awesome-react-hooks",
     "original_repository_id": 154740303,
     "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
