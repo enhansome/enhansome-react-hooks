@@ -66,7 +66,7 @@
             "last_commit": "2026-08-09T11:13:20Z",
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14978
+            "stars": 14979
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T04:59:39Z",
+            "last_commit": "2026-08-22T03:51:48Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50178
+            "stars": 50182
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 174038031,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T00:24:02Z",
+            "last_commit": "2026-08-22T04:49:40Z",
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44825
+            "stars": 44824
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-06-10T18:51:23Z",
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44018
+            "stars": 44019
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-13T17:10:47Z",
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32459
+            "stars": 32464
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2025-03-01T21:26:29Z",
             "owner": "yocontra",
             "repo": "react-responsive",
-            "stars": 7172
+            "stars": 7171
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 127461319,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:06:31Z",
+            "last_commit": "2026-08-21T17:32:04Z",
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4004
@@ -3275,7 +3275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:18:04.233Z",
+    "last_updated": "2026-08-22T05:12:01.435Z",
     "original_repository": "rehooks/awesome-react-hooks",
     "original_repository_id": 154740303,
     "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
