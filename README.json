@@ -66,7 +66,7 @@
             "last_commit": "2026-08-09T11:13:20Z",
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14979
+            "stars": 14980
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-17T00:03:50Z",
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2211
+            "stars": 2213
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T03:51:48Z",
+            "last_commit": "2026-08-23T03:33:45Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50182
+            "stars": 50183
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 174038031,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T04:49:40Z",
+            "last_commit": "2026-08-22T11:30:33Z",
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44824
+            "stars": 44823
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-06-10T18:51:23Z",
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44019
+            "stars": 44021
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-13T17:10:47Z",
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32464
+            "stars": 32466
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 90013055,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:25:26Z",
+            "last_commit": "2026-08-22T21:44:23Z",
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
             "stars": 5538
@@ -282,7 +282,7 @@
             "last_commit": "2024-12-17T11:16:07Z",
             "owner": "immerjs",
             "repo": "use-immer",
-            "stars": 4546
+            "stars": 4545
           }
         },
         {
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 127461319,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:32:04Z",
+            "last_commit": "2026-08-23T05:09:59Z",
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4004
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-17T12:40:40Z",
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3505
+            "stars": 3506
           }
         },
         {
@@ -3275,7 +3275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T05:12:01.435Z",
+    "last_updated": "2026-08-23T05:14:55.221Z",
     "original_repository": "rehooks/awesome-react-hooks",
     "original_repository_id": 154740303,
     "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
