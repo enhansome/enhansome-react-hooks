@@ -96,7 +96,7 @@
             "last_commit": "2025-05-23T04:18:36Z",
             "owner": "craig1123",
             "repo": "react-recipes",
-            "stars": 1044
+            "stars": 1045
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:24:07Z",
+            "last_commit": "2026-08-25T04:34:27Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50197
+            "stars": 50200
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 174038031,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:17:14Z",
+            "last_commit": "2026-08-25T02:40:03Z",
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44829
+            "stars": 44832
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-06-10T18:51:23Z",
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44021
+            "stars": 44022
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-24T09:18:16Z",
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3508
+            "stars": 3509
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-05T07:03:41Z",
             "owner": "xnimorz",
             "repo": "use-debounce",
-            "stars": 3385
+            "stars": 3384
           }
         },
         {
@@ -519,7 +519,7 @@
             "archived": false,
             "id": 169704799,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:07:01Z",
+            "last_commit": "2026-08-24T21:06:18Z",
             "owner": "nearform",
             "repo": "graphql-hooks",
             "stars": 1886
@@ -657,7 +657,7 @@
             "last_commit": "2025-05-23T04:18:36Z",
             "owner": "craig1123",
             "repo": "react-recipes",
-            "stars": 1044
+            "stars": 1045
           }
         },
         {
@@ -3275,7 +3275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:50:31.841Z",
+    "last_updated": "2026-08-25T05:18:33.088Z",
     "original_repository": "rehooks/awesome-react-hooks",
     "original_repository_id": 154740303,
     "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
