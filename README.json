@@ -174,7 +174,7 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:34:27Z",
+            "last_commit": "2026-08-25T05:18:54Z",
             "owner": "TanStack",
             "repo": "query",
             "stars": 50200
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-23T11:35:07Z",
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32468
+            "stars": 32467
           }
         },
         {
@@ -3275,7 +3275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:18:33.088Z",
+    "last_updated": "2026-08-25T05:44:02.379Z",
     "original_repository": "rehooks/awesome-react-hooks",
     "original_repository_id": 154740303,
     "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
