@@ -69,7 +69,7 @@
 
 ## Packages
 
-* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,216 | 🐛 128 | 🌐 TypeScript | 📅 2026-08-27 Hooks for fetching, caching and updating asynchronous data in React.
+* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,215 | 🐛 129 | 🌐 TypeScript | 📅 2026-08-27 Hooks for fetching, caching and updating asynchronous data in React.
 * [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,840 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-26 Form validation without the hassle.
 * [`react-use`](https://github.com/streamich/react-use) ⭐ 44,023 | 🐛 663 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
 * [`swr`](https://github.com/zeit/swr) ⭐ 32,475 | 🐛 215 | 🌐 TypeScript | 📅 2026-08-23 React Hooks library for remote data fetching.

@@ -174,10 +174,10 @@
             "archived": false,
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:02:04Z",
+            "last_commit": "2026-08-27T12:05:28Z",
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50216
+            "stars": 50215
           }
         },
         {
@@ -3275,7 +3275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:02:15.693Z",
+    "last_updated": "2026-08-27T15:32:52.429Z",
     "original_repository_info": {
       "archived": false,
       "id": 154740303,
