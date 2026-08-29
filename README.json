@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tada: React Universal Hooks : just use****** everywhere (Functional or Class Component). Support React DevTools!",
+            "homepage": null,
             "id": 173680128,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T01:41:32Z",
+            "open_issues": 2,
             "owner": "salvoravida",
             "repo": "react-universal-hooks",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "class",
+              "hook",
+              "hooks",
+              "react",
+              "react-hook",
+              "react-hooks",
+              "react-use",
+              "rehooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -26,12 +40,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Testing hooks with Jest",
+            "homepage": null,
             "id": 175285904,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-15T02:31:25Z",
+            "open_issues": 6,
             "owner": "antoinejaussoin",
             "repo": "jooks",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "hooks",
+              "react",
+              "reacthooks",
+              "testing",
+              "typescript",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -42,12 +68,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny HoC to use React hooks with class components.",
+            "homepage": "https://www.npmjs.com/package/hook-into-props",
             "id": 169903220,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-28T11:19:35Z",
+            "open_issues": 20,
             "owner": "jul-sh",
             "repo": "hook-into-props",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "codesandbox",
+              "higher-order-component",
+              "hooks",
+              "javascript",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         }
@@ -64,12 +101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/",
+            "homepage": "https://ahooks.js.org/",
             "id": 194027578,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T11:13:20Z",
+            "open_issues": 146,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14983
+            "stars": 14983,
+            "topics": [
+              "ahooks",
+              "hooks-library",
+              "react",
+              "react-hooks",
+              "umi-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -80,12 +128,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hooks done right, for browser and SSR.",
+            "homepage": "https://react-hookz.github.io/web/",
             "id": 357335336,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T00:04:43Z",
+            "open_issues": 25,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2213
+            "stars": 2213,
+            "topics": [
+              "browser",
+              "hacktoberfest",
+              "hook",
+              "hooks",
+              "react",
+              "react-hook",
+              "react-hooks",
+              "ssr"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -96,12 +158,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👩‍🍳 A list of React Hooks utility library containing popular customized hooks",
+            "homepage": null,
             "id": 217430503,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-23T04:18:36Z",
+            "open_issues": 13,
             "owner": "craig1123",
             "repo": "react-recipes",
-            "stars": 1045
+            "stars": 1045,
+            "topics": [
+              "custom-hooks",
+              "customized-hooks",
+              "hooks",
+              "react",
+              "react-components",
+              "react-hooks",
+              "react-recipes"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -112,12 +187,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦹 Process components for antd4 & antd3 by alipay industry technology",
+            "homepage": "https://ant-design.github.io/sunflower",
             "id": 191705543,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-04T02:12:55Z",
+            "open_issues": 30,
             "owner": "ant-design",
             "repo": "sunflower",
-            "stars": 490
+            "stars": 490,
+            "topics": [
+              "ant-design",
+              "antd",
+              "react",
+              "react-component",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -128,12 +214,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom React hooks for your project.",
+            "homepage": null,
             "id": 192047891,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-04-18T09:03:27Z",
+            "open_issues": 0,
             "owner": "stevenpersia",
             "repo": "captain-hook",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "custom-hooks",
+              "hooks",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -144,12 +239,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of eclectic react hooks",
+            "homepage": null,
             "id": 170631517,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-19T01:51:44Z",
+            "open_issues": 2,
             "owner": "chrisjpatty",
             "repo": "crooks",
-            "stars": 214
+            "stars": 214,
+            "topics": [
+              "collection",
+              "hooks",
+              "react",
+              "react-hooks",
+              "use"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -160,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of beginner-friendly real world examples of hook usage.",
+            "homepage": null,
             "id": 155965594,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-10-31T17:51:16Z",
+            "open_issues": 3,
             "owner": "latviancoder",
             "repo": "hooks-by-example",
-            "stars": 135
+            "stars": 135,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         }
@@ -182,12 +293,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+            "homepage": "https://tanstack.com/query",
             "id": 207645083,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T06:58:32Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:09:26Z",
+            "open_issues": 134,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50223
+            "stars": 50224,
+            "topics": [
+              "async",
+              "cache",
+              "data",
+              "fetch",
+              "graphql",
+              "hooks",
+              "query",
+              "react",
+              "rest",
+              "solid",
+              "stale",
+              "stale-while-revalidate",
+              "svelte",
+              "typescript",
+              "update",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -198,12 +331,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📋 React Hooks for form state management and validation (Web + React Native)",
+            "homepage": "https://react-hook-form.com",
             "id": 174038031,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:39:34Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:57:17Z",
+            "open_issues": 7,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44842
+            "stars": 44843,
+            "topics": [
+              "dx",
+              "form-builder",
+              "forms",
+              "react-hooks",
+              "react-native",
+              "reactjs",
+              "typescript",
+              "ux",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -214,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hooks — 👍",
+            "homepage": "http://streamich.github.io/react-use",
             "id": 154950925,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2026-06-10T18:51:23Z",
+            "open_issues": 663,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44023
+            "stars": 44022,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -230,12 +383,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hooks for Data Fetching",
+            "homepage": "https://swr.vercel.app",
             "id": 218115303,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T11:35:07Z",
+            "open_issues": 216,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32476
+            "stars": 32477,
+            "topics": [
+              "cache",
+              "data",
+              "data-fetching",
+              "fetch",
+              "hook",
+              "hooks",
+              "nextjs",
+              "react",
+              "react-native",
+              "stale-while-revalidate",
+              "suspense",
+              "swr",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -246,12 +418,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS media queries in react - for responsive design, and more.",
+            "homepage": "https://contra.io/react-responsive",
             "id": 22968365,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-01T21:26:29Z",
+            "open_issues": 5,
             "owner": "yocontra",
             "repo": "react-responsive",
-            "stars": 7171
+            "stars": 7171,
+            "topics": [
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -262,12 +441,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.",
+            "homepage": "https://roi.thebuilder.dk",
             "id": 90013055,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T12:28:18Z",
+            "open_issues": 0,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5538
+            "stars": 5538,
+            "topics": [
+              "hook",
+              "hooks",
+              "intersection-observer",
+              "intersectionobserver",
+              "intersectionobserver-api",
+              "lazy-loading",
+              "monitor",
+              "performance",
+              "react",
+              "react-hooks",
+              "reactjs",
+              "scrolling",
+              "viewport",
+              "visibility"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -278,12 +477,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vegetarian friendly state for React",
+            "homepage": "https://easy-peasy.dev",
             "id": 154051159,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T13:33:53Z",
+            "open_issues": 27,
             "owner": "ctrlplusb",
             "repo": "easy-peasy",
-            "stars": 5039
+            "stars": 5039,
+            "topics": [
+              "hooks",
+              "immer",
+              "immutable",
+              "react",
+              "react-hooks",
+              "redux",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -294,12 +506,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use immer to drive state with a React hooks",
+            "homepage": null,
             "id": 154711754,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-17T11:16:07Z",
+            "open_issues": 12,
             "owner": "immerjs",
             "repo": "use-immer",
-            "stars": 4548
+            "stars": 4548,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -310,12 +527,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web. Components. 😂",
+            "homepage": null,
             "id": 144912647,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-09T09:39:17Z",
+            "open_issues": 40,
             "owner": "jaredpalmer",
             "repo": "the-platform",
-            "stars": 4369
+            "stars": 4369,
+            "topics": [
+              "hooks",
+              "react",
+              "react-hooks",
+              "react-suspense",
+              "suspense"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -326,12 +554,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Context + State",
+            "homepage": "https://github.com/diegohaz/constate",
             "id": 127461319,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:57:04Z",
+            "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4005
+            "stars": 4005,
+            "topics": [
+              "constate",
+              "hooks",
+              "react",
+              "react-context",
+              "react-hooks",
+              "react-state",
+              "reactjs",
+              "reakit",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -342,12 +585,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hooks for Firebase.",
+            "homepage": null,
             "id": 154829724,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-22T13:31:16Z",
+            "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3633
+            "stars": 3633,
+            "topics": [
+              "firebase",
+              "firebase-auth",
+              "firebase-authentication",
+              "firebase-cloud-firestore",
+              "firebase-cloud-storage",
+              "firebase-database",
+              "firebase-firestore",
+              "firebase-realtime-database",
+              "firebase-storage",
+              "javascript",
+              "react",
+              "react-firebase-hooks",
+              "react-hooks",
+              "react-native",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -358,12 +622,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for using keyboard shortcuts in components.",
+            "homepage": "https://react-hotkeys-hook.vercel.app/",
             "id": 159676569,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:31:07Z",
+            "open_issues": 39,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3511
+            "stars": 3511,
+            "topics": [
+              "hook",
+              "hooks",
+              "hotkey",
+              "hotkeys",
+              "javascript",
+              "react",
+              "react-hooks",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -374,12 +652,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A debounce hook for react",
+            "homepage": null,
             "id": 156849227,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T07:03:41Z",
+            "open_issues": 14,
             "owner": "xnimorz",
             "repo": "use-debounce",
-            "stars": 3385
+            "stars": 3384,
+            "topics": [
+              "debounce",
+              "react",
+              "react-hook",
+              "react-hooks",
+              "react-use",
+              "usedebounce"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -390,12 +680,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚛️ useWorker() - A React Hook for Blocking-Free Background Tasks",
+            "homepage": "https://useworker.js.org/",
             "id": 234785772,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-06T17:32:01Z",
+            "open_issues": 30,
             "owner": "alewin",
             "repo": "useWorker",
-            "stars": 3113
+            "stars": 3113,
+            "topics": [
+              "background",
+              "hook",
+              "hooks",
+              "react",
+              "thread",
+              "typescript-library",
+              "useworker",
+              "web-worker",
+              "web-worker-react",
+              "web-workers"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -406,12 +712,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React useContextSelector hook in userland",
+            "homepage": "https://www.npmjs.com/package/use-context-selector",
             "id": 195327838,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-08T21:45:37Z",
+            "open_issues": 9,
             "owner": "dai-shi",
             "repo": "use-context-selector",
-            "stars": 2961
+            "stars": 2960,
+            "topics": [
+              "custom-hook",
+              "react",
+              "react-context",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -422,12 +738,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.",
+            "homepage": "https://react-tracked.js.org",
             "id": 191557266,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-19T15:22:43Z",
+            "open_issues": 17,
             "owner": "dai-shi",
             "repo": "react-tracked",
-            "stars": 2820
+            "stars": 2820,
+            "topics": [
+              "global-states",
+              "react",
+              "react-context",
+              "react-hooks",
+              "redux",
+              "zustand"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -438,12 +766,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶  React hook for making isomorphic http requests",
+            "homepage": "https://use-http.com",
             "id": 180707102,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-02-07T16:10:12Z",
+            "open_issues": 92,
             "owner": "ava",
             "repo": "use-http",
-            "stars": 2300
+            "stars": 2300,
+            "topics": [
+              "fetch",
+              "fetch-data",
+              "graphql",
+              "http",
+              "isomorphic",
+              "mutation",
+              "query",
+              "react",
+              "react-cache",
+              "react-fetch-hook",
+              "react-hook",
+              "react-hooks",
+              "react-suspense",
+              "react-usefetch",
+              "reacthook",
+              "request",
+              "rest-client",
+              "ssr",
+              "suspense",
+              "usefetch"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -454,12 +808,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook for managing state in URL query parameters with easy serialization.",
+            "homepage": "https://pbeshai.github.io/use-query-params",
             "id": 175306912,
             "language": "TypeScript",
+            "license": "ISC",
             "last_commit": "2026-01-21T23:42:33Z",
+            "open_issues": 44,
             "owner": "pbeshai",
             "repo": "use-query-params",
-            "stars": 2232
+            "stars": 2232,
+            "topics": [
+              "hooks",
+              "query",
+              "query-parameters",
+              "queryparams",
+              "querystring",
+              "react",
+              "react-hooks",
+              "reactjs",
+              "url"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -470,12 +839,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hooks for RxJS",
+            "homepage": null,
             "id": 157676260,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-04-07T09:44:29Z",
+            "open_issues": 21,
             "owner": "LeetCode-OpenSource",
             "repo": "rxjs-hooks",
-            "stars": 2179
+            "stars": 2179,
+            "topics": [
+              "observable",
+              "react",
+              "react-hooks",
+              "rxjs",
+              "rxjs6"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -486,12 +866,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight React bindings for MobX based on React 16.8 and Hooks",
+            "homepage": "https://mobx.js.org/react-integration.html",
             "id": 156963479,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-12-30T16:20:49Z",
+            "open_issues": 0,
             "owner": "mobxjs",
             "repo": "mobx-react-lite",
-            "stars": 2118
+            "stars": 2118,
+            "topics": [
+              "mobx",
+              "observables",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -502,12 +892,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React swipe event handler hook",
+            "homepage": "https://commerce.nearform.com/open-source/react-swipeable",
             "id": 25096934,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-12-23T19:01:23Z",
+            "open_issues": 31,
             "owner": "FormidableLabs",
             "repo": "react-swipeable",
-            "stars": 2113
+            "stars": 2113,
+            "topics": [
+              "hook",
+              "mobile",
+              "react",
+              "react-hooks",
+              "swipe",
+              "swipeable",
+              "touch"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -518,12 +921,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of useful React hooks ",
+            "homepage": "https://codesandbox.io/s/44m70xm70",
             "id": 154839298,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-13T09:55:42Z",
+            "open_issues": 8,
             "owner": "kitze",
             "repo": "react-hanger",
-            "stars": 1930
+            "stars": 1930,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -534,12 +942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality",
+            "homepage": "https://npm.im/use-deep-compare-effect",
             "id": 174265014,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-21T08:09:36Z",
+            "open_issues": 8,
             "owner": "kentcdodds",
             "repo": "use-deep-compare-effect",
-            "stars": 1916
+            "stars": 1916,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -550,12 +963,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎣 Minimal hooks-first GraphQL client",
+            "homepage": null,
             "id": 169704799,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:40:42Z",
+            "open_issues": 8,
             "owner": "nearform",
             "repo": "graphql-hooks",
-            "stars": 1886
+            "stars": 1886,
+            "topics": [
+              "graphql",
+              "graphql-client",
+              "hacktoberfest",
+              "hooks",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -566,12 +991,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The simple but very powerful and incredibly fast state management for React that is based on hooks",
+            "homepage": "https://hookstate.js.org",
             "id": 189497575,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-20T22:46:54Z",
+            "open_issues": 32,
             "owner": "avkonst",
             "repo": "hookstate",
-            "stars": 1652
+            "stars": 1652,
+            "topics": [
+              "hookstate",
+              "mobx-react-alternative",
+              "plugin-architecture",
+              "react",
+              "react-global-state",
+              "react-hooks",
+              "react-state",
+              "react-state-management",
+              "react-store",
+              "redux-alternative",
+              "typescript",
+              "use-state"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -582,12 +1025,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reactive atomic state engine for React(including React 18) and all React like, carrying dependency collection feature, supporting fine-grained updates.",
+            "homepage": "https://heluxjs.github.io/helux/",
             "id": 186519945,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T07:13:06Z",
+            "open_issues": 12,
             "owner": "heluxjs",
             "repo": "helux",
-            "stars": 1388
+            "stars": 1388,
+            "topics": [
+              "atom",
+              "better-redux",
+              "better-than-recoil",
+              "concent",
+              "dependency-collection",
+              "fine-grained-responsive-updates",
+              "helux",
+              "high-performance",
+              "immutable",
+              "mutable",
+              "proxy",
+              "react",
+              "reactive",
+              "replace-recoil",
+              "signal",
+              "state",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -598,12 +1064,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 📍 React hook for Google Maps Places Autocomplete.",
+            "homepage": "https://use-places-autocomplete.netlify.app",
             "id": 234698190,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-02T14:39:17Z",
+            "open_issues": 42,
             "owner": "wellyshen",
             "repo": "use-places-autocomplete",
-            "stars": 1291
+            "stars": 1291,
+            "topics": [
+              "autocomplete",
+              "geocoding",
+              "geocoding-api",
+              "google-maps",
+              "google-maps-api",
+              "google-place-autocomplete",
+              "google-places",
+              "google-places-api",
+              "hook",
+              "places",
+              "places-autocomplete",
+              "react",
+              "typescript",
+              "use-places-autocomplete"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -614,12 +1100,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A custom React Hook to help you implement a \"dark mode\" component.",
+            "homepage": null,
             "id": 165658820,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T15:59:16Z",
+            "open_issues": 45,
             "owner": "donavon",
             "repo": "use-dark-mode",
-            "stars": 1282
+            "stars": 1282,
+            "topics": [
+              "dark-mode",
+              "dark-theme",
+              "hooks",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -630,12 +1126,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 🍿 React hook for highly-performant and manipulable animations using Web Animations API.",
+            "homepage": "https://use-web-animations.netlify.app",
             "id": 268840316,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-12T16:38:17Z",
+            "open_issues": 24,
             "owner": "wellyshen",
             "repo": "use-web-animations",
-            "stars": 1271
+            "stars": 1271,
+            "topics": [
+              "animation",
+              "hook",
+              "interaction",
+              "motion",
+              "performance",
+              "playback-control",
+              "react",
+              "transition",
+              "typescript",
+              "use-web-animations",
+              "ux",
+              "waapi",
+              "web-animations",
+              "web-animations-api"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -646,12 +1162,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 ♻️ A tiny React hook for rendering large datasets like a breeze.",
+            "homepage": null,
             "id": 364574839,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-12T16:38:49Z",
+            "open_issues": 37,
             "owner": "wellyshen",
             "repo": "react-cool-virtual",
-            "stars": 1221
+            "stars": 1221,
+            "topics": [
+              "carousel",
+              "chatroom",
+              "dom-recycle",
+              "dynamic-size",
+              "feeds",
+              "hook",
+              "infinite-scroll",
+              "lazy-loading",
+              "list",
+              "memory",
+              "performance",
+              "react",
+              "resize",
+              "server-side-rendering",
+              "smooth-scrolling",
+              "sticky-headers",
+              "table",
+              "typescript",
+              "virtualization",
+              "virtualized"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -662,12 +1204,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook to handle any async operation in React components, and prevent race conditions",
+            "homepage": "https://sebastienlorber.com/handling-api-request-race-conditions-in-react",
             "id": 154992215,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-07-08T12:55:35Z",
+            "open_issues": 32,
             "owner": "slorber",
             "repo": "react-async-hook",
-            "stars": 1189
+            "stars": 1189,
+            "topics": [
+              "hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -678,12 +1227,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NOT MAINTAINED] Simple global state for React with Hooks API without Context API",
+            "homepage": "https://www.npmjs.com/package/react-hooks-global-state",
             "id": 154989763,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-29T08:16:18Z",
+            "open_issues": 6,
             "owner": "dai-shi",
             "repo": "react-hooks-global-state",
-            "stars": 1097
+            "stars": 1097,
+            "topics": [
+              "function-components",
+              "hooks-api-react",
+              "react",
+              "state-management",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -694,12 +1254,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👩‍🍳 A list of React Hooks utility library containing popular customized hooks",
+            "homepage": null,
             "id": 217430503,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-23T04:18:36Z",
+            "open_issues": 13,
             "owner": "craig1123",
             "repo": "react-recipes",
-            "stars": 1045
+            "stars": 1045,
+            "topics": [
+              "custom-hooks",
+              "customized-hooks",
+              "hooks",
+              "react",
+              "react-components",
+              "react-hooks",
+              "react-recipes"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -710,12 +1283,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 📏 React hook to measure an element's size and handle responsive components.",
+            "homepage": "https://react-cool-dimensions.netlify.app",
             "id": 262532098,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-12T16:39:34Z",
+            "open_issues": 22,
             "owner": "wellyshen",
             "repo": "react-cool-dimensions",
-            "stars": 934
+            "stars": 934,
+            "topics": [
+              "container-queries",
+              "dimensions",
+              "hook",
+              "measure",
+              "performance",
+              "react",
+              "resizeobserver",
+              "responsive-components",
+              "size",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -726,12 +1315,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📄 React hook for managing forms and inputs state",
+            "homepage": "http://react-use-form-state.now.sh",
             "id": 155302203,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T21:38:48Z",
+            "open_issues": 30,
             "owner": "wsmd",
             "repo": "react-use-form-state",
-            "stars": 927
+            "stars": 927,
+            "topics": [
+              "hook",
+              "react",
+              "react-hooks",
+              "react-library",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -742,12 +1342,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌀 React hook for Portals",
+            "homepage": null,
             "id": 171593131,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-14T07:31:54Z",
+            "open_issues": 44,
             "owner": "iamthesiz",
             "repo": "react-useportal",
-            "stars": 885
+            "stars": 885,
+            "topics": [
+              "dialog",
+              "dropdown",
+              "javascript",
+              "lightbox",
+              "loading-bar",
+              "modal",
+              "notification",
+              "portal",
+              "react",
+              "react-hooks",
+              "react-portal",
+              "tooltip"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -758,12 +1376,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to <body> or else.",
+            "homepage": "https://react-cool-portal.netlify.app",
             "id": 241529345,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-12T16:39:58Z",
+            "open_issues": 24,
             "owner": "wellyshen",
             "repo": "react-cool-portal",
-            "stars": 732
+            "stars": 732,
+            "topics": [
+              "dialog",
+              "dropdown",
+              "hook",
+              "lightbox",
+              "loading-bar",
+              "modal",
+              "notification",
+              "popover",
+              "portal",
+              "react",
+              "status-bar",
+              "toast",
+              "tooltip",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -774,12 +1412,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React custom hooks for web workers",
+            "homepage": null,
             "id": 167810579,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-05T10:28:34Z",
+            "open_issues": 15,
             "owner": "dai-shi",
             "repo": "react-hooks-worker",
-            "stars": 710
+            "stars": 710,
+            "topics": [
+              "custom-hook",
+              "react",
+              "react-hooks",
+              "reactjs",
+              "webworker",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -790,12 +1440,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook which syncs localStorage[key] with the comp.",
+            "homepage": null,
             "id": 154739367,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-23T17:19:55Z",
+            "open_issues": 8,
             "owner": "rehooks",
             "repo": "local-storage",
-            "stars": 570
+            "stars": 570,
+            "topics": [
+              "hooks",
+              "localstorage",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -806,12 +1465,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "React Hook for pub-sub behavior using React Router.",
+            "homepage": "https://www.npmjs.com/package/use-react-router",
             "id": 154884397,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-09-19T21:47:32Z",
+            "open_issues": 1,
             "owner": "CharlesStover",
             "repo": "use-react-router",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "npm",
+              "npmjs",
+              "react",
+              "react-hooks",
+              "react-router",
+              "reactjs",
+              "travis",
+              "travis-ci",
+              "travisci",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -822,12 +1497,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 🖱 React hook to listen for clicks outside of the component(s).",
+            "homepage": "https://react-cool-onclickoutside.netlify.app",
             "id": 231929480,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-12T16:40:16Z",
+            "open_issues": 30,
             "owner": "wellyshen",
             "repo": "react-cool-onclickoutside",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "elements",
+              "hook",
+              "onclickoutside",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -838,12 +1524,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 🖱 React hook to listen for clicks outside of the component(s).",
+            "homepage": "https://react-cool-onclickoutside.netlify.app",
             "id": 231929480,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-12T16:40:16Z",
+            "open_issues": 30,
             "owner": "wellyshen",
             "repo": "react-cool-onclickoutside",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "elements",
+              "hook",
+              "onclickoutside",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -854,12 +1551,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of reusable React Hooks.",
+            "homepage": "https://beizhedenglong.github.io/react-hooks-lib",
             "id": 154783684,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-06T08:14:17Z",
+            "open_issues": 0,
             "owner": "beizhedenglong",
             "repo": "react-hooks-lib",
-            "stars": 542
+            "stars": 542,
+            "topics": [
+              "hooks",
+              "react",
+              "react-hooks",
+              "utils"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -870,12 +1577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "useMedia React hook to track CSS media query state",
+            "homepage": null,
             "id": 155987757,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2025-09-14T00:02:53Z",
+            "open_issues": 27,
             "owner": "streamich",
             "repo": "use-media",
-            "stars": 524
+            "stars": 524,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -886,12 +1598,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NOT MAINTAINED] React Redux binding with React Hooks and Proxy",
+            "homepage": "https://www.npmjs.com/package/reactive-react-redux",
             "id": 157671629,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-12T06:32:14Z",
+            "open_issues": 27,
             "owner": "dai-shi",
             "repo": "reactive-react-redux",
-            "stars": 500
+            "stars": 500,
+            "topics": [
+              "hooks-api",
+              "proxy",
+              "react",
+              "react-hooks",
+              "react-redux",
+              "reactive",
+              "reactjs",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -902,12 +1628,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NOT MAINTAINED] React custom hooks for async functions with abortability and composability ",
+            "homepage": "https://www.npmjs.com/package/react-hooks-async",
             "id": 161332389,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T03:01:51Z",
+            "open_issues": 22,
             "owner": "dai-shi",
             "repo": "react-hooks-async",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "abortable",
+              "abortcontroller",
+              "async",
+              "hooks-api-react",
+              "promise",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -918,12 +1657,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍭 Event hooks ",
+            "homepage": "https://sandiiarov.github.io/use-events",
             "id": 155645096,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T11:07:40Z",
+            "open_issues": 18,
             "owner": "sandiiarov",
             "repo": "use-events",
-            "stars": 494
+            "stars": 494,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -934,12 +1678,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A React hook compatible with React 16.6's Suspense component.",
+            "homepage": "https://www.npmjs.com/package/fetch-suspense",
             "id": 155629800,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-02-11T19:30:21Z",
+            "open_issues": 9,
             "owner": "CharlesStover",
             "repo": "fetch-suspense",
-            "stars": 492
+            "stars": 492,
+            "topics": [
+              "fetch",
+              "fetch-api",
+              "javascript",
+              "js",
+              "npm",
+              "npmjs",
+              "react",
+              "react-suspense",
+              "reactjs",
+              "travis",
+              "travis-ci",
+              "travisci",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -950,12 +1713,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hooks to implement Undo and Redo functionality",
+            "homepage": "https://codesandbox.io/s/use-undo-demo-hifeo",
             "id": 156137396,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-17T08:14:06Z",
+            "open_issues": 8,
             "owner": "homerchen19",
             "repo": "use-undo",
-            "stars": 414
+            "stars": 414,
+            "topics": [
+              "hooks",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -966,12 +1738,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for conveniently use Fetch API",
+            "homepage": null,
             "id": 162266785,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T10:31:29Z",
+            "open_issues": 12,
             "owner": "ilyalesik",
             "repo": "react-fetch-hook",
-            "stars": 350
+            "stars": 350,
+            "topics": [
+              "fetch",
+              "fetch-api",
+              "flowtype",
+              "hacktoberfest",
+              "hooks",
+              "pagination",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -982,12 +1768,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook for state management with profunctor lenses",
+            "homepage": null,
             "id": 157857678,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-01-13T09:14:37Z",
+            "open_issues": 4,
             "owner": "staltz",
             "repo": "use-profunctor-state",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "lenses",
+              "profunctors",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -998,12 +1794,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible React Hook to automatically update navigation based on scroll position ",
+            "homepage": "https://purii.github.io/react-use-scrollspy/",
             "id": 158081932,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-08-15T17:45:17Z",
+            "open_issues": 16,
             "owner": "Purii",
             "repo": "react-use-scrollspy",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "hooks",
+              "hooks-api-react",
+              "javascript",
+              "react",
+              "reactjs",
+              "scrollspy"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1014,12 +1822,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complex Loader Management Hook for React Applications",
+            "homepage": "https://codesandbox.io/s/y3w5v5lk0j",
             "id": 156267000,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-08-22T20:56:04Z",
+            "open_issues": 8,
             "owner": "f",
             "repo": "react-wait",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "hooks",
+              "loading",
+              "react",
+              "react-hooks",
+              "ui-components",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1030,12 +1850,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hooks-first CSS-in-JS library, focused on semantics and runtime performance",
+            "homepage": "https://danieldelcore.github.io/trousers/",
             "id": 168661910,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-11T01:56:51Z",
+            "open_issues": 17,
             "owner": "danieldelcore",
             "repo": "trousers",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "css",
+              "css-in-js",
+              "hooks",
+              "react",
+              "ssr",
+              "stylesheet"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1046,12 +1878,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An easy way to integrate your React (or Preact/React Native Web) app into React Native app with WebView.",
+            "homepage": "https://www.npmjs.com/package/react-native-react-bridge",
             "id": 311012657,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-13T08:41:03Z",
+            "open_issues": 18,
             "owner": "inokawa",
             "repo": "react-native-react-bridge",
-            "stars": 298
+            "stars": 298,
+            "topics": [
+              "expo",
+              "metro",
+              "preact",
+              "react",
+              "react-dom",
+              "react-hooks",
+              "react-native",
+              "react-native-web",
+              "webassembly",
+              "webview"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1062,12 +1910,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌓 A React Hook for adding a dark / night mode to your site. ",
+            "homepage": "http://react-darkreader.turkyden.com",
             "id": 315512396,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-13T10:25:53Z",
+            "open_issues": 8,
             "owner": "turkyden",
             "repo": "react-darkreader",
-            "stars": 279
+            "stars": 279,
+            "topics": [
+              "dark-mode",
+              "dark-mode-switch",
+              "dark-theme",
+              "darkmode",
+              "darkreader",
+              "hook",
+              "night-mode",
+              "react-components",
+              "react-hooks",
+              "stargazers"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1078,12 +1942,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📅 A headless calendar hook for React.",
+            "homepage": "https://use-lilius.vercel.app/",
             "id": 349870890,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-01T15:28:41Z",
+            "open_issues": 3,
             "owner": "Avarios",
             "repo": "use-lilius",
-            "stars": 274
+            "stars": 274,
+            "topics": [
+              "calendar",
+              "date-fns",
+              "datepicker",
+              "headless-ui",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1094,12 +1969,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☯️ React hook to determine if you are on the server, browser, or react native",
+            "homepage": "http://bit.ly/use-ssr",
             "id": 187930851,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-14T23:21:29Z",
+            "open_issues": 8,
             "owner": "iamthesiz",
             "repo": "use-ssr",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "browser",
+              "client",
+              "isomorphic",
+              "react",
+              "react-hooks",
+              "server-side",
+              "server-side-rendering",
+              "ssr"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1110,12 +1999,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook that provides copy to clipboard functionality.",
+            "homepage": null,
             "id": 168096578,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-24T23:06:26Z",
+            "open_issues": 7,
             "owner": "danoc",
             "repo": "react-use-clipboard",
-            "stars": 262
+            "stars": 262,
+            "topics": [
+              "clipboard",
+              "component",
+              "hooks",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1126,12 +2025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤿 React hooks, except using deep comparison on the inputs, not reference equality",
+            "homepage": null,
             "id": 178584954,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T11:09:32Z",
+            "open_issues": 2,
             "owner": "sandiiarov",
             "repo": "use-deep-compare",
-            "stars": 258
+            "stars": 258,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1142,12 +2046,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hooks for Speech Recognition and Speech Synthesis",
+            "homepage": "https://mikeyparton.github.io/react-speech-kit",
             "id": 174019269,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-01T16:22:54Z",
+            "open_issues": 47,
             "owner": "MikeyParton",
             "repo": "react-speech-kit",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "react",
+              "speech-recognition",
+              "speech-synthesis",
+              "speech-to-text"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1158,12 +2072,38 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "😎 📋 React hooks for forms state and validation, less code more performant.",
+            "homepage": "https://react-cool-form.netlify.app",
             "id": 294433024,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-07-27T15:44:02Z",
+            "open_issues": 46,
             "owner": "wellyshen",
             "repo": "react-cool-form",
-            "stars": 244
+            "stars": 244,
+            "topics": [
+              "arrays",
+              "asynchronous",
+              "controlled",
+              "dx",
+              "form",
+              "form-builder",
+              "form-state",
+              "form-validation",
+              "forms",
+              "hooks",
+              "lists",
+              "performance",
+              "react",
+              "react-hooks",
+              "state",
+              "state-management",
+              "typescript",
+              "uncontrolled",
+              "ux",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1174,12 +2114,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for determining the size of a component",
+            "homepage": null,
             "id": 154727381,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-05T10:55:06Z",
+            "open_issues": 21,
             "owner": "rehooks",
             "repo": "component-size",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "component",
+              "element",
+              "hook",
+              "react",
+              "size"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1190,12 +2141,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily manage the Google Tag Manager via Hook",
+            "homepage": "https://elgorditosalsero-react-gtm-hook.netlify.app/",
             "id": 267093564,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-04T06:26:27Z",
+            "open_issues": 10,
             "owner": "elgorditosalsero",
             "repo": "react-gtm-hook",
-            "stars": 223
+            "stars": 223,
+            "topics": [
+              "google-tag-manager",
+              "googletagmanager",
+              "gtm",
+              "hook",
+              "react-hook",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1206,12 +2169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load and save cookies within your Web application",
+            "homepage": null,
             "id": 32215253,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-09T19:08:00Z",
+            "open_issues": 4,
             "owner": "ItsBenCodes",
             "repo": "cookies",
-            "stars": 215
+            "stars": 215,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1222,12 +2190,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A delightful modal dialog component for React, built from the ground up to support React Hooks.",
+            "homepage": null,
             "id": 179479002,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-09T18:41:20Z",
+            "open_issues": 42,
             "owner": "upmostly",
             "repo": "modali",
-            "stars": 211
+            "stars": 211,
+            "topics": [
+              "dialog",
+              "modal",
+              "react",
+              "react-components",
+              "react-modal",
+              "reacthooks",
+              "reactjs",
+              "reactmodal"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1238,12 +2220,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hooks to svg drawing.",
+            "homepage": "https://kmkzt.github.io/react-hooks-svgdrawing/",
             "id": 188711791,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-28T05:58:53Z",
+            "open_issues": 38,
             "owner": "kmkzt",
             "repo": "react-hooks-svgdrawing",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1254,12 +2241,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 React hooks for Socket.io, SSE, WebSockets and more to come",
+            "homepage": "https://codesandbox.io/s/y091y50plz",
             "id": 157409882,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-14T07:21:16Z",
+            "open_issues": 24,
             "owner": "mfrachet",
             "repo": "server-push-hooks",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "hooks",
+              "react",
+              "server-sent-events",
+              "socketio",
+              "sse"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1270,12 +2268,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook to force your function component to update",
+            "homepage": "https://www.npmjs.com/package/use-force-update",
             "id": 154867600,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-12T18:56:52Z",
+            "open_issues": 1,
             "owner": "quisido",
             "repo": "use-force-update",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "hook",
+              "javascript",
+              "npm",
+              "npmjs",
+              "react",
+              "react-hooks",
+              "reactjs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1286,12 +2298,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React useReducer with async actions",
+            "homepage": "https://www.npmjs.com/package/use-reducer-async",
             "id": 216804164,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-19T15:26:06Z",
+            "open_issues": 9,
             "owner": "dai-shi",
             "repo": "use-reducer-async",
-            "stars": 184
+            "stars": 184,
+            "topics": [
+              "async",
+              "async-actions",
+              "dispatch",
+              "react",
+              "react-hooks",
+              "reactjs",
+              "use-reducer"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1302,12 +2327,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook for reading from and writing to the user's clipboard.",
+            "homepage": "https://www.npmjs.com/package/use-clippy",
             "id": 176777348,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-11-09T23:32:26Z",
+            "open_issues": 18,
             "owner": "CharlesStover",
             "repo": "use-clippy",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "clipboard",
+              "clipboard-api",
+              "clipboard-copy",
+              "clipboard-javascript",
+              "clipboard-js",
+              "clipboard-management",
+              "clipboard-manager",
+              "clipboard-managers",
+              "clipboard-modifier",
+              "javascript",
+              "npm",
+              "npmjs",
+              "react",
+              "react-hooks",
+              "reactjs",
+              "travis",
+              "travis-ci",
+              "travisci",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1318,12 +2368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a customizable modal with react-portal.",
+            "homepage": "https://microcmsio.github.io/react-hooks-use-modal/",
             "id": 206801432,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-07-15T22:40:14Z",
+            "open_issues": 6,
             "owner": "microcmsio",
             "repo": "react-hooks-use-modal",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1334,12 +2389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook that does a fetch and aborts when the components is unloaded  or a different request is made",
+            "homepage": "https://www.npmjs.com/package/use-abortable-fetch",
             "id": 156375263,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T05:18:47Z",
+            "open_issues": 1,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1350,12 +2410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[OUTDATED]Ponyfill for the React Hooks API (Support RN)",
+            "homepage": "https://codesandbox.io/s/olx6zp44n6",
             "id": 154931607,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-15T09:19:41Z",
+            "open_issues": 2,
             "owner": "yesmeck",
             "repo": "react-with-hooks",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1366,12 +2431,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for generating async memoized data.",
+            "homepage": null,
             "id": 193450168,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-01T06:35:54Z",
+            "open_issues": 3,
             "owner": "awmleer",
             "repo": "use-async-memo",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "async",
+              "hook",
+              "react",
+              "use-memo"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1382,12 +2457,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Predictable state container for React apps written using Hooks",
+            "homepage": null,
             "id": 165114068,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-11T16:21:58Z",
+            "open_issues": 2,
             "owner": "iusehooks",
             "repo": "redhooks",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "hooks",
+              "immutability",
+              "react-hooks",
+              "reacthooks",
+              "reducer",
+              "redux",
+              "state-management",
+              "state-tree"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1398,12 +2487,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "use Server-Side Effect ✨in React SSR app",
+            "homepage": "https://kspr.dev/use-sse/",
             "id": 262809605,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-05T17:14:29Z",
+            "open_issues": 28,
             "owner": "kmoskwiak",
             "repo": "useSSE",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "react",
+              "server-side-rendering",
+              "ssr",
+              "useeffect"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1414,12 +2513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook that returns information about scroll speed, time, distance, direction and more",
+            "homepage": null,
             "id": 229907639,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T03:41:43Z",
+            "open_issues": 42,
             "owner": "dejorrit",
             "repo": "scroll-data-hook",
-            "stars": 140
+            "stars": 140,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1430,12 +2534,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for subscribing to window size",
+            "homepage": null,
             "id": 154711885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-01T01:48:44Z",
+            "open_issues": 12,
             "owner": "rehooks",
             "repo": "window-size",
-            "stars": 131
+            "stars": 131,
+            "topics": [
+              "browser",
+              "hooks",
+              "react",
+              "size",
+              "window"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1446,12 +2561,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook to dynamically load an external script and know when its loaded",
+            "homepage": null,
             "id": 189599615,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-04-07T20:39:08Z",
+            "open_issues": 10,
             "owner": "hupe1980",
             "repo": "react-script-hook",
-            "stars": 127
+            "stars": 127,
+            "topics": [
+              "hook",
+              "loader",
+              "react",
+              "script"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1462,12 +2587,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐭  React hook that tracks mouse events on selected element - zero dependencies",
+            "homepage": "https://mkosir.github.io/react-hook-mighty-mouse",
             "id": 212674094,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-01-15T12:10:02Z",
+            "open_issues": 0,
             "owner": "mkosir",
             "repo": "react-hook-mighty-mouse",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "angle",
+              "coordinates",
+              "hook",
+              "location",
+              "mighty",
+              "mighty-mouse",
+              "mouse",
+              "mouse-tracking",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1478,12 +2618,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook for Online status",
+            "homepage": null,
             "id": 154726853,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-11T17:51:54Z",
+            "open_issues": 17,
             "owner": "rehooks",
             "repo": "online-status",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1494,12 +2639,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎸 React Hook to use realtime last.fm data and display your currently played song in your application.",
+            "homepage": "https://npmjs.com/package/use-last-fm",
             "id": 293471596,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-20T20:56:13Z",
+            "open_issues": 0,
             "owner": "alii",
             "repo": "use-last-fm",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "last-fm",
+              "lastfm",
+              "music",
+              "react",
+              "react-dom",
+              "react-hook",
+              "react-music",
+              "react-music-hook",
+              "spotify",
+              "use-hook"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1510,12 +2671,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Progressive View Model Management Library",
+            "homepage": "https://regionjs.github.io/region-core",
             "id": 164082761,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-08T23:59:30Z",
+            "open_issues": 4,
             "owner": "regionjs",
             "repo": "region",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "react",
+              "redux",
+              "swr",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1526,12 +2697,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧘Managed, cancelable and safely typed requests.",
+            "homepage": null,
             "id": 168860972,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2022-12-09T13:56:46Z",
+            "open_issues": 51,
             "owner": "schettino",
             "repo": "react-request-hook",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1542,12 +2718,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for creating input values",
+            "homepage": null,
             "id": 154716815,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-01T02:37:56Z",
+            "open_issues": 10,
             "owner": "rehooks",
             "repo": "input-value",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "forms",
+              "hooks",
+              "input",
+              "react",
+              "value"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1558,12 +2745,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook which tells you when you've scrolled to bottom",
+            "homepage": "https://tudorgergely.github.io/use-scroll-to-bottom/",
             "id": 250901599,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-18T17:53:32Z",
+            "open_issues": 9,
             "owner": "tudorgergely",
             "repo": "use-scroll-to-bottom",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "bottom",
+              "intersection-observer",
+              "react",
+              "react-hooks",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1574,12 +2772,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍙 Lightweight (<600B minified + gzipped) React Hook to subscribe to a subset of your single app state.",
+            "homepage": "https://github.com/philipp-spiess/use-substate",
             "id": 154746338,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-17T14:13:41Z",
+            "open_issues": 1,
             "owner": "philipp-spiess",
             "repo": "use-substate",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "hooks",
+              "react",
+              "react-hooks",
+              "reducer",
+              "redux",
+              "state-management",
+              "store",
+              "substate"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1590,12 +2802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hooks api for react-powerplug components",
+            "homepage": null,
             "id": 154973588,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-12-09T19:48:04Z",
+            "open_issues": 19,
             "owner": "kalcifer",
             "repo": "react-powerhooks",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1606,12 +2823,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook to communicate among browser context (tabs, windows, iframes)",
+            "homepage": null,
             "id": 155087980,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-12-28T06:01:29Z",
+            "open_issues": 0,
             "owner": "AvraamMavridis",
             "repo": "react-window-communication-hook",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "communication",
+              "hooks",
+              "iframe",
+              "react",
+              "tab",
+              "window"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1622,12 +2851,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":alien: A collection of useful React hooks",
+            "homepage": "https://zakariaharti.github.io/react-hookedup",
             "id": 162760264,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T00:49:22Z",
+            "open_issues": 20,
             "owner": "zakariaharti",
             "repo": "react-hookedup",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "hooks",
+              "react",
+              "react-hooks",
+              "useful-utilities"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1638,12 +2877,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of hook-based memoized selector factories for declarations outside of render.",
+            "homepage": null,
             "id": 154952694,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-10-29T22:50:25Z",
+            "open_issues": 1,
             "owner": "Andarist",
             "repo": "react-selector-hooks",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "hook",
+              "hooks",
+              "memoization",
+              "memoize",
+              "react",
+              "reactjs",
+              "reselect"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1654,12 +2906,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for Window scroll position",
+            "homepage": null,
             "id": 154741215,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-01T02:37:59Z",
+            "open_issues": 16,
             "owner": "rehooks",
             "repo": "window-scroll-position",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "hook",
+              "react",
+              "react-hooks",
+              "scroll",
+              "window"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1670,12 +2933,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌓 React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running",
+            "homepage": "https://react-screen-wake-lock.vercel.app/",
             "id": 312112202,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-15T16:14:18Z",
+            "open_issues": 2,
             "owner": "jorisre",
             "repo": "react-screen-wake-lock",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "react",
+              "screen-wake-lock",
+              "wakelock"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1686,12 +2958,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook to detect click or touch events outside an element.",
+            "homepage": "https://www.npmjs.com/package/use-click-away?activeTab=readme",
             "id": 273801763,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-09T05:54:51Z",
+            "open_issues": 3,
             "owner": "geobde",
             "repo": "use-click-away",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1702,12 +2979,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖼 React hook for Modals",
+            "homepage": null,
             "id": 217682636,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T11:05:37Z",
+            "open_issues": 22,
             "owner": "iamthesiz",
             "repo": "use-react-modal",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "hook",
+              "lightbox",
+              "modal",
+              "portal",
+              "react",
+              "react-modal",
+              "use-dialog",
+              "use-lightbox",
+              "use-modal",
+              "usedialog",
+              "usemodal"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1718,12 +3012,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dead simple yet powerful countdown hook for React.",
+            "homepage": "https://stackblitz.com/edit/react-use-count-down",
             "id": 189592219,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-01T02:06:43Z",
+            "open_issues": 15,
             "owner": "alexkhismatulin",
             "repo": "react-use-count-down",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1734,12 +3033,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔩 An alternative to useReducer that accepts middlewares.",
+            "homepage": "https://www.npmjs.com/package/@0y0/use-reducer-x",
             "id": 157307483,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-30T13:19:18Z",
+            "open_issues": 4,
             "owner": "o0y0o",
             "repo": "use-reducer-x",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "npm-package",
+              "react",
+              "react-hooks",
+              "reducer",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1750,12 +3060,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook to track Network status",
+            "homepage": null,
             "id": 154734082,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-01T02:37:55Z",
+            "open_issues": 11,
             "owner": "rehooks",
             "repo": "network-status",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "hook",
+              "network",
+              "react",
+              "react-hooks",
+              "status"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1766,12 +3087,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook for using as-bind with a WASM source",
+            "homepage": null,
             "id": 267979086,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-04-23T01:56:05Z",
+            "open_issues": 2,
             "owner": "tylervipond",
             "repo": "use-as-bind",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1782,12 +3108,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async HTTP request data for axios. Designed for diverse UI states, SSR and data pre-caching.",
+            "homepage": null,
             "id": 186654376,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-06T01:53:29Z",
+            "open_issues": 26,
             "owner": "RyanRoll",
             "repo": "react-use-api",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "axios",
+              "create-react-app",
+              "npm",
+              "npm-package",
+              "react",
+              "react-hooks",
+              "server-side-rendering",
+              "ssr",
+              "typescript",
+              "yarn",
+              "yarn-package"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1798,12 +3141,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 155592042,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-13T22:02:37Z",
+            "open_issues": 0,
             "owner": "flepretre",
             "repo": "use-redux",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "hooks",
+              "react",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1814,12 +3166,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook for Media Queries",
+            "homepage": null,
             "id": 164839536,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-02T16:21:07Z",
+            "open_issues": 8,
             "owner": "betterminddev",
             "repo": "react-media-hook",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "hook",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1830,12 +3190,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for updating the document-title",
+            "homepage": null,
             "id": 154730209,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-01T01:01:47Z",
+            "open_issues": 11,
             "owner": "rehooks",
             "repo": "document-title",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "document",
+              "hooks",
+              "react",
+              "title"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1846,12 +3216,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A react utility library.",
+            "homepage": "https://melting-pot.netlify.com",
             "id": 164325690,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-30T21:56:30Z",
+            "open_issues": 23,
             "owner": "withvoid",
             "repo": "melting-pot",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "javascript",
+              "melting-pot",
+              "react",
+              "react-component",
+              "react-hook",
+              "react-hooks",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1862,12 +3245,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A react hook to detect when a page is being printed",
+            "homepage": null,
             "id": 170443396,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-03T16:25:33Z",
+            "open_issues": 32,
             "owner": "gregnb",
             "repo": "use-detect-print",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "hooks",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1878,12 +3270,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hooks for handling auth stuff",
+            "homepage": null,
             "id": 180222182,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-20T11:13:57Z",
+            "open_issues": 5,
             "owner": "inmagik",
             "repo": "use-eazy-auth",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "auth",
+              "authentication",
+              "hooks",
+              "react",
+              "react-hooks",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1894,12 +3298,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A custom React Hook for implementing a calendar with events",
+            "homepage": null,
             "id": 173223068,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-03-01T12:36:28Z",
+            "open_issues": 1,
             "owner": "gregnb",
             "repo": "react-use-calendar",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "calendar",
+              "hooks",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1910,12 +3323,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A shadcn/ui registry in the works",
+            "homepage": null,
             "id": 155331925,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T07:51:44Z",
+            "open_issues": 5,
             "owner": "tau-engineering",
             "repo": "reggie",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "hooks",
+              "react",
+              "react-hook",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1926,12 +3349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hook, simplifying dealing with Promises inside of React components",
+            "homepage": null,
             "id": 155256173,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-11-15T06:57:10Z",
+            "open_issues": 1,
             "owner": "saivanji",
             "repo": "promise-hook",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1942,12 +3370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 155094043,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-11T04:28:31Z",
+            "open_issues": 6,
             "owner": "dispix",
             "repo": "react-pirate",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1958,12 +3391,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "https://www.npmjs.com/package/use-socket.io-client",
+            "homepage": null,
             "id": 169726297,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-04-03T09:40:24Z",
+            "open_issues": 3,
             "owner": "iamgyz",
             "repo": "use-socket.io-client",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "react",
+              "react-hooks",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1974,12 +3416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "useFormless allow you to control forms in React using react-hook approach",
+            "homepage": "https://gediez.github.io/react-use-formless/",
             "id": 155792335,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-06-04T20:14:32Z",
+            "open_issues": 2,
             "owner": "GeDiez",
             "repo": "react-use-formless",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -1990,12 +3437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable)",
+            "homepage": null,
             "id": 210256196,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-28T13:36:28Z",
+            "open_issues": 1,
             "owner": "daniel-dx",
             "repo": "nice-hooks",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2006,12 +3458,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook to track the visibility of a functional component",
+            "homepage": null,
             "id": 154786731,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-10-30T08:16:40Z",
+            "open_issues": 2,
             "owner": "AvraamMavridis",
             "repo": "react-intersection-visible-hook",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "hook",
+              "intersectionobserver",
+              "react",
+              "visibility"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2022,12 +3484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗺 Translations with React hooks",
+            "homepage": null,
             "id": 156400579,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2025-09-15T03:26:12Z",
+            "open_issues": 33,
             "owner": "streamich",
             "repo": "use-t",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2038,12 +3505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Progressive Solution for Query Table Scene",
+            "homepage": "https://usetable-ahooks.js.org",
             "id": 281585580,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-11-19T13:45:51Z",
+            "open_issues": 11,
             "owner": "ahooksjs",
             "repo": "useTable",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2054,12 +3526,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy immutability in React Hooks with Immer.",
+            "homepage": "https://www.npmjs.com/package/react-immer-hooks",
             "id": 154918546,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-27T03:02:00Z",
+            "open_issues": 1,
             "owner": "sin",
             "repo": "react-immer-hooks",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "copy-on-write",
+              "immer",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2070,12 +3552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React side-effect hook that manages a single indexDB item.",
+            "homepage": "https://www.npmjs.com/package/react-use-idb",
             "id": 156285088,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-11T17:55:39Z",
+            "open_issues": 5,
             "owner": "kigiri",
             "repo": "react-use-idb",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2086,12 +3573,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A react hook to use scroll position",
+            "homepage": null,
             "id": 166564110,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-06-01T17:50:06Z",
+            "open_issues": 2,
             "owner": "neo",
             "repo": "react-use-scroll-position",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "react",
+              "react-hook",
+              "react-hooks",
+              "scroll"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2102,12 +3599,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hooks for mount state tracking and auto-cleanup with AbortController.",
+            "homepage": null,
             "id": 263476527,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T19:39:03Z",
+            "open_issues": 13,
             "owner": "helderberto",
             "repo": "use-is-mounted-ref",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "hook",
+              "hooks",
+              "mounted",
+              "react",
+              "react-hook",
+              "react-ref"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2118,12 +3627,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to https://github.com/facebookincubator/redux-react-hook",
+            "homepage": null,
             "id": 154784192,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2018-11-09T06:49:08Z",
+            "open_issues": 2,
             "owner": "ianobermiller",
             "repo": "redux-react-hook",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2134,12 +3648,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook to manage html meta tags",
+            "homepage": null,
             "id": 186289354,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-06-18T22:27:56Z",
+            "open_issues": 3,
             "owner": "lordgiotto",
             "repo": "react-metatags-hook",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "hook",
+              "hooks",
+              "hooks-api-react",
+              "metatags",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2150,12 +3675,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 177242054,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-07-10T15:40:15Z",
+            "open_issues": 7,
             "owner": "sandiiarov",
             "repo": "use-popper",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2166,12 +3696,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📬 React hook for email autocomplete inputs",
+            "homepage": null,
             "id": 171805149,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-12-05T00:17:05Z",
+            "open_issues": 5,
             "owner": "ava",
             "repo": "use-email-autocomplete",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2182,12 +3717,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight React hook for checking health of API services.",
+            "homepage": null,
             "id": 162705963,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-06T00:30:28Z",
+            "open_issues": 15,
             "owner": "senviocom",
             "repo": "react-health-check",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "api",
+              "check",
+              "detect",
+              "health",
+              "hook",
+              "offline",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2198,12 +3746,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React axios hooks for CRUD",
+            "homepage": null,
             "id": 206189322,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-04T09:05:00Z",
+            "open_issues": 11,
             "owner": "sergey-s",
             "repo": "use-axios-react",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "axios",
+              "hooks",
+              "react-axios",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2214,12 +3772,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tiny react hook for integrating an e-commerce cart into your app",
+            "homepage": null,
             "id": 180184358,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T19:19:43Z",
+            "open_issues": 20,
             "owner": "sammdec",
             "repo": "use-cart",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "cart",
+              "ecommerce",
+              "hooks",
+              "react",
+              "react-dom",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2230,12 +3800,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A React hook for the React Native Dimensions API.",
+            "homepage": "https://www.npmjs.com/package/use-dimensions",
             "id": 156606950,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-11-28T05:03:04Z",
+            "open_issues": 0,
             "owner": "CharlesStover",
             "repo": "use-dimensions",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "npm",
+              "npmjs",
+              "react",
+              "react-hook",
+              "react-hooks",
+              "react-native",
+              "reactjs",
+              "reactnative",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2246,12 +3831,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React Hook that allows you to detect X and Y overflow",
+            "homepage": "https://amorriscode.github.io/use-overflow/",
             "id": 264484089,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-04-08T00:48:58Z",
+            "open_issues": 11,
             "owner": "amorriscode",
             "repo": "use-overflow",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "css",
+              "overflow",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2262,12 +3857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔄 Simple solution to handle undo\\redo turned into React Hooks ",
+            "homepage": "https://sandiiarov.github.io/use-simple-undo",
             "id": 156754728,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T13:48:21Z",
+            "open_issues": 34,
             "owner": "sandiiarov",
             "repo": "use-simple-undo",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2278,12 +3878,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for subscribing to document visibility",
+            "homepage": null,
             "id": 154715987,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-06T20:12:37Z",
+            "open_issues": 0,
             "owner": "rehooks",
             "repo": "document-visibility",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "document",
+              "hooks",
+              "react",
+              "visibility"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2294,12 +3904,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hooks library for element visibility. Uses the intersection observer API.",
+            "homepage": "https://kmkzt.github.io/react-hooks-visible/",
             "id": 188860692,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-25T22:39:43Z",
+            "open_issues": 33,
             "owner": "kmkzt",
             "repo": "react-hooks-visible",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2310,12 +3925,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook for trigger effect from any place of code",
+            "homepage": null,
             "id": 178592969,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-02T21:32:22Z",
+            "open_issues": 23,
             "owner": "ilyalesik",
             "repo": "react-use-trigger",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "hook",
+              "hooks",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2326,12 +3950,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for google-recaptcha v3",
+            "homepage": null,
             "id": 192233230,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-02-04T13:51:07Z",
+            "open_issues": 15,
             "owner": "hupe1980",
             "repo": "react-recaptcha-hook",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "hook",
+              "react",
+              "recaptcha-v3"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2342,12 +3975,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom react hook to list countries and languages.",
+            "homepage": null,
             "id": 247311245,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-03-14T17:22:06Z",
+            "open_issues": 0,
             "owner": "oktaysenkan",
             "repo": "use-countries",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "countries",
+              "hook",
+              "javascript",
+              "languages",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2358,12 +4002,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚛️ Minimal \"optimistic UI\" pattern implementation with a React Hook",
+            "homepage": null,
             "id": 236231497,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T05:43:56Z",
+            "open_issues": 12,
             "owner": "mamal72",
             "repo": "react-optimistic-ui-hook",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "frontend",
+              "optimistic-ui",
+              "react",
+              "react-hooks",
+              "ui",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2374,12 +4030,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Makes listening to key press event easy. ",
+            "homepage": "https://use-key-capture.netlify.app/",
             "id": 232149531,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-22T07:08:43Z",
+            "open_issues": 2,
             "owner": "pranesh239",
             "repo": "use-key-capture",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "custom-hook",
+              "hacktoberfest",
+              "keyboard-events",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2390,12 +4057,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hooks to listen to both mouse down or up and click events with a once called function",
+            "homepage": "https://dimitrinicolas.github.io/use-mouse-action/example/",
             "id": 174584321,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-12-11T02:45:49Z",
+            "open_issues": 8,
             "owner": "dimitrinicolas",
             "repo": "use-mouse-action",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "a11y",
+              "accessibility",
+              "hooks",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2406,12 +4084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for get position of element",
+            "homepage": null,
             "id": 155213195,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-29T13:06:29Z",
+            "open_issues": 3,
             "owner": "tranbathanhtung",
             "repo": "usePosition",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2422,12 +4105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functions for getting refs of elements via context",
+            "homepage": null,
             "id": 210688280,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-15T10:49:59Z",
+            "open_issues": 1,
             "owner": "megazazik",
             "repo": "react-context-refs",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2438,12 +4126,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for loading data",
+            "homepage": null,
             "id": 156342288,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-09-21T07:54:33Z",
+            "open_issues": 8,
             "owner": "smmoosavi",
             "repo": "react-use-data-loader",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "load-data",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2454,12 +4151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖React hook for making request.",
+            "homepage": null,
             "id": 204895677,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T09:08:45Z",
+            "open_issues": 32,
             "owner": "react-rekindle",
             "repo": "use-request",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2470,12 +4172,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A react component for manage modal",
+            "homepage": "https://react-use-modal.netlify.com/",
             "id": 168928740,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-26T05:19:07Z",
+            "open_issues": 36,
             "owner": "wowlusitong",
             "repo": "react-use-modal",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "antd",
+              "modal",
+              "react",
+              "react-bootstrap",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2486,12 +4199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The tiniest react router implemented with hooks.",
+            "homepage": null,
             "id": 184003138,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-05T16:22:41Z",
+            "open_issues": 0,
             "owner": "victorteokw",
             "repo": "react-use-path",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2502,12 +4220,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dev.to API hooks for React.js",
+            "homepage": "https://bdbch.github.io/react-devto/",
             "id": 197915660,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-07-09T21:24:29Z",
+            "open_issues": 0,
             "owner": "bdbch",
             "repo": "react-devto",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "api",
+              "devto",
+              "hooks",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2518,12 +4247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React wrapper for PeerData library for files, media streaming/sharing using WebRTC.",
+            "homepage": null,
             "id": 187557648,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T15:21:12Z",
+            "open_issues": 13,
             "owner": "vardius",
             "repo": "react-peer-data",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2534,12 +4268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React wrapper for getUserMedia",
+            "homepage": null,
             "id": 187561585,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T15:20:32Z",
+            "open_issues": 12,
             "owner": "vardius",
             "repo": "react-user-media",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2550,12 +4289,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for combining double-click function into click event, as well as repeatable double-click",
+            "homepage": "https://medium.com/@nitzan.nashi/repeatable-double-click-and-hybrid-clicks-solution-with-usedoubleclick-hook-c6c64449abf7",
             "id": 261150061,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-27T10:44:58Z",
+            "open_issues": 4,
             "owner": "zattoo",
             "repo": "use-double-click",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "double-click",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2566,12 +4314,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple yet powerful finite state machine React hook.",
+            "homepage": "https://github.com/rkrupinski/use-state-machine#readme",
             "id": 426725511,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-19T14:28:41Z",
+            "open_issues": 1,
             "owner": "rkrupinski",
             "repo": "use-state-machine",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "hook",
+              "react",
+              "state-machine",
+              "state-management",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2582,12 +4341,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Layouts in React.",
+            "homepage": "https://ytiurin.github.io/react-hook-layout/",
             "id": 252834090,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-01-06T02:48:09Z",
+            "open_issues": 18,
             "owner": "ytiurin",
             "repo": "react-hook-layout",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "hook",
+              "layout",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2598,12 +4367,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom React Hooks for image natural size",
+            "homepage": null,
             "id": 161428848,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-16T23:27:17Z",
+            "open_issues": 2,
             "owner": "use-hooks",
             "repo": "react-hooks-image-size",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2614,12 +4391,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React >=16.7 hook, allowing to use standard Redux middleware with useReducer",
+            "homepage": "https://www.npmjs.com/package/react-usemiddleware",
             "id": 159827437,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-02T19:21:40Z",
+            "open_issues": 1,
             "owner": "venil7",
             "repo": "react-usemiddleware",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "hooks",
+              "javascript",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2630,12 +4417,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "➷ Hotkeys React Hook",
+            "homepage": null,
             "id": 172000524,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-12-11T02:13:53Z",
+            "open_issues": 5,
             "owner": "sandiiarov",
             "repo": "use-hotkeys",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2646,12 +4438,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wraps asynchronous function allowing to use it with React.Suspense",
+            "homepage": "https://www.npmjs.com/use-suspender",
             "id": 238912147,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-18T12:14:49Z",
+            "open_issues": 2,
             "owner": "octet-stream",
             "repo": "use-suspender",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "async",
+              "javascript",
+              "javascript-library",
+              "preact",
+              "promise",
+              "react",
+              "react-hooks",
+              "react-suspense"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2662,12 +4468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny utility package for easily creating reusable implementations of React state provider patterns.",
+            "homepage": null,
             "id": 175096388,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T03:56:56Z",
+            "open_issues": 18,
             "owner": "mcclayton",
             "repo": "react-state-patterns",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2678,12 +4489,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":infinity: :page_with_curl: :hourglass_flowing_sand: Super lightweight infinite loading hook for React apps",
+            "homepage": "https://react-use-infinite-loader.netlify.app",
             "id": 257845896,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-11-12T21:46:13Z",
+            "open_issues": 2,
             "owner": "robcalcroft",
             "repo": "react-use-infinite-loader",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "hooks",
+              "infinite-scroll",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2694,12 +4514,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunrise: :zap: Add image lazy loading to your React app with ease",
+            "homepage": null,
             "id": 200247058,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T06:11:01Z",
+            "open_issues": 5,
             "owner": "robcalcroft",
             "repo": "react-use-lazy-load-image",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "hooks",
+              "image",
+              "lazyload",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2710,12 +4540,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Almost same to useEffect, but not deferred.",
+            "homepage": null,
             "id": 192291498,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-03T13:59:21Z",
+            "open_issues": 10,
             "owner": "awmleer",
             "repo": "use-action",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "action",
+              "effect",
+              "hook",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2726,12 +4566,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Determining screen size type for Bootstrap 4 grid.",
+            "homepage": null,
             "id": 163300595,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-27T14:31:08Z",
+            "open_issues": 0,
             "owner": "pankod",
             "repo": "react-hooks-screen-type",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2742,12 +4589,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A react hook to register a service worker",
+            "homepage": "https://www.npmjs.com/package/react-hook-use-service-worker",
             "id": 242335032,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-09T18:15:45Z",
+            "open_issues": 23,
             "owner": "JCofman",
             "repo": "react-hook-use-service-worker",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "react",
+              "service-worker"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2758,12 +4613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Super Simple React Hooks for react-redux.",
+            "homepage": null,
             "id": 176658923,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2019-03-20T05:45:08Z",
+            "open_issues": 0,
             "owner": "brn",
             "repo": "rrh",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2774,12 +4634,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "use css in js with react hook.",
+            "homepage": null,
             "id": 206757393,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T16:19:34Z",
+            "open_issues": 11,
             "owner": "style-hook",
             "repo": "style-hook",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "css",
+              "css-hook",
+              "react-hook",
+              "react-hooks",
+              "style-hook"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2790,12 +4661,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checks whether a Ref has scrolled into view or not.",
+            "homepage": null,
             "id": 154815663,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-29T15:59:36Z",
+            "open_issues": 0,
             "owner": "imbhargav5",
             "repo": "rehooks-visibility-sensor",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "hooks",
+              "react",
+              "rehooks",
+              "visibility-detection"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2806,12 +4687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, accessible React hook for tracking hover state.",
+            "homepage": "https://codesandbox.io/s/use-hovering-example-pj682",
             "id": 234813997,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:24:20Z",
+            "open_issues": 9,
             "owner": "therealparmesh",
             "repo": "use-hovering",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2822,12 +4708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple React hook for localstorage access",
+            "homepage": null,
             "id": 212924021,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-06T22:52:50Z",
+            "open_issues": 2,
             "owner": "bdbch",
             "repo": "react-localstorage",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2838,12 +4729,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐶React hook for custom request，compatible with various lib, support redux",
+            "homepage": null,
             "id": 227533513,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-06-29T07:05:09Z",
+            "open_issues": 1,
             "owner": "zhixiaoqiang",
             "repo": "react-request-hook",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2854,12 +4753,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple message bar hook for React",
+            "homepage": "https://www.intercaetera.com/posts/react-message-bar",
             "id": 229440143,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T03:02:13Z",
+            "open_issues": 9,
             "owner": "zanlib0",
             "repo": "react-use-message-bar",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "hacktoberfest",
+              "notifications",
+              "office-ui-fabric",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2870,12 +4779,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for more convenient handling of boolean state",
+            "homepage": null,
             "id": 278058123,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-07-08T11:08:24Z",
+            "open_issues": 0,
             "owner": "mykolaharmash",
             "repo": "use-boolean",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "hook",
+              "hooks",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2886,12 +4805,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React hook to keep track of state changes for undo/redo functionality.",
+            "homepage": "https://codesandbox.io/s/use-state-snapshots-i6fuq",
             "id": 192183622,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-03T02:32:53Z",
+            "open_issues": 7,
             "owner": "haydn",
             "repo": "use-state-snapshots",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "hooks",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2902,12 +4830,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "… React Hook for typing indicator",
+            "homepage": "https://codesandbox.io/s/use-is-typing-jz5i6",
             "id": 252749497,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2020-12-22T01:10:31Z",
+            "open_issues": 0,
             "owner": "KATT",
             "repo": "use-is-typing",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2918,12 +4851,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook to get screen type(mobile, tablet, desktop, largeDesktop)",
+            "homepage": "https://wednesday.is/building-products/?utm_source=github&utm_medium=react-screentype-hook",
             "id": 261999375,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T16:43:15Z",
+            "open_issues": 5,
             "owner": "wednesday-solutions",
             "repo": "react-screentype-hook",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "custom-breakpoints",
+              "desktop",
+              "mobile",
+              "react",
+              "react-hook",
+              "screen-type",
+              "tablet"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2934,12 +4880,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hooks for Github API",
+            "homepage": "https://d2k-react-github.netlify.com/",
             "id": 197817609,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-08-14T18:36:21Z",
+            "open_issues": 6,
             "owner": "bdbch",
             "repo": "react-github",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "api",
+              "github",
+              "hooks",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2950,12 +4907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functions for caching many callbacks by key, for example, in loops.",
+            "homepage": null,
             "id": 115587427,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-15T10:40:49Z",
+            "open_issues": 1,
             "owner": "megazazik",
             "repo": "react-cached-callback",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2966,12 +4928,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React component and hook to render children conditionally based on a promise state",
+            "homepage": null,
             "id": 184162381,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-03-15T12:19:19Z",
+            "open_issues": 1,
             "owner": "moxystudio",
             "repo": "react-promiseful",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "delay",
+              "promise",
+              "react",
+              "state",
+              "status",
+              "timeout"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2982,12 +4956,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Context + Use",
+            "homepage": "https://codesandbox.io/s/github/progressive-query-list/conuse/tree/master/examples/",
             "id": 211222872,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-07T10:09:32Z",
+            "open_issues": 22,
             "owner": "fodau",
             "repo": "conuse",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "context",
+              "conuse",
+              "hook",
+              "react",
+              "react-state",
+              "reactjs",
+              "state-management"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -2998,12 +4985,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A group of useful hooks for react",
+            "homepage": null,
             "id": 202761901,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-24T20:37:11Z",
+            "open_issues": 7,
             "owner": "momentechnologies",
             "repo": "moment-hooks",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3014,12 +5008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for managing the selection state of a set of items. Does not require knowledge of the full set of items.",
+            "homepage": null,
             "id": 181064220,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-03T19:36:13Z",
+            "open_issues": 48,
             "owner": "jschloer",
             "repo": "use-multiselect",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3030,12 +5029,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A small React hook to use D3 in declarative way, for data visualization & flexible animation.",
+            "homepage": "https://www.npmjs.com/package/react-use-d3",
             "id": 305363964,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-06-14T14:51:13Z",
+            "open_issues": 9,
             "owner": "inokawa",
             "repo": "react-use-d3",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "animation",
+              "css",
+              "d3",
+              "hooks",
+              "react",
+              "svg",
+              "transition",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3046,12 +5059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open file dialog without struggling with file input using useFileDialog react hook",
+            "homepage": null,
             "id": 349753915,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-09-04T06:13:22Z",
+            "open_issues": 0,
             "owner": "omidnikrah",
             "repo": "use-file-dialog",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3062,12 +5080,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React hook for using window width breakpoints.",
+            "homepage": "https://npm.im/use-window-width-breakpoints",
             "id": 245240199,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-07T04:45:19Z",
+            "open_issues": 8,
             "owner": "TyMick",
             "repo": "use-window-width-breakpoints",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "breakpoints",
+              "hacktoberfest",
+              "hook",
+              "hooks",
+              "javascript",
+              "media-breakpoints",
+              "media-queries",
+              "npm",
+              "package",
+              "react",
+              "responsive",
+              "responsive-design",
+              "screen-size",
+              "screen-width",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3078,12 +5117,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React hook - instance variables with useRef",
+            "homepage": null,
             "id": 174310770,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-03-10T16:13:13Z",
+            "open_issues": 0,
             "owner": "MarvelSQ",
             "repo": "use-properties-hook",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "hook",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3094,12 +5141,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "✈️ A wrapper between React Hooks and Indicative library",
+            "homepage": "https://www.npmjs.com/package/react-indicative-hooks",
             "id": 169734606,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-08-19T10:17:18Z",
+            "open_issues": 18,
             "owner": "marceloadsj",
             "repo": "react-indicative-hooks",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3110,12 +5162,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rocketjump your react! Manage state and side effects like a breeze",
+            "homepage": "https://inmagik.github.io/react-rocketjump",
             "id": 186616186,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T03:44:15Z",
+            "open_issues": 51,
             "owner": "inmagik",
             "repo": "react-rocketjump",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3126,12 +5183,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative React Forms",
+            "homepage": null,
             "id": 201851326,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T08:38:31Z",
+            "open_issues": 11,
             "owner": "j-a-y-h",
             "repo": "react-uniformed",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "form",
+              "form-validation",
+              "react",
+              "react-form",
+              "react-form-validation",
+              "react-hooks",
+              "react-uniformed",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3142,12 +5213,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎣 A hook whose setter can be directly given to HTML inputs",
+            "homepage": null,
             "id": 175450657,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T03:20:10Z",
+            "open_issues": 4,
             "owner": "robcalcroft",
             "repo": "react-use-input",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "controlled",
+              "hooks",
+              "input",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3158,12 +5240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hook enabling client markup to differ from server markup when using Server-Side-Rendering.",
+            "homepage": null,
             "id": 213914146,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-26T16:13:19Z",
+            "open_issues": 0,
             "owner": "awardit",
             "repo": "react-use-browser",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3174,12 +5261,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hook to create SSR-safe consistent unique id strings",
+            "homepage": null,
             "id": 198402122,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-13T17:33:02Z",
+            "open_issues": 15,
             "owner": "Yaska",
             "repo": "react-use-id-hook",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3190,12 +5282,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple React hooks for interacting with Wavelet.",
+            "homepage": null,
             "id": 198775669,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-09-12T06:24:42Z",
+            "open_issues": 18,
             "owner": "perlin-network",
             "repo": "react-use-wavelet",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "blockchain",
+              "dapp",
+              "react",
+              "react-hooks",
+              "smart-contracts",
+              "wavelet"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3206,12 +5310,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom react hook that handles drop file logic",
+            "homepage": null,
             "id": 272260351,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-07-19T17:10:33Z",
+            "open_issues": 10,
             "owner": "sbaidon",
             "repo": "useDropZone",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "hooks",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3222,12 +5334,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React hook for using window orientation.",
+            "homepage": "https://npm.im/use-window-orientation",
             "id": 285870708,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-30T17:11:00Z",
+            "open_issues": 3,
             "owner": "TyMick",
             "repo": "use-window-orientation",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "hacktoberfest",
+              "hook",
+              "hooks",
+              "javascript",
+              "landscape",
+              "media-queries",
+              "npm",
+              "orientation",
+              "package",
+              "portrait",
+              "react",
+              "responsive",
+              "responsive-design",
+              "screen-dimension",
+              "screen-orientation",
+              "typescript",
+              "window-dimensions",
+              "window-orientation"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3238,12 +5374,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hooks for non-primitive dependencies",
+            "homepage": null,
             "id": 380226736,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-10-25T21:25:36Z",
+            "open_issues": 0,
             "owner": "codeshake",
             "repo": "react-deep-hooks",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3254,12 +5395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight and simple package to easily update page names in a React app",
+            "homepage": null,
             "id": 215098649,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-04T22:42:33Z",
+            "open_issues": 13,
             "owner": "RyanFitzgerald",
             "repo": "react-page-name",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3270,12 +5416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook to fetch/select data with simple caching",
+            "homepage": null,
             "id": 234071897,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-02-05T12:14:50Z",
+            "open_issues": 3,
             "owner": "grug",
             "repo": "react-use-fetch-with-redux",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3286,12 +5437,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A factory pattern for react hooks to fetch and select data",
+            "homepage": null,
             "id": 194077691,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-27T07:00:31Z",
+            "open_issues": 8,
             "owner": "JohannesKlauss",
             "repo": "react-use-fetch-factory",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3302,12 +5458,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tada: A React hook about triggers once only when dependencies have changed.",
+            "homepage": null,
             "id": 340378064,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-08-19T08:48:05Z",
+            "open_issues": 0,
             "owner": "iam-frankqiu",
             "repo": "react-use-watch",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "callback",
+              "dependency",
+              "hooks",
+              "react",
+              "react-hooks",
+              "reactjs",
+              "typescript",
+              "utilities",
+              "watch"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3318,12 +5489,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React hook to handle browser history events",
+            "homepage": "https://zcallan.github.io/use-browser-history/",
             "id": 170865457,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-02-15T16:10:43Z",
+            "open_issues": 1,
             "owner": "zcallan",
             "repo": "use-browser-history",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "back",
+              "browser",
+              "history",
+              "hooks",
+              "modal",
+              "react",
+              "react-hooks",
+              "use",
+              "use-browser-history"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3334,12 +5520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook to turn numeric input behavior into pretty much what you expect",
+            "homepage": null,
             "id": 282898201,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-03-07T08:58:34Z",
+            "open_issues": 8,
             "owner": "d-asensio",
             "repo": "use-controlled-input-number",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3350,12 +5541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook for creating input file",
+            "homepage": null,
             "id": 264918602,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-08T14:04:14Z",
+            "open_issues": 4,
             "owner": "neighborhood999",
             "repo": "use-input-file",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3366,12 +5562,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React hook for deferring state change. That's essential when your UI needs to wait for disappearing animation is complete to unmount component.",
+            "homepage": "https://npmjs.com/package/use-deferred-state",
             "id": 342798672,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-02-28T15:49:38Z",
+            "open_issues": 0,
             "owner": "msereniti",
             "repo": "useDeferredState",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "async",
+              "declarative-ui",
+              "hooks",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3382,12 +5588,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "React form using hooks",
+            "homepage": null,
             "id": 163460233,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-08-12T15:09:43Z",
+            "open_issues": 0,
             "owner": "ckedwards",
             "repo": "react-form-stateful",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "form",
+              "hooks",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3398,12 +5614,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dead simple react hook to get the next value from an array after a specific delay ",
+            "homepage": null,
             "id": 212820878,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-04T22:11:09Z",
+            "open_issues": 8,
             "owner": "bboydflo",
             "repo": "use-value-after",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3414,12 +5635,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React Hook to check when elements are rendered.",
+            "homepage": "https://github.com/renansoares/useWaitForElements",
             "id": 341545935,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-03-17T15:18:58Z",
+            "open_issues": 1,
             "owner": "renansoares",
             "repo": "useWaitForElements",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "hooks",
+              "mutationobserver",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3430,12 +5660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A React hook that reads the HTML element's dir attribute value and any updates to that value allowing you to update your UI accordingly.",
+            "homepage": null,
             "id": 262414264,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-04T16:29:43Z",
+            "open_issues": 14,
             "owner": "davidicus",
             "repo": "use-lang-direction",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3446,12 +5681,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Hook for set the page title when the user is shifting focus away from the current window.",
+            "homepage": null,
             "id": 341323146,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-08-12T21:56:15Z",
+            "open_issues": 0,
             "owner": "cyntler",
             "repo": "use-window-blur-change-title",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "change-document-title",
+              "react",
+              "react-hook",
+              "react-window-blur"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3462,12 +5707,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 156927301,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-18T06:41:28Z",
+            "open_issues": 0,
             "owner": "andy9775",
             "repo": "react-declare-form",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "form",
+              "hooks",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3478,12 +5733,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React hook that adds local storage support to the `useReducer` hook",
+            "homepage": null,
             "id": 260084686,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-05-06T00:39:05Z",
+            "open_issues": 1,
             "owner": "Tweries",
             "repo": "useReducerWithLocalStorage",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hooks",
+              "react",
+              "usereducer"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         }
@@ -3492,15 +5756,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:57:12.781Z",
+    "last_updated": "2026-08-29T04:11:48.238Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome React Hooks",
+      "homepage": null,
       "id": 154740303,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-07-27T06:40:08Z",
+      "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10254
+      "stars": 10256,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hooks",
+        "react",
+        "react-hooks"
+      ]
     },
     "original_repository_sha": "33424d3e810c864ca69e379b74d195094b08a8e3",
     "enhanced_repository": "enhansome/enhansome-react-hooks",
