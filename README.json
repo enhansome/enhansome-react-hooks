@@ -110,7 +110,7 @@
             "open_issues": 146,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14983,
+            "stars": 14982,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -299,10 +299,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-29T03:09:26Z",
-            "open_issues": 134,
+            "open_issues": 136,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50224,
+            "stars": 50226,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T20:57:17Z",
+            "last_commit": "2026-08-29T09:30:48Z",
             "open_issues": 7,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44843,
+            "stars": 44842,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 663,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44022,
+            "stars": 44021,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -5756,7 +5756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:11:48.238Z",
+    "last_updated": "2026-08-29T11:22:29.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
