@@ -106,8 +106,8 @@
             "id": 194027578,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-09T11:13:20Z",
-            "open_issues": 146,
+            "last_commit": "2026-08-30T05:15:21Z",
+            "open_issues": 131,
             "owner": "alibaba",
             "repo": "hooks",
             "stars": 14982,
@@ -137,7 +137,7 @@
             "open_issues": 25,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2213,
+            "stars": 2214,
             "topics": [
               "browser",
               "hacktoberfest",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T03:09:26Z",
-            "open_issues": 136,
+            "last_commit": "2026-08-30T10:04:43Z",
+            "open_issues": 138,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50226,
+            "stars": 50232,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T09:30:48Z",
+            "last_commit": "2026-08-30T02:34:13Z",
             "open_issues": 7,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44842,
+            "stars": 44844,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 663,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44021,
+            "stars": 44020,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -389,7 +389,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-23T11:35:07Z",
-            "open_issues": 216,
+            "open_issues": 217,
             "owner": "vercel",
             "repo": "swr",
             "stars": 32477,
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T15:57:04Z",
+            "last_commit": "2026-08-29T14:07:38Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -631,7 +631,7 @@
             "open_issues": 39,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3511,
+            "stars": 3512,
             "topics": [
               "hook",
               "hooks",
@@ -1171,7 +1171,7 @@
             "open_issues": 37,
             "owner": "wellyshen",
             "repo": "react-cool-virtual",
-            "stars": 1221,
+            "stars": 1220,
             "topics": [
               "carousel",
               "chatroom",
@@ -5756,7 +5756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:22:29.244Z",
+    "last_updated": "2026-08-30T10:08:12.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
