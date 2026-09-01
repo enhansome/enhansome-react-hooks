@@ -106,11 +106,11 @@
             "id": 194027578,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:15:21Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-01T00:20:27Z",
+            "open_issues": 130,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14978,
+            "stars": 14977,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -137,7 +137,7 @@
             "open_issues": 25,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2214,
+            "stars": 2215,
             "topics": [
               "browser",
               "hacktoberfest",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T07:03:35Z",
-            "open_issues": 137,
+            "last_commit": "2026-09-01T08:32:03Z",
+            "open_issues": 145,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50239,
+            "stars": 50243,
             "topics": [
               "async",
               "cache",
@@ -340,7 +340,7 @@
             "open_issues": 7,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44846,
+            "stars": 44843,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 663,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44020,
+            "stars": 44016,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -392,7 +392,7 @@
             "open_issues": 219,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32477,
+            "stars": 32476,
             "topics": [
               "cache",
               "data",
@@ -442,7 +442,7 @@
           "repo_info": {
             "archived": false,
             "description": "React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.",
-            "homepage": "https://roi.thebuilder.dk",
+            "homepage": "https://rio.thebuilder.dk",
             "id": 90013055,
             "language": "TypeScript",
             "license": "MIT",
@@ -515,7 +515,7 @@
             "open_issues": 12,
             "owner": "immerjs",
             "repo": "use-immer",
-            "stars": 4547,
+            "stars": 4548,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T18:13:06Z",
+            "last_commit": "2026-08-31T18:43:47Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -627,8 +627,8 @@
             "id": 159676569,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T05:31:03Z",
-            "open_issues": 41,
+            "last_commit": "2026-08-31T14:41:04Z",
+            "open_issues": 40,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
             "stars": 3512,
@@ -721,7 +721,7 @@
             "open_issues": 9,
             "owner": "dai-shi",
             "repo": "use-context-selector",
-            "stars": 2960,
+            "stars": 2961,
             "topics": [
               "custom-hook",
               "react",
@@ -968,8 +968,8 @@
             "id": 169704799,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T13:40:42Z",
-            "open_issues": 8,
+            "last_commit": "2026-08-31T21:06:01Z",
+            "open_issues": 11,
             "owner": "nearform",
             "repo": "graphql-hooks",
             "stars": 1886,
@@ -3018,7 +3018,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-03-01T02:06:43Z",
-            "open_issues": 15,
+            "open_issues": 14,
             "owner": "alexkhismatulin",
             "repo": "react-use-count-down",
             "stars": 75,
@@ -5756,7 +5756,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T11:10:17.157Z",
+    "last_updated": "2026-09-01T09:36:38.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5768,7 +5768,7 @@
       "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10257,
+      "stars": 10256,
       "topics": [
         "awesome",
         "awesome-list",
