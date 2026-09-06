@@ -106,11 +106,11 @@
             "id": 194027578,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T00:20:27Z",
-            "open_issues": 132,
+            "last_commit": "2026-09-06T02:03:14Z",
+            "open_issues": 130,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14976,
+            "stars": 14975,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T06:58:49Z",
-            "open_issues": 158,
+            "last_commit": "2026-09-06T07:03:48Z",
+            "open_issues": 176,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50267,
+            "stars": 50273,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T07:03:50Z",
+            "last_commit": "2026-09-06T03:33:05Z",
             "open_issues": 8,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44848,
+            "stars": 44853,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 663,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44011,
+            "stars": 44010,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -389,7 +389,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-02T18:01:22Z",
-            "open_issues": 217,
+            "open_issues": 216,
             "owner": "vercel",
             "repo": "swr",
             "stars": 32473,
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T15:41:22Z",
+            "last_commit": "2026-09-06T01:29:08Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -1449,7 +1449,7 @@
             "open_issues": 8,
             "owner": "rehooks",
             "repo": "local-storage",
-            "stars": 570,
+            "stars": 569,
             "topics": [
               "hooks",
               "localstorage",
@@ -2394,8 +2394,8 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-04T09:11:11Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-05T08:43:02Z",
+            "open_issues": 10,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 159,
@@ -4484,31 +4484,6 @@
         },
         {
           "node_type": "item",
-          "title": "react-use-infinite-loader",
-          "description": "infinity: :page_with_curl: :hourglass_flowing_sand: Super lightweight infinite loading (scroll) hook for React apps",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": ":infinity: :page_with_curl: :hourglass_flowing_sand: Super lightweight infinite loading hook for React apps",
-            "homepage": "https://react-use-infinite-loader.netlify.app",
-            "id": 257845896,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2021-11-12T21:46:13Z",
-            "open_issues": 2,
-            "owner": "robcalcroft",
-            "repo": "react-use-infinite-loader",
-            "stars": 15,
-            "topics": [
-              "hooks",
-              "infinite-scroll",
-              "react"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:12.781Z"
-        },
-        {
-          "node_type": "item",
           "title": "react-use-lazy-load-image",
           "description": "sunrise: :zap: Add image lazy loading to your React app with ease",
           "children": [],
@@ -4602,6 +4577,31 @@
             "topics": [
               "react",
               "service-worker"
+            ]
+          },
+          "first_seen": "2026-08-28T16:57:12.781Z"
+        },
+        {
+          "node_type": "item",
+          "title": "react-use-infinite-loader",
+          "description": "infinity: :page_with_curl: :hourglass_flowing_sand: Super lightweight infinite loading (scroll) hook for React apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ":infinity: :page_with_curl: :hourglass_flowing_sand: Super lightweight infinite loading hook for React apps",
+            "homepage": "https://react-use-infinite-loader.netlify.app",
+            "id": 257845896,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2021-11-12T21:46:13Z",
+            "open_issues": 2,
+            "owner": "robcalcroft",
+            "repo": "react-use-infinite-loader",
+            "stars": 14,
+            "topics": [
+              "hooks",
+              "infinite-scroll",
+              "react"
             ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -5208,33 +5208,6 @@
         },
         {
           "node_type": "item",
-          "title": "react-use-input",
-          "description": "🎣 A hook whose setter can be directly given to HTML inputs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🎣 A hook whose setter can be directly given to HTML inputs",
-            "homepage": null,
-            "id": 175450657,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2023-03-04T03:20:10Z",
-            "open_issues": 4,
-            "owner": "robcalcroft",
-            "repo": "react-use-input",
-            "stars": 6,
-            "topics": [
-              "controlled",
-              "hooks",
-              "input",
-              "react",
-              "react-hooks"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:12.781Z"
-        },
-        {
-          "node_type": "item",
           "title": "react-use-browser",
           "description": "A hook enabling client side hydration of Server-Side-Rendered components when server-produced markup needs to differ from the final client application markup.",
           "children": [],
@@ -5272,6 +5245,33 @@
             "repo": "react-use-id-hook",
             "stars": 5,
             "topics": []
+          },
+          "first_seen": "2026-08-28T16:57:12.781Z"
+        },
+        {
+          "node_type": "item",
+          "title": "react-use-input",
+          "description": "🎣 A hook whose setter can be directly given to HTML inputs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🎣 A hook whose setter can be directly given to HTML inputs",
+            "homepage": null,
+            "id": 175450657,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2023-03-04T03:20:10Z",
+            "open_issues": 4,
+            "owner": "robcalcroft",
+            "repo": "react-use-input",
+            "stars": 5,
+            "topics": [
+              "controlled",
+              "hooks",
+              "input",
+              "react",
+              "react-hooks"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:38:50.588Z",
+    "last_updated": "2026-09-06T08:57:50.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
