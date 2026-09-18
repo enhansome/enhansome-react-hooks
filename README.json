@@ -106,8 +106,8 @@
             "id": 194027578,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T02:03:14Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-18T03:35:22Z",
+            "open_issues": 130,
             "owner": "alibaba",
             "repo": "hooks",
             "stars": 14972,
@@ -133,11 +133,11 @@
             "id": 357335336,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T00:05:24Z",
+            "last_commit": "2026-09-18T00:04:58Z",
             "open_issues": 30,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2214,
+            "stars": 2216,
             "topics": [
               "browser",
               "hacktoberfest",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T08:44:28Z",
-            "open_issues": 155,
+            "last_commit": "2026-09-18T08:19:45Z",
+            "open_issues": 163,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50314,
+            "stars": 50324,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-16T11:56:02Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-17T21:38:14Z",
+            "open_issues": 8,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44859,
+            "stars": 44862,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 664,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44007,
+            "stars": 44009,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -392,7 +392,7 @@
             "open_issues": 222,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32478,
+            "stars": 32480,
             "topics": [
               "cache",
               "data",
@@ -427,7 +427,7 @@
             "open_issues": 5,
             "owner": "yocontra",
             "repo": "react-responsive",
-            "stars": 7175,
+            "stars": 7177,
             "topics": [
               "react"
             ]
@@ -450,7 +450,7 @@
             "open_issues": 1,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5538,
+            "stars": 5539,
             "topics": [
               "hook",
               "hooks",
@@ -486,7 +486,7 @@
             "open_issues": 27,
             "owner": "ctrlplusb",
             "repo": "easy-peasy",
-            "stars": 5039,
+            "stars": 5040,
             "topics": [
               "hooks",
               "immer",
@@ -515,7 +515,7 @@
             "open_issues": 12,
             "owner": "immerjs",
             "repo": "use-immer",
-            "stars": 4548,
+            "stars": 4549,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -559,11 +559,11 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T18:25:37Z",
+            "last_commit": "2026-09-17T23:17:57Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4005,
+            "stars": 4006,
             "topics": [
               "constate",
               "hooks",
@@ -594,7 +594,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3632,
+            "stars": 3631,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -631,7 +631,7 @@
             "open_issues": 47,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3505,
+            "stars": 3506,
             "topics": [
               "hook",
               "hooks",
@@ -661,7 +661,7 @@
             "open_issues": 16,
             "owner": "xnimorz",
             "repo": "use-debounce",
-            "stars": 3384,
+            "stars": 3385,
             "topics": [
               "debounce",
               "react",
@@ -689,7 +689,7 @@
             "open_issues": 30,
             "owner": "alewin",
             "repo": "useWorker",
-            "stars": 3112,
+            "stars": 3113,
             "topics": [
               "background",
               "hook",
@@ -817,7 +817,7 @@
             "open_issues": 44,
             "owner": "pbeshai",
             "repo": "use-query-params",
-            "stars": 2234,
+            "stars": 2235,
             "topics": [
               "hooks",
               "query",
@@ -848,7 +848,7 @@
             "open_issues": 21,
             "owner": "LeetCode-OpenSource",
             "repo": "rxjs-hooks",
-            "stars": 2177,
+            "stars": 2178,
             "topics": [
               "observable",
               "react",
@@ -901,7 +901,7 @@
             "open_issues": 31,
             "owner": "FormidableLabs",
             "repo": "react-swipeable",
-            "stars": 2112,
+            "stars": 2113,
             "topics": [
               "hook",
               "mobile",
@@ -926,7 +926,7 @@
             "id": 154839298,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-05-13T09:55:42Z",
+            "last_commit": "2026-09-18T08:11:14Z",
             "open_issues": 8,
             "owner": "kitze",
             "repo": "react-hanger",
@@ -951,7 +951,7 @@
             "open_issues": 8,
             "owner": "kentcdodds",
             "repo": "use-deep-compare-effect",
-            "stars": 1916,
+            "stars": 1917,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -1292,7 +1292,7 @@
             "open_issues": 22,
             "owner": "wellyshen",
             "repo": "react-cool-dimensions",
-            "stars": 933,
+            "stars": 934,
             "topics": [
               "container-queries",
               "dimensions",
@@ -1351,7 +1351,7 @@
             "open_issues": 44,
             "owner": "iamthesiz",
             "repo": "react-useportal",
-            "stars": 885,
+            "stars": 886,
             "topics": [
               "dialog",
               "dropdown",
@@ -1421,7 +1421,7 @@
             "open_issues": 15,
             "owner": "dai-shi",
             "repo": "react-hooks-worker",
-            "stars": 710,
+            "stars": 711,
             "topics": [
               "custom-hook",
               "react",
@@ -1449,7 +1449,7 @@
             "open_issues": 8,
             "owner": "rehooks",
             "repo": "local-storage",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "hooks",
               "localstorage",
@@ -1722,7 +1722,7 @@
             "open_issues": 8,
             "owner": "homerchen19",
             "repo": "use-undo",
-            "stars": 414,
+            "stars": 415,
             "topics": [
               "hooks",
               "react",
@@ -1951,7 +1951,7 @@
             "open_issues": 3,
             "owner": "Avarios",
             "repo": "use-lilius",
-            "stars": 274,
+            "stars": 275,
             "topics": [
               "calendar",
               "date-fns",
@@ -2008,7 +2008,7 @@
             "open_issues": 7,
             "owner": "danoc",
             "repo": "react-use-clipboard",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "clipboard",
               "component",
@@ -2034,7 +2034,7 @@
             "open_issues": 2,
             "owner": "sandiiarov",
             "repo": "use-deep-compare",
-            "stars": 258,
+            "stars": 259,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -2199,7 +2199,7 @@
             "open_issues": 42,
             "owner": "upmostly",
             "repo": "modali",
-            "stars": 211,
+            "stars": 210,
             "topics": [
               "dialog",
               "modal",
@@ -2522,7 +2522,7 @@
             "open_issues": 42,
             "owner": "dejorrit",
             "repo": "scroll-data-hook",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -2570,7 +2570,7 @@
             "open_issues": 10,
             "owner": "hupe1980",
             "repo": "react-script-hook",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "hook",
               "loader",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:40:39.990Z",
+    "last_updated": "2026-09-18T09:14:04.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
