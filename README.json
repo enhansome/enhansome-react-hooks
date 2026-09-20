@@ -106,11 +106,11 @@
             "id": 194027578,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T03:35:22Z",
+            "last_commit": "2026-09-20T03:08:15Z",
             "open_issues": 130,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14973,
+            "stars": 14975,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T08:51:11Z",
-            "open_issues": 168,
+            "last_commit": "2026-09-20T06:02:38Z",
+            "open_issues": 169,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50333,
+            "stars": 50336,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T08:39:25Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-20T02:54:39Z",
+            "open_issues": 7,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44863,
+            "stars": 44866,
             "topics": [
               "dx",
               "form-builder",
@@ -392,7 +392,7 @@
             "open_issues": 223,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32483,
+            "stars": 32486,
             "topics": [
               "cache",
               "data",
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T01:48:57Z",
+            "last_commit": "2026-09-20T07:03:53Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -594,7 +594,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3631,
+            "stars": 3632,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -689,7 +689,7 @@
             "open_issues": 30,
             "owner": "alewin",
             "repo": "useWorker",
-            "stars": 3113,
+            "stars": 3112,
             "topics": [
               "background",
               "hook",
@@ -747,7 +747,7 @@
             "open_issues": 17,
             "owner": "dai-shi",
             "repo": "react-tracked",
-            "stars": 2819,
+            "stars": 2820,
             "topics": [
               "global-states",
               "react",
@@ -1213,7 +1213,7 @@
             "open_issues": 32,
             "owner": "slorber",
             "repo": "react-async-hook",
-            "stars": 1188,
+            "stars": 1187,
             "topics": [
               "hooks"
             ]
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:00:18.631Z",
+    "last_updated": "2026-09-20T09:28:37.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
