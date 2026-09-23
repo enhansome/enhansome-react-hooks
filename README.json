@@ -106,8 +106,8 @@
             "id": 194027578,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T02:35:26Z",
-            "open_issues": 131,
+            "last_commit": "2026-09-22T11:46:27Z",
+            "open_issues": 129,
             "owner": "alibaba",
             "repo": "hooks",
             "stars": 14974,
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T08:26:34Z",
-            "open_issues": 170,
+            "last_commit": "2026-09-23T09:18:12Z",
+            "open_issues": 158,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50348,
+            "stars": 50347,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T07:55:44Z",
+            "last_commit": "2026-09-22T22:26:23Z",
             "open_issues": 6,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44867,
+            "stars": 44866,
             "topics": [
               "dx",
               "form-builder",
@@ -368,10 +368,10 @@
             "language": "TypeScript",
             "license": "Unlicense",
             "last_commit": "2026-06-10T18:51:23Z",
-            "open_issues": 664,
+            "open_issues": 665,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44011,
+            "stars": 44008,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -388,11 +388,11 @@
             "id": 218115303,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T18:24:39Z",
-            "open_issues": 224,
+            "last_commit": "2026-09-22T12:47:45Z",
+            "open_issues": 222,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32485,
+            "stars": 32489,
             "topics": [
               "cache",
               "data",
@@ -427,7 +427,7 @@
             "open_issues": 5,
             "owner": "yocontra",
             "repo": "react-responsive",
-            "stars": 7177,
+            "stars": 7176,
             "topics": [
               "react"
             ]
@@ -631,7 +631,7 @@
             "open_issues": 48,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3506,
+            "stars": 3504,
             "topics": [
               "hook",
               "hooks",
@@ -901,7 +901,7 @@
             "open_issues": 31,
             "owner": "FormidableLabs",
             "repo": "react-swipeable",
-            "stars": 2113,
+            "stars": 2112,
             "topics": [
               "hook",
               "mobile",
@@ -972,7 +972,7 @@
             "open_issues": 9,
             "owner": "nearform",
             "repo": "graphql-hooks",
-            "stars": 1886,
+            "stars": 1887,
             "topics": [
               "graphql",
               "graphql-client",
@@ -1213,7 +1213,7 @@
             "open_issues": 32,
             "owner": "slorber",
             "repo": "react-async-hook",
-            "stars": 1187,
+            "stars": 1186,
             "topics": [
               "hooks"
             ]
@@ -1722,7 +1722,7 @@
             "open_issues": 8,
             "owner": "homerchen19",
             "repo": "use-undo",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "hooks",
               "react",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:29:54.842Z",
+    "last_updated": "2026-09-23T09:34:28.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10258,
+      "stars": 10257,
       "topics": [
         "awesome",
         "awesome-list",
