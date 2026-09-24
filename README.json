@@ -133,7 +133,7 @@
             "id": 357335336,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T00:06:09Z",
+            "last_commit": "2026-09-24T00:04:59Z",
             "open_issues": 30,
             "owner": "react-hookz",
             "repo": "web",
@@ -167,7 +167,7 @@
             "open_issues": 13,
             "owner": "craig1123",
             "repo": "react-recipes",
-            "stars": 1045,
+            "stars": 1044,
             "topics": [
               "custom-hooks",
               "customized-hooks",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T09:18:12Z",
-            "open_issues": 158,
+            "last_commit": "2026-09-24T05:26:48Z",
+            "open_issues": 168,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50347,
+            "stars": 50354,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T22:26:23Z",
+            "last_commit": "2026-09-24T04:58:00Z",
             "open_issues": 6,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44866,
+            "stars": 44865,
             "topics": [
               "dx",
               "form-builder",
@@ -368,10 +368,10 @@
             "language": "TypeScript",
             "license": "Unlicense",
             "last_commit": "2026-06-10T18:51:23Z",
-            "open_issues": 665,
+            "open_issues": 666,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44008,
+            "stars": 44010,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -392,7 +392,7 @@
             "open_issues": 222,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32489,
+            "stars": 32490,
             "topics": [
               "cache",
               "data",
@@ -450,7 +450,7 @@
             "open_issues": 1,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5538,
+            "stars": 5539,
             "topics": [
               "hook",
               "hooks",
@@ -594,7 +594,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3631,
+            "stars": 3630,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -631,7 +631,7 @@
             "open_issues": 48,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3504,
+            "stars": 3503,
             "topics": [
               "hook",
               "hooks",
@@ -848,7 +848,7 @@
             "open_issues": 21,
             "owner": "LeetCode-OpenSource",
             "repo": "rxjs-hooks",
-            "stars": 2177,
+            "stars": 2176,
             "topics": [
               "observable",
               "react",
@@ -1213,7 +1213,7 @@
             "open_issues": 32,
             "owner": "slorber",
             "repo": "react-async-hook",
-            "stars": 1186,
+            "stars": 1187,
             "topics": [
               "hooks"
             ]
@@ -1263,7 +1263,7 @@
             "open_issues": 13,
             "owner": "craig1123",
             "repo": "react-recipes",
-            "stars": 1045,
+            "stars": 1044,
             "topics": [
               "custom-hooks",
               "customized-hooks",
@@ -2250,7 +2250,7 @@
             "open_issues": 24,
             "owner": "mfrachet",
             "repo": "server-push-hooks",
-            "stars": 193,
+            "stars": 192,
             "topics": [
               "hooks",
               "react",
@@ -3862,7 +3862,7 @@
             "id": 156754728,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-18T20:54:53Z",
+            "last_commit": "2026-09-24T05:15:48Z",
             "open_issues": 34,
             "owner": "sandiiarov",
             "repo": "use-simple-undo",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:34:28.386Z",
+    "last_updated": "2026-09-24T09:34:32.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10257,
+      "stars": 10255,
       "topics": [
         "awesome",
         "awesome-list",
