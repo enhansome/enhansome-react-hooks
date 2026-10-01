@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T09:19:02Z",
-            "open_issues": 181,
+            "last_commit": "2026-10-01T07:09:41Z",
+            "open_issues": 187,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50384,
+            "stars": 50386,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T10:34:59Z",
+            "last_commit": "2026-10-01T08:19:09Z",
             "open_issues": 8,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44867,
+            "stars": 44868,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 665,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44009,
+            "stars": 44006,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -389,10 +389,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-22T12:47:45Z",
-            "open_issues": 226,
+            "open_issues": 224,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32495,
+            "stars": 32494,
             "topics": [
               "cache",
               "data",
@@ -515,7 +515,7 @@
             "open_issues": 12,
             "owner": "immerjs",
             "repo": "use-immer",
-            "stars": 4552,
+            "stars": 4553,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -559,11 +559,11 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T19:29:26Z",
+            "last_commit": "2026-10-01T11:03:53Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4006,
+            "stars": 4007,
             "topics": [
               "constate",
               "hooks",
@@ -594,7 +594,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3630,
+            "stars": 3631,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -631,7 +631,7 @@
             "open_issues": 49,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3503,
+            "stars": 3505,
             "topics": [
               "hook",
               "hooks",
@@ -1662,7 +1662,7 @@
             "id": 155645096,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-24T19:46:32Z",
+            "last_commit": "2026-10-01T10:43:37Z",
             "open_issues": 19,
             "owner": "sandiiarov",
             "repo": "use-events",
@@ -3604,8 +3604,8 @@
             "id": 263476527,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T04:50:24Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-30T15:37:34Z",
+            "open_issues": 12,
             "owner": "helderberto",
             "repo": "use-is-mounted-ref",
             "stars": 44,
@@ -3862,7 +3862,7 @@
             "id": 156754728,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-25T01:37:01Z",
+            "last_commit": "2026-09-30T19:52:16Z",
             "open_issues": 34,
             "owner": "sandiiarov",
             "repo": "use-simple-undo",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:46:06.360Z",
+    "last_updated": "2026-10-01T11:12:20.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10258,
+      "stars": 10259,
       "topics": [
         "awesome",
         "awesome-list",
