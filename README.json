@@ -137,7 +137,7 @@
             "open_issues": 30,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2216,
+            "stars": 2215,
             "topics": [
               "browser",
               "hacktoberfest",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T10:05:41Z",
-            "open_issues": 183,
+            "last_commit": "2026-10-03T04:09:39Z",
+            "open_issues": 174,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50390,
+            "stars": 50394,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T08:16:38Z",
+            "last_commit": "2026-10-02T21:25:07Z",
             "open_issues": 8,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44871,
+            "stars": 44870,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 665,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44008,
+            "stars": 44007,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -389,10 +389,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-22T12:47:45Z",
-            "open_issues": 226,
+            "open_issues": 228,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32494,
+            "stars": 32492,
             "topics": [
               "cache",
               "data",
@@ -427,7 +427,7 @@
             "open_issues": 5,
             "owner": "yocontra",
             "repo": "react-responsive",
-            "stars": 7179,
+            "stars": 7181,
             "topics": [
               "react"
             ]
@@ -594,7 +594,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3631,
+            "stars": 3630,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -627,7 +627,7 @@
             "id": 159676569,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T13:54:35Z",
+            "last_commit": "2026-10-02T12:56:07Z",
             "open_issues": 49,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
@@ -689,7 +689,7 @@
             "open_issues": 30,
             "owner": "alewin",
             "repo": "useWorker",
-            "stars": 3112,
+            "stars": 3111,
             "topics": [
               "background",
               "hook",
@@ -775,7 +775,7 @@
             "open_issues": 92,
             "owner": "ava",
             "repo": "use-http",
-            "stars": 2297,
+            "stars": 2295,
             "topics": [
               "fetch",
               "fetch-data",
@@ -2394,7 +2394,7 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T18:53:58Z",
+            "last_commit": "2026-10-02T10:48:18Z",
             "open_issues": 10,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:45:41.209Z",
+    "last_updated": "2026-10-03T05:05:31.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10259,
+      "stars": 10261,
       "topics": [
         "awesome",
         "awesome-list",
