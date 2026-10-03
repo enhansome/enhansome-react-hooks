@@ -69,18 +69,18 @@
 
 ## Packages
 
-* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,394 | 🐛 174 | 🌐 TypeScript | 📅 2026-10-03 Hooks for fetching, caching and updating asynchronous data in React.
-* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,870 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-02 Form validation without the hassle.
+* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,392 | 🐛 171 | 🌐 TypeScript | 📅 2026-10-03 Hooks for fetching, caching and updating asynchronous data in React.
+* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,869 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-03 Form validation without the hassle.
 * [`react-use`](https://github.com/streamich/react-use) ⭐ 44,007 | 🐛 665 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
 * [`swr`](https://github.com/zeit/swr) ⭐ 32,492 | 🐛 228 | 🌐 TypeScript | 📅 2026-09-22 React Hooks library for remote data fetching.
-* [`react-responsive`](https://github.com/contra/react-responsive) ⭐ 7,181 | 🐛 5 | 🌐 TypeScript | 📅 2025-03-01 React media query module.
+* [`react-responsive`](https://github.com/contra/react-responsive) ⭐ 7,182 | 🐛 5 | 🌐 TypeScript | 📅 2025-03-01 React media query module.
 * [`useInView`](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,539 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11 React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 * [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) ⭐ 5,040 | 🐛 27 | 🌐 JavaScript | 📅 2026-06-30 Easy peasy global state for React.
 * [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,553 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 28,984 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-02 to manipulate state.
 * [`the-platform`](https://github.com/palmerhq/the-platform) ⭐ 4,370 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-09 Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 * [`constate`](https://github.com/diegohaz/constate) ⭐ 4,007 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-01 Transform your local state into global state using `useContextState` and `useContextReducer`.
 * [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) ⭐ 3,630 | 🐛 43 | 🌐 TypeScript | 📅 2024-04-22 A collection of hooks for use with [Firebase](https://firebase.google.com).
-* [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) ⭐ 3,507 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-02 React hook for hotkeys.
+* [`react-hotkey-hook`](https://github.com/JohannesKlauss/react-hotkeys-hook) ⭐ 3,508 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-02 React hook for hotkeys.
 * [`use-debounce`](https://github.com/xnimorz/use-debounce) ⭐ 3,383 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-11 A debounce (and throttle) hook for React.
 * [`@koale/useworker`](https://github.com/alewin/useWorker) ⭐ 3,111 | 🐛 30 | 🌐 JavaScript | 📅 2026-06-06 ⚙️ Running heavy task in background using web workers, without blocking the UI
 * [`use-context-selector`](https://github.com/dai-shi/use-context-selector) ⭐ 2,959 | 🐛 9 | 🌐 TypeScript | 📅 2026-06-08 React useContextSelector hook in userland.
