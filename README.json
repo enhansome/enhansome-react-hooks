@@ -107,10 +107,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-22T11:46:27Z",
-            "open_issues": 131,
+            "open_issues": 132,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14977,
+            "stars": 14976,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -137,7 +137,7 @@
             "open_issues": 30,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2216,
+            "stars": 2215,
             "topics": [
               "browser",
               "hacktoberfest",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T07:37:38Z",
-            "open_issues": 163,
+            "last_commit": "2026-10-05T03:44:51Z",
+            "open_issues": 166,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50396,
+            "stars": 50395,
             "topics": [
               "async",
               "cache",
@@ -371,7 +371,7 @@
             "open_issues": 666,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44006,
+            "stars": 44002,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -450,7 +450,7 @@
             "open_issues": 1,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5539,
+            "stars": 5538,
             "topics": [
               "hook",
               "hooks",
@@ -486,7 +486,7 @@
             "open_issues": 27,
             "owner": "ctrlplusb",
             "repo": "easy-peasy",
-            "stars": 5040,
+            "stars": 5039,
             "topics": [
               "hooks",
               "immer",
@@ -559,11 +559,11 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T01:42:16Z",
+            "last_commit": "2026-10-05T01:08:08Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4007,
+            "stars": 4006,
             "topics": [
               "constate",
               "hooks",
@@ -627,11 +627,11 @@
             "id": 159676569,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:56:07Z",
+            "last_commit": "2026-10-05T08:33:08Z",
             "open_issues": 49,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3507,
+            "stars": 3506,
             "topics": [
               "hook",
               "hooks",
@@ -661,7 +661,7 @@
             "open_issues": 16,
             "owner": "xnimorz",
             "repo": "use-debounce",
-            "stars": 3383,
+            "stars": 3382,
             "topics": [
               "debounce",
               "react",
@@ -689,7 +689,7 @@
             "open_issues": 30,
             "owner": "alewin",
             "repo": "useWorker",
-            "stars": 3111,
+            "stars": 3110,
             "topics": [
               "background",
               "hook",
@@ -721,7 +721,7 @@
             "open_issues": 9,
             "owner": "dai-shi",
             "repo": "use-context-selector",
-            "stars": 2959,
+            "stars": 2958,
             "topics": [
               "custom-hook",
               "react",
@@ -747,7 +747,7 @@
             "open_issues": 17,
             "owner": "dai-shi",
             "repo": "react-tracked",
-            "stars": 2820,
+            "stars": 2821,
             "topics": [
               "global-states",
               "react",
@@ -817,7 +817,7 @@
             "open_issues": 44,
             "owner": "pbeshai",
             "repo": "use-query-params",
-            "stars": 2235,
+            "stars": 2234,
             "topics": [
               "hooks",
               "query",
@@ -930,7 +930,7 @@
             "open_issues": 8,
             "owner": "kitze",
             "repo": "react-hanger",
-            "stars": 1928,
+            "stars": 1927,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -972,7 +972,7 @@
             "open_issues": 9,
             "owner": "nearform",
             "repo": "graphql-hooks",
-            "stars": 1887,
+            "stars": 1886,
             "topics": [
               "graphql",
               "graphql-client",
@@ -1031,10 +1031,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-20T07:13:06Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "heluxjs",
             "repo": "helux",
-            "stars": 1388,
+            "stars": 1387,
             "topics": [
               "atom",
               "better-redux",
@@ -1292,7 +1292,7 @@
             "open_issues": 22,
             "owner": "wellyshen",
             "repo": "react-cool-dimensions",
-            "stars": 934,
+            "stars": 933,
             "topics": [
               "container-queries",
               "dimensions",
@@ -1666,7 +1666,7 @@
             "open_issues": 19,
             "owner": "sandiiarov",
             "repo": "use-events",
-            "stars": 493,
+            "stars": 492,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -1722,7 +1722,7 @@
             "open_issues": 8,
             "owner": "homerchen19",
             "repo": "use-undo",
-            "stars": 416,
+            "stars": 415,
             "topics": [
               "hooks",
               "react",
@@ -2081,7 +2081,7 @@
             "open_issues": 46,
             "owner": "wellyshen",
             "repo": "react-cool-form",
-            "stars": 244,
+            "stars": 243,
             "topics": [
               "arrays",
               "asynchronous",
@@ -2377,7 +2377,7 @@
             "open_issues": 6,
             "owner": "microcmsio",
             "repo": "react-hooks-use-modal",
-            "stars": 170,
+            "stars": 169,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -2394,8 +2394,8 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T10:08:11Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-04T10:49:41Z",
+            "open_issues": 8,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 159,
@@ -2582,37 +2582,6 @@
         },
         {
           "node_type": "item",
-          "title": "react-hook-mighty-mouse",
-          "description": "React hook that tracks mouse events on selected element 🐭",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🐭  React hook that tracks mouse events on selected element - zero dependencies",
-            "homepage": "https://mkosir.github.io/react-hook-mighty-mouse",
-            "id": 212674094,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2022-01-15T12:10:02Z",
-            "open_issues": 0,
-            "owner": "mkosir",
-            "repo": "react-hook-mighty-mouse",
-            "stars": 125,
-            "topics": [
-              "angle",
-              "coordinates",
-              "hook",
-              "location",
-              "mighty",
-              "mighty-mouse",
-              "mouse",
-              "mouse-tracking",
-              "react"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:12.781Z"
-        },
-        {
-          "node_type": "item",
           "title": "online-status",
           "description": "React Hook for Online status.",
           "children": [],
@@ -2629,6 +2598,37 @@
             "repo": "online-status",
             "stars": 123,
             "topics": []
+          },
+          "first_seen": "2026-08-28T16:57:12.781Z"
+        },
+        {
+          "node_type": "item",
+          "title": "react-hook-mighty-mouse",
+          "description": "React hook that tracks mouse events on selected element 🐭",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🐭  React hook that tracks mouse events on selected element - zero dependencies",
+            "homepage": "https://mkosir.github.io/react-hook-mighty-mouse",
+            "id": 212674094,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2022-01-15T12:10:02Z",
+            "open_issues": 0,
+            "owner": "mkosir",
+            "repo": "react-hook-mighty-mouse",
+            "stars": 123,
+            "topics": [
+              "angle",
+              "coordinates",
+              "hook",
+              "location",
+              "mighty",
+              "mighty-mouse",
+              "mouse",
+              "mouse-tracking",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:46:20.208Z",
+    "last_updated": "2026-10-05T11:52:04.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
