@@ -71,7 +71,7 @@
 
 * [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,397 | 🐛 168 | 🌐 TypeScript | 📅 2026-10-05 Hooks for fetching, caching and updating asynchronous data in React.
 * [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,869 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-06 Form validation without the hassle.
-* [`react-use`](https://github.com/streamich/react-use) ⭐ 43,999 | 🐛 666 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
+* [`react-use`](https://github.com/streamich/react-use) ⭐ 43,999 | 🐛 665 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
 * [`swr`](https://github.com/zeit/swr) ⭐ 32,491 | 🐛 229 | 🌐 TypeScript | 📅 2026-09-22 React Hooks library for remote data fetching.
 * [`react-responsive`](https://github.com/contra/react-responsive) ⭐ 7,182 | 🐛 5 | 🌐 TypeScript | 📅 2025-03-01 React media query module.
 * [`useInView`](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,538 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11 React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
