@@ -110,7 +110,7 @@
             "open_issues": 132,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14976,
+            "stars": 14975,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T03:44:51Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-05T17:44:50Z",
+            "open_issues": 168,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50395,
+            "stars": 50397,
             "topics": [
               "async",
               "cache",
@@ -336,7 +336,7 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T09:53:40Z",
+            "last_commit": "2026-10-06T09:24:22Z",
             "open_issues": 8,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
@@ -371,7 +371,7 @@
             "open_issues": 666,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 44002,
+            "stars": 43999,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -392,7 +392,7 @@
             "open_issues": 229,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32488,
+            "stars": 32491,
             "topics": [
               "cache",
               "data",
@@ -559,11 +559,11 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T01:08:08Z",
+            "last_commit": "2026-10-06T02:56:06Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4006,
+            "stars": 4005,
             "topics": [
               "constate",
               "hooks",
@@ -631,7 +631,7 @@
             "open_issues": 49,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3506,
+            "stars": 3505,
             "topics": [
               "hook",
               "hooks",
@@ -930,7 +930,7 @@
             "open_issues": 8,
             "owner": "kitze",
             "repo": "react-hanger",
-            "stars": 1927,
+            "stars": 1926,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -1662,7 +1662,7 @@
             "id": 155645096,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-04T04:37:36Z",
+            "last_commit": "2026-10-05T18:45:51Z",
             "open_issues": 19,
             "owner": "sandiiarov",
             "repo": "use-events",
@@ -2394,8 +2394,8 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T10:49:41Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-05T11:55:47Z",
+            "open_issues": 7,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 159,
@@ -3862,7 +3862,7 @@
             "id": 156754728,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-04T04:41:34Z",
+            "last_commit": "2026-10-05T14:35:33Z",
             "open_issues": 34,
             "owner": "sandiiarov",
             "repo": "use-simple-undo",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:52:04.922Z",
+    "last_updated": "2026-10-06T10:28:11.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10260,
+      "stars": 10261,
       "topics": [
         "awesome",
         "awesome-list",
