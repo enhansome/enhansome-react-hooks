@@ -107,10 +107,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-22T11:46:27Z",
-            "open_issues": 132,
+            "open_issues": 134,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14975,
+            "stars": 14976,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -137,7 +137,7 @@
             "open_issues": 30,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2215,
+            "stars": 2216,
             "topics": [
               "browser",
               "hacktoberfest",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T17:44:50Z",
-            "open_issues": 168,
+            "last_commit": "2026-10-06T12:45:11Z",
+            "open_issues": 169,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50397,
+            "stars": 50405,
             "topics": [
               "async",
               "cache",
@@ -340,7 +340,7 @@
             "open_issues": 8,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44869,
+            "stars": 44870,
             "topics": [
               "dx",
               "form-builder",
@@ -368,10 +368,10 @@
             "language": "TypeScript",
             "license": "Unlicense",
             "last_commit": "2026-06-10T18:51:23Z",
-            "open_issues": 665,
+            "open_issues": 666,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43999,
+            "stars": 44000,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -392,7 +392,7 @@
             "open_issues": 229,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32491,
+            "stars": 32493,
             "topics": [
               "cache",
               "data",
@@ -450,7 +450,7 @@
             "open_issues": 1,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5538,
+            "stars": 5539,
             "topics": [
               "hook",
               "hooks",
@@ -559,11 +559,11 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T02:56:06Z",
+            "last_commit": "2026-10-07T10:18:16Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4005,
+            "stars": 4006,
             "topics": [
               "constate",
               "hooks",
@@ -594,7 +594,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3630,
+            "stars": 3629,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -661,7 +661,7 @@
             "open_issues": 16,
             "owner": "xnimorz",
             "repo": "use-debounce",
-            "stars": 3382,
+            "stars": 3383,
             "topics": [
               "debounce",
               "react",
@@ -689,7 +689,7 @@
             "open_issues": 30,
             "owner": "alewin",
             "repo": "useWorker",
-            "stars": 3110,
+            "stars": 3111,
             "topics": [
               "background",
               "hook",
@@ -721,7 +721,7 @@
             "open_issues": 9,
             "owner": "dai-shi",
             "repo": "use-context-selector",
-            "stars": 2958,
+            "stars": 2959,
             "topics": [
               "custom-hook",
               "react",
@@ -817,7 +817,7 @@
             "open_issues": 44,
             "owner": "pbeshai",
             "repo": "use-query-params",
-            "stars": 2234,
+            "stars": 2235,
             "topics": [
               "hooks",
               "query",
@@ -930,7 +930,7 @@
             "open_issues": 8,
             "owner": "kitze",
             "repo": "react-hanger",
-            "stars": 1926,
+            "stars": 1927,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -972,7 +972,7 @@
             "open_issues": 9,
             "owner": "nearform",
             "repo": "graphql-hooks",
-            "stars": 1886,
+            "stars": 1887,
             "topics": [
               "graphql",
               "graphql-client",
@@ -1034,7 +1034,7 @@
             "open_issues": 12,
             "owner": "heluxjs",
             "repo": "helux",
-            "stars": 1387,
+            "stars": 1388,
             "topics": [
               "atom",
               "better-redux",
@@ -1666,7 +1666,7 @@
             "open_issues": 19,
             "owner": "sandiiarov",
             "repo": "use-events",
-            "stars": 492,
+            "stars": 493,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -1722,7 +1722,7 @@
             "open_issues": 8,
             "owner": "homerchen19",
             "repo": "use-undo",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "hooks",
               "react",
@@ -1845,6 +1845,38 @@
         },
         {
           "node_type": "item",
+          "title": "react-native-react-bridge",
+          "description": "A React Native plugin to run React and handle communication between them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An easy way to integrate your React (or Preact/React Native Web) app into React Native app with WebView.",
+            "homepage": "https://www.npmjs.com/package/react-native-react-bridge",
+            "id": 311012657,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-06-13T08:41:03Z",
+            "open_issues": 18,
+            "owner": "inokawa",
+            "repo": "react-native-react-bridge",
+            "stars": 299,
+            "topics": [
+              "expo",
+              "metro",
+              "preact",
+              "react",
+              "react-dom",
+              "react-hooks",
+              "react-native",
+              "react-native-web",
+              "webassembly",
+              "webview"
+            ]
+          },
+          "first_seen": "2026-08-28T16:57:12.781Z"
+        },
+        {
+          "node_type": "item",
           "title": "trousers",
           "description": "👖 A hooks-first CSS-in-JS library, focused on semantics and runtime performance",
           "children": [],
@@ -1867,38 +1899,6 @@
               "react",
               "ssr",
               "stylesheet"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:12.781Z"
-        },
-        {
-          "node_type": "item",
-          "title": "react-native-react-bridge",
-          "description": "A React Native plugin to run React and handle communication between them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "An easy way to integrate your React (or Preact/React Native Web) app into React Native app with WebView.",
-            "homepage": "https://www.npmjs.com/package/react-native-react-bridge",
-            "id": 311012657,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-06-13T08:41:03Z",
-            "open_issues": 18,
-            "owner": "inokawa",
-            "repo": "react-native-react-bridge",
-            "stars": 298,
-            "topics": [
-              "expo",
-              "metro",
-              "preact",
-              "react",
-              "react-dom",
-              "react-hooks",
-              "react-native",
-              "react-native-web",
-              "webassembly",
-              "webview"
             ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -2394,11 +2394,11 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T11:55:47Z",
+            "last_commit": "2026-10-06T11:36:10Z",
             "open_issues": 7,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
-            "stars": 159,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -2582,6 +2582,37 @@
         },
         {
           "node_type": "item",
+          "title": "react-hook-mighty-mouse",
+          "description": "React hook that tracks mouse events on selected element 🐭",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🐭  React hook that tracks mouse events on selected element - zero dependencies",
+            "homepage": "https://mkosir.github.io/react-hook-mighty-mouse",
+            "id": 212674094,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2022-01-15T12:10:02Z",
+            "open_issues": 0,
+            "owner": "mkosir",
+            "repo": "react-hook-mighty-mouse",
+            "stars": 124,
+            "topics": [
+              "angle",
+              "coordinates",
+              "hook",
+              "location",
+              "mighty",
+              "mighty-mouse",
+              "mouse",
+              "mouse-tracking",
+              "react"
+            ]
+          },
+          "first_seen": "2026-08-28T16:57:12.781Z"
+        },
+        {
+          "node_type": "item",
           "title": "online-status",
           "description": "React Hook for Online status.",
           "children": [],
@@ -2598,37 +2629,6 @@
             "repo": "online-status",
             "stars": 123,
             "topics": []
-          },
-          "first_seen": "2026-08-28T16:57:12.781Z"
-        },
-        {
-          "node_type": "item",
-          "title": "react-hook-mighty-mouse",
-          "description": "React hook that tracks mouse events on selected element 🐭",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🐭  React hook that tracks mouse events on selected element - zero dependencies",
-            "homepage": "https://mkosir.github.io/react-hook-mighty-mouse",
-            "id": 212674094,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2022-01-15T12:10:02Z",
-            "open_issues": 0,
-            "owner": "mkosir",
-            "repo": "react-hook-mighty-mouse",
-            "stars": 123,
-            "topics": [
-              "angle",
-              "coordinates",
-              "hook",
-              "location",
-              "mighty",
-              "mighty-mouse",
-              "mouse",
-              "mouse-tracking",
-              "react"
-            ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -3171,8 +3171,8 @@
             "id": 164839536,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-04-02T16:21:07Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-06T20:17:32Z",
+            "open_issues": 9,
             "owner": "betterminddev",
             "repo": "react-media-hook",
             "stars": 61,
@@ -3862,7 +3862,7 @@
             "id": 156754728,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-10-05T14:35:33Z",
+            "last_commit": "2026-10-07T10:12:33Z",
             "open_issues": 34,
             "owner": "sandiiarov",
             "repo": "use-simple-undo",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:32:36.563Z",
+    "last_updated": "2026-10-07T11:22:35.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
