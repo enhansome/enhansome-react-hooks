@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T09:32:59Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-11T02:49:15Z",
+            "open_issues": 167,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50411,
+            "stars": 50414,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T03:02:58Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-10T23:05:42Z",
+            "open_issues": 10,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44864,
+            "stars": 44860,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 667,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43996,
+            "stars": 43998,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -447,7 +447,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-11T01:24:17Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
             "stars": 5537,
@@ -515,7 +515,7 @@
             "open_issues": 12,
             "owner": "immerjs",
             "repo": "use-immer",
-            "stars": 4552,
+            "stars": 4551,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T00:38:27Z",
+            "last_commit": "2026-10-10T20:35:23Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -875,7 +875,7 @@
             "open_issues": 0,
             "owner": "mobxjs",
             "repo": "mobx-react-lite",
-            "stars": 2118,
+            "stars": 2117,
             "topics": [
               "mobx",
               "observables",
@@ -2250,7 +2250,7 @@
             "open_issues": 24,
             "owner": "mfrachet",
             "repo": "server-push-hooks",
-            "stars": 192,
+            "stars": 191,
             "topics": [
               "hooks",
               "react",
@@ -2394,8 +2394,8 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T11:35:00Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-10T10:53:03Z",
+            "open_issues": 4,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 160,
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:50:02.704Z",
+    "last_updated": "2026-10-11T11:02:28.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10262,
+      "stars": 10264,
       "topics": [
         "awesome",
         "awesome-list",

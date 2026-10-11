@@ -69,14 +69,14 @@
 
 ## Packages
 
-* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,411 | 🐛 166 | 🌐 TypeScript | 📅 2026-10-10 Hooks for fetching, caching and updating asynchronous data in React.
-* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,864 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-10 Form validation without the hassle.
-* [`react-use`](https://github.com/streamich/react-use) ⭐ 43,996 | 🐛 667 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
+* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,414 | 🐛 167 | 🌐 TypeScript | 📅 2026-10-11 Hooks for fetching, caching and updating asynchronous data in React.
+* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,860 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-10 Form validation without the hassle.
+* [`react-use`](https://github.com/streamich/react-use) ⭐ 43,998 | 🐛 667 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
 * [`swr`](https://github.com/zeit/swr) ⭐ 32,494 | 🐛 232 | 🌐 TypeScript | 📅 2026-09-22 React Hooks library for remote data fetching.
 * [`react-responsive`](https://github.com/contra/react-responsive) ⭐ 7,182 | 🐛 5 | 🌐 TypeScript | 📅 2025-03-01 React media query module.
-* [`useInView`](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,537 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-11 React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
+* [`useInView`](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,537 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-11 React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 * [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) ⭐ 5,039 | 🐛 27 | 🌐 JavaScript | 📅 2026-06-30 Easy peasy global state for React.
-* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,552 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 28,984 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-02 to manipulate state.
+* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,551 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 28,985 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-02 to manipulate state.
 * [`the-platform`](https://github.com/palmerhq/the-platform) ⭐ 4,370 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-09 Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 * [`constate`](https://github.com/diegohaz/constate) ⭐ 4,006 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-10 Transform your local state into global state using `useContextState` and `useContextReducer`.
 * [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) ⭐ 3,630 | 🐛 43 | 🌐 TypeScript | 📅 2024-04-22 A collection of hooks for use with [Firebase](https://firebase.google.com).
@@ -136,12 +136,12 @@
 * [`react-cookie`](https://github.com/reactivestack/cookies) ⭐ 215 | 🐛 4 | 🌐 TypeScript | 📅 2026-05-09 React hooks for universal cookies.
 * [`modali`](https://github.com/upmostly/modali) ⭐ 209 | 🐛 42 | 🌐 JavaScript | 📅 2022-12-09 A delightful modal dialog component for React, built from the ground up to support React Hooks.
 * [`react-hooks-svgdrawing`](https://github.com/kmkzt/react-hooks-svgdrawing) ⭐ 202 | 🐛 38 | 🌐 TypeScript | 📅 2026-02-28 A hooks to svg drawing.
-* [`server-push-hooks`](https://github.com/mfrachet/server-push-hooks) ⭐ 192 | 🐛 24 | 🌐 JavaScript | 📅 2023-11-14 🔥 React hooks for [socket.io](https://socket.io), [SEE](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events) and more to come
+* [`server-push-hooks`](https://github.com/mfrachet/server-push-hooks) ⭐ 191 | 🐛 24 | 🌐 JavaScript | 📅 2023-11-14 🔥 React hooks for [socket.io](https://socket.io), [SEE](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events) and more to come
 * [`use-force-update`](https://github.com/CharlesStover/use-force-update) ⭐ 184 | 🐛 1 | 🌐 JavaScript | 📅 2025-11-12 React hook for forcing re-render of a functional Component.
 * [`use-reducer-async`](https://github.com/dai-shi/use-reducer-async) ⭐ 184 | 🐛 9 | 🌐 TypeScript | 📅 2026-05-19 React useReducer with async actions
 * [`use-clippy`](https://github.com/CharlesStover/use-clippy) ⭐ 177 | 🐛 18 | 🌐 TypeScript | 📅 2022-11-09 A React hook to reading from and writing to the user's clipboard.
 * [`react-hooks-use-modal`](https://github.com/shibe97/react-hooks-use-modal) ⭐ 169 | 🐛 6 | 🌐 TypeScript | 📅 2026-07-15 A hook to open the modal easily.
-* [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) ⭐ 160 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-09 React hook that does a fetch and aborts when the components is unloaded or a different request is made.
+* [`use-abortable-fetch`](https://github.com/mauricedb/use-abortable-fetch) ⭐ 160 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-10 React hook that does a fetch and aborts when the components is unloaded or a different request is made.
 * [`react-with-hooks`](https://github.com/yesmeck/react-with-hooks) ⭐ 153 | 🐛 2 | 🌐 JavaScript | 📅 2019-02-15 Ponyfill for the proposed React Hooks API.
 * [`use-async-memo`](https://github.com/awmleer/use-async-memo) ⭐ 146 | 🐛 3 | 🌐 TypeScript | 📅 2023-12-01 React hook for generating async memoized data.
 * [`redhooks`](https://github.com/iusehooks/redhooks) ⭐ 145 | 🐛 2 | 🌐 JavaScript | 📅 2019-02-11 Global state management with React Hooks. It also supports the use of middleware like redux-thunk or redux-saga or your own custom middleware.
@@ -291,4 +291,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
