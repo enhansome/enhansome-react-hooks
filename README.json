@@ -107,7 +107,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-08T05:35:27Z",
-            "open_issues": 136,
+            "open_issues": 140,
             "owner": "alibaba",
             "repo": "hooks",
             "stars": 14972,
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T02:49:15Z",
-            "open_issues": 167,
+            "last_commit": "2026-10-12T12:14:47Z",
+            "open_issues": 168,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50414,
+            "stars": 50419,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T23:05:42Z",
+            "last_commit": "2026-10-12T10:21:00Z",
             "open_issues": 10,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44860,
+            "stars": 44859,
             "topics": [
               "dx",
               "form-builder",
@@ -392,7 +392,7 @@
             "open_issues": 232,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32494,
+            "stars": 32492,
             "topics": [
               "cache",
               "data",
@@ -450,7 +450,7 @@
             "open_issues": 2,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5537,
+            "stars": 5536,
             "topics": [
               "hook",
               "hooks",
@@ -486,7 +486,7 @@
             "open_issues": 27,
             "owner": "ctrlplusb",
             "repo": "easy-peasy",
-            "stars": 5039,
+            "stars": 5040,
             "topics": [
               "hooks",
               "immer",
@@ -536,7 +536,7 @@
             "open_issues": 40,
             "owner": "jaredpalmer",
             "repo": "the-platform",
-            "stars": 4370,
+            "stars": 4368,
             "topics": [
               "hooks",
               "react",
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T20:35:23Z",
+            "last_commit": "2026-10-12T11:05:46Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -594,7 +594,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3630,
+            "stars": 3629,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -627,8 +627,8 @@
             "id": 159676569,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T08:33:08Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-12T05:01:27Z",
+            "open_issues": 54,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
             "stars": 3507,
@@ -951,7 +951,7 @@
             "open_issues": 8,
             "owner": "kentcdodds",
             "repo": "use-deep-compare-effect",
-            "stars": 1916,
+            "stars": 1915,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -1351,7 +1351,7 @@
             "open_issues": 44,
             "owner": "iamthesiz",
             "repo": "react-useportal",
-            "stars": 886,
+            "stars": 885,
             "topics": [
               "dialog",
               "dropdown",
@@ -1385,7 +1385,7 @@
             "open_issues": 24,
             "owner": "wellyshen",
             "repo": "react-cool-portal",
-            "stars": 730,
+            "stars": 729,
             "topics": [
               "dialog",
               "dropdown",
@@ -2394,8 +2394,8 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T10:53:03Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-11T11:03:19Z",
+            "open_issues": 3,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 160,
@@ -3265,34 +3265,6 @@
         },
         {
           "node_type": "item",
-          "title": "use-eazy-auth",
-          "description": "React hooks for handle auth stuff.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "React hooks for handling auth stuff",
-            "homepage": null,
-            "id": 180222182,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-02-20T11:13:57Z",
-            "open_issues": 5,
-            "owner": "inmagik",
-            "repo": "use-eazy-auth",
-            "stars": 57,
-            "topics": [
-              "auth",
-              "authentication",
-              "hooks",
-              "react",
-              "react-hooks",
-              "typescript"
-            ]
-          },
-          "first_seen": "2026-08-28T16:57:12.781Z"
-        },
-        {
-          "node_type": "item",
           "title": "react-use-calendar",
           "description": "A hook for implementing a calendar with events.",
           "children": [],
@@ -3312,6 +3284,34 @@
               "calendar",
               "hooks",
               "react"
+            ]
+          },
+          "first_seen": "2026-08-28T16:57:12.781Z"
+        },
+        {
+          "node_type": "item",
+          "title": "use-eazy-auth",
+          "description": "React hooks for handle auth stuff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "React hooks for handling auth stuff",
+            "homepage": null,
+            "id": 180222182,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-02-20T11:13:57Z",
+            "open_issues": 5,
+            "owner": "inmagik",
+            "repo": "use-eazy-auth",
+            "stars": 56,
+            "topics": [
+              "auth",
+              "authentication",
+              "hooks",
+              "react",
+              "react-hooks",
+              "typescript"
             ]
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -3604,8 +3604,8 @@
             "id": 263476527,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:25:00Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-12T10:19:09Z",
+            "open_issues": 0,
             "owner": "helderberto",
             "repo": "use-is-mounted-ref",
             "stars": 44,
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:02:28.423Z",
+    "last_updated": "2026-10-12T12:28:47.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10264,
+      "stars": 10265,
       "topics": [
         "awesome",
         "awesome-list",
