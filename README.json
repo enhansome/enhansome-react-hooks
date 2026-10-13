@@ -110,7 +110,7 @@
             "open_issues": 140,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14972,
+            "stars": 14971,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -137,7 +137,7 @@
             "open_issues": 31,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2217,
+            "stars": 2216,
             "topics": [
               "browser",
               "hacktoberfest",
@@ -298,8 +298,8 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T12:14:47Z",
-            "open_issues": 168,
+            "last_commit": "2026-10-13T08:00:21Z",
+            "open_issues": 169,
             "owner": "TanStack",
             "repo": "query",
             "stars": 50419,
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T10:21:00Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-13T10:34:04Z",
+            "open_issues": 11,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44859,
+            "stars": 44857,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 667,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43998,
+            "stars": 43997,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -392,7 +392,7 @@
             "open_issues": 232,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32492,
+            "stars": 32491,
             "topics": [
               "cache",
               "data",
@@ -427,7 +427,7 @@
             "open_issues": 5,
             "owner": "yocontra",
             "repo": "react-responsive",
-            "stars": 7182,
+            "stars": 7183,
             "topics": [
               "react"
             ]
@@ -486,7 +486,7 @@
             "open_issues": 27,
             "owner": "ctrlplusb",
             "repo": "easy-peasy",
-            "stars": 5040,
+            "stars": 5041,
             "topics": [
               "hooks",
               "immer",
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T11:05:46Z",
+            "last_commit": "2026-10-13T02:08:19Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -631,7 +631,7 @@
             "open_issues": 54,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3507,
+            "stars": 3506,
             "topics": [
               "hook",
               "hooks",
@@ -1034,7 +1034,7 @@
             "open_issues": 12,
             "owner": "heluxjs",
             "repo": "helux",
-            "stars": 1388,
+            "stars": 1389,
             "topics": [
               "atom",
               "better-redux",
@@ -1073,7 +1073,7 @@
             "open_issues": 42,
             "owner": "wellyshen",
             "repo": "use-places-autocomplete",
-            "stars": 1292,
+            "stars": 1293,
             "topics": [
               "autocomplete",
               "geocoding",
@@ -1849,7 +1849,7 @@
           "description": "A React Native plugin to run React and handle communication between them.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "An easy way to integrate your React (or Preact/React Native Web) app into React Native app with WebView.",
             "homepage": "https://www.npmjs.com/package/react-native-react-bridge",
             "id": 311012657,
@@ -2175,7 +2175,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-09T19:08:00Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "ItsBenCodes",
             "repo": "cookies",
             "stars": 215,
@@ -2394,8 +2394,8 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T11:03:19Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-12T12:31:24Z",
+            "open_issues": 2,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 160,
@@ -3604,8 +3604,8 @@
             "id": 263476527,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T10:19:09Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-13T11:44:05Z",
+            "open_issues": 10,
             "owner": "helderberto",
             "repo": "use-is-mounted-ref",
             "stars": 44,
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T12:28:47.838Z",
+    "last_updated": "2026-10-13T12:13:18.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
