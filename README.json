@@ -223,7 +223,7 @@
             "open_issues": 0,
             "owner": "stevenpersia",
             "repo": "captain-hook",
-            "stars": 361,
+            "stars": 360,
             "topics": [
               "custom-hooks",
               "hooks",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T03:42:47Z",
-            "open_issues": 166,
+            "last_commit": "2026-10-18T08:00:23Z",
+            "open_issues": 139,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50447,
+            "stars": 50452,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T01:27:55Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-17T23:58:23Z",
+            "open_issues": 7,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44861,
+            "stars": 44859,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 667,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43992,
+            "stars": 43990,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -389,10 +389,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T17:57:58Z",
-            "open_issues": 238,
+            "open_issues": 240,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32492,
+            "stars": 32491,
             "topics": [
               "cache",
               "data",
@@ -450,7 +450,7 @@
             "open_issues": 2,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5538,
+            "stars": 5537,
             "topics": [
               "hook",
               "hooks",
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T07:58:43Z",
+            "last_commit": "2026-10-17T20:39:16Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -1474,7 +1474,7 @@
             "open_issues": 1,
             "owner": "CharlesStover",
             "repo": "use-react-router",
-            "stars": 563,
+            "stars": 562,
             "topics": [
               "npm",
               "npmjs",
@@ -2034,7 +2034,7 @@
             "open_issues": 2,
             "owner": "sandiiarov",
             "repo": "use-deep-compare",
-            "stars": 259,
+            "stars": 260,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -3604,8 +3604,8 @@
             "id": 263476527,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T12:59:10Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-17T10:31:44Z",
+            "open_issues": 12,
             "owner": "helderberto",
             "repo": "use-is-mounted-ref",
             "stars": 44,
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:51:07.844Z",
+    "last_updated": "2026-10-18T09:08:42.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
