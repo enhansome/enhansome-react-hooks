@@ -133,7 +133,7 @@
             "id": 357335336,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T00:05:18Z",
+            "last_commit": "2026-10-19T00:04:55Z",
             "open_issues": 33,
             "owner": "react-hookz",
             "repo": "web",
@@ -248,7 +248,7 @@
             "open_issues": 2,
             "owner": "chrisjpatty",
             "repo": "crooks",
-            "stars": 214,
+            "stars": 213,
             "topics": [
               "collection",
               "hooks",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T08:00:23Z",
-            "open_issues": 139,
+            "last_commit": "2026-10-19T09:19:06Z",
+            "open_issues": 142,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50452,
+            "stars": 50457,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T23:58:23Z",
+            "last_commit": "2026-10-18T22:42:54Z",
             "open_issues": 7,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44859,
+            "stars": 44863,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 667,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43990,
+            "stars": 43989,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -392,7 +392,7 @@
             "open_issues": 240,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32491,
+            "stars": 32490,
             "topics": [
               "cache",
               "data",
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T20:39:16Z",
+            "last_commit": "2026-10-18T18:02:12Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -627,11 +627,11 @@
             "id": 159676569,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T05:01:27Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-19T08:56:48Z",
+            "open_issues": 56,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3507,
+            "stars": 3506,
             "topics": [
               "hook",
               "hooks",
@@ -848,7 +848,7 @@
             "open_issues": 21,
             "owner": "LeetCode-OpenSource",
             "repo": "rxjs-hooks",
-            "stars": 2176,
+            "stars": 2175,
             "topics": [
               "observable",
               "react",
@@ -1073,7 +1073,7 @@
             "open_issues": 42,
             "owner": "wellyshen",
             "repo": "use-places-autocomplete",
-            "stars": 1293,
+            "stars": 1292,
             "topics": [
               "autocomplete",
               "geocoding",
@@ -2150,7 +2150,7 @@
             "open_issues": 10,
             "owner": "elgorditosalsero",
             "repo": "react-gtm-hook",
-            "stars": 224,
+            "stars": 223,
             "topics": [
               "google-tag-manager",
               "googletagmanager",
@@ -2175,7 +2175,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-05-09T19:08:00Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "ItsBenCodes",
             "repo": "cookies",
             "stars": 215,
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:08:42.731Z",
+    "last_updated": "2026-10-19T10:19:38.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 11,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10263,
+      "stars": 10265,
       "topics": [
         "awesome",
         "awesome-list",
