@@ -54,8 +54,8 @@
 
 ## Catalogs
 
-* [ahooks](https://github.com/alibaba/hooks) ⭐ 14,974 | 🐛 150 | 🌐 TypeScript | 📅 2026-10-27 A collection of React Hooks specifically aiming at enterprise applications.
-* [@react-hookz/web](https://github.com/react-hookz/web) ⭐ 2,216 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-27 - A library of general-purpose React hooks built with care and SSR compatibility in mind.
+* [ahooks](https://github.com/alibaba/hooks) ⭐ 14,975 | 🐛 150 | 🌐 TypeScript | 📅 2026-10-27 A collection of React Hooks specifically aiming at enterprise applications.
+* [@react-hookz/web](https://github.com/react-hookz/web) ⭐ 2,216 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-27 - A library of general-purpose React hooks built with care and SSR compatibility in mind.
 * [react-recipes](https://github.com/craig1123/react-recipes) ⭐ 1,044 | 🐛 13 | 🌐 JavaScript | 📅 2025-05-23 👩‍🍳 Collection of essential hook recipes 🥘
 * [Sunflower(🌻)](https://github.com/ant-design/sunflower) ⭐ 489 | 🐛 30 | 🌐 TypeScript | 📅 2023-02-04 Collection of React Hooks returning components of antd.
 * [Captain hook](https://github.com/stevenpersia/captain-hook) ⭐ 360 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-18 Modest list of hooks.
@@ -69,14 +69,14 @@
 
 ## Packages
 
-* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,503 | 🐛 167 | 🌐 TypeScript | 📅 2026-10-30 Hooks for fetching, caching and updating asynchronous data in React.
-* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,897 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-30 Form validation without the hassle.
-* [`react-use`](https://github.com/streamich/react-use) ⭐ 43,989 | 🐛 673 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
-* [`swr`](https://github.com/zeit/swr) ⭐ 32,492 | 🐛 244 | 🌐 TypeScript | 📅 2026-10-16 React Hooks library for remote data fetching.
+* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,508 | 🐛 161 | 🌐 TypeScript | 📅 2026-11-01 Hooks for fetching, caching and updating asynchronous data in React.
+* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,896 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-01 Form validation without the hassle.
+* [`react-use`](https://github.com/streamich/react-use) ⭐ 43,990 | 🐛 673 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
+* [`swr`](https://github.com/zeit/swr) ⭐ 32,491 | 🐛 245 | 🌐 TypeScript | 📅 2026-10-16 React Hooks library for remote data fetching.
 * [`react-responsive`](https://github.com/contra/react-responsive) ⭐ 7,182 | 🐛 5 | 🌐 TypeScript | 📅 2025-03-01 React media query module.
 * [`useInView`](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,543 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-24 React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
-* [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) ⭐ 5,042 | 🐛 27 | 🌐 JavaScript | 📅 2026-06-30 Easy peasy global state for React.
-* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,553 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 28,999 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-22 to manipulate state.
+* [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) ⭐ 5,041 | 🐛 27 | 🌐 JavaScript | 📅 2026-06-30 Easy peasy global state for React.
+* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,554 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 29,000 | 🐛 46 | 🌐 JavaScript | 📅 2026-10-31 to manipulate state.
 * [`the-platform`](https://github.com/palmerhq/the-platform) ⭐ 4,370 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-09 Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 * [`constate`](https://github.com/diegohaz/constate) ⭐ 4,006 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-31 Transform your local state into global state using `useContextState` and `useContextReducer`.
 * [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) ⭐ 3,629 | 🐛 43 | 🌐 TypeScript | 📅 2024-04-22 A collection of hooks for use with [Firebase](https://firebase.google.com).
@@ -291,4 +291,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

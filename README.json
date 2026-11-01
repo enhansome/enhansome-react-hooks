@@ -110,7 +110,7 @@
             "open_issues": 150,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14974,
+            "stars": 14975,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -134,7 +134,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T00:05:39Z",
-            "open_issues": 33,
+            "open_issues": 32,
             "owner": "react-hookz",
             "repo": "web",
             "stars": 2216,
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T18:20:01Z",
-            "open_issues": 167,
+            "last_commit": "2026-11-01T11:31:11Z",
+            "open_issues": 161,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50503,
+            "stars": 50508,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T20:44:11Z",
-            "open_issues": 15,
+            "last_commit": "2026-11-01T11:20:47Z",
+            "open_issues": 6,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44897,
+            "stars": 44896,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 673,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43989,
+            "stars": 43990,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -389,10 +389,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T17:57:58Z",
-            "open_issues": 244,
+            "open_issues": 245,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32492,
+            "stars": 32491,
             "topics": [
               "cache",
               "data",
@@ -486,7 +486,7 @@
             "open_issues": 27,
             "owner": "ctrlplusb",
             "repo": "easy-peasy",
-            "stars": 5042,
+            "stars": 5041,
             "topics": [
               "hooks",
               "immer",
@@ -515,7 +515,7 @@
             "open_issues": 12,
             "owner": "immerjs",
             "repo": "use-immer",
-            "stars": 4553,
+            "stars": 4554,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T03:22:41Z",
+            "last_commit": "2026-10-31T20:34:49Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:37:38.835Z",
+    "last_updated": "2026-11-01T11:31:21.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 12,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10272,
+      "stars": 10273,
       "topics": [
         "awesome",
         "awesome-list",
