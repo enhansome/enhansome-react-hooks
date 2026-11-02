@@ -107,10 +107,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T14:23:51Z",
-            "open_issues": 150,
+            "open_issues": 151,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14975,
+            "stars": 14977,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T11:31:11Z",
-            "open_issues": 161,
+            "last_commit": "2026-11-02T12:24:39Z",
+            "open_issues": 137,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50508,
+            "stars": 50520,
             "topics": [
               "async",
               "cache",
@@ -337,10 +337,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-01T11:20:47Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44896,
+            "stars": 44900,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 673,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43990,
+            "stars": 43991,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -389,10 +389,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T17:57:58Z",
-            "open_issues": 245,
+            "open_issues": 248,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32491,
+            "stars": 32492,
             "topics": [
               "cache",
               "data",
@@ -450,7 +450,7 @@
             "open_issues": 5,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5543,
+            "stars": 5542,
             "topics": [
               "hook",
               "hooks",
@@ -515,7 +515,7 @@
             "open_issues": 12,
             "owner": "immerjs",
             "repo": "use-immer",
-            "stars": 4554,
+            "stars": 4553,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -536,7 +536,7 @@
             "open_issues": 40,
             "owner": "jaredpalmer",
             "repo": "the-platform",
-            "stars": 4370,
+            "stars": 4369,
             "topics": [
               "hooks",
               "react",
@@ -559,8 +559,8 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T20:34:49Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-02T12:09:35Z",
+            "open_issues": 7,
             "owner": "diegohaz",
             "repo": "constate",
             "stars": 4006,
@@ -627,7 +627,7 @@
             "id": 159676569,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-26T11:08:52Z",
+            "last_commit": "2026-11-02T10:58:57Z",
             "open_issues": 58,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
@@ -721,7 +721,7 @@
             "open_issues": 9,
             "owner": "dai-shi",
             "repo": "use-context-selector",
-            "stars": 2961,
+            "stars": 2960,
             "topics": [
               "custom-hook",
               "react",
@@ -875,7 +875,7 @@
             "open_issues": 0,
             "owner": "mobxjs",
             "repo": "mobx-react-lite",
-            "stars": 2116,
+            "stars": 2115,
             "topics": [
               "mobx",
               "observables",
@@ -1109,7 +1109,7 @@
             "open_issues": 45,
             "owner": "donavon",
             "repo": "use-dark-mode",
-            "stars": 1282,
+            "stars": 1281,
             "topics": [
               "dark-mode",
               "dark-theme",
@@ -1135,7 +1135,7 @@
             "open_issues": 24,
             "owner": "wellyshen",
             "repo": "use-web-animations",
-            "stars": 1270,
+            "stars": 1269,
             "topics": [
               "animation",
               "hook",
@@ -1171,7 +1171,7 @@
             "open_issues": 37,
             "owner": "wellyshen",
             "repo": "react-cool-virtual",
-            "stars": 1223,
+            "stars": 1222,
             "topics": [
               "carousel",
               "chatroom",
@@ -1213,7 +1213,7 @@
             "open_issues": 32,
             "owner": "slorber",
             "repo": "react-async-hook",
-            "stars": 1187,
+            "stars": 1186,
             "topics": [
               "hooks"
             ]
@@ -1292,7 +1292,7 @@
             "open_issues": 22,
             "owner": "wellyshen",
             "repo": "react-cool-dimensions",
-            "stars": 932,
+            "stars": 931,
             "topics": [
               "container-queries",
               "dimensions",
@@ -1385,7 +1385,7 @@
             "open_issues": 24,
             "owner": "wellyshen",
             "repo": "react-cool-portal",
-            "stars": 729,
+            "stars": 728,
             "topics": [
               "dialog",
               "dropdown",
@@ -1560,7 +1560,7 @@
             "open_issues": 0,
             "owner": "beizhedenglong",
             "repo": "react-hooks-lib",
-            "stars": 542,
+            "stars": 541,
             "topics": [
               "hooks",
               "react",
@@ -2008,7 +2008,7 @@
             "open_issues": 7,
             "owner": "danoc",
             "repo": "react-use-clipboard",
-            "stars": 262,
+            "stars": 261,
             "topics": [
               "clipboard",
               "component",
@@ -2394,8 +2394,8 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T12:14:43Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-01T18:53:30Z",
+            "open_issues": 8,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 161,
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:31:21.303Z",
+    "last_updated": "2026-11-02T12:53:35.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 12,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10273,
+      "stars": 10275,
       "topics": [
         "awesome",
         "awesome-list",
