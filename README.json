@@ -110,7 +110,7 @@
             "open_issues": 152,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14977,
+            "stars": 14975,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -137,7 +137,7 @@
             "open_issues": 32,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2216,
+            "stars": 2215,
             "topics": [
               "browser",
               "hacktoberfest",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:01:25Z",
+            "last_commit": "2026-11-04T12:18:53Z",
             "open_issues": 116,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50522,
+            "stars": 50523,
             "topics": [
               "async",
               "cache",
@@ -337,10 +337,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-03T11:06:26Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44898,
+            "stars": 44899,
             "topics": [
               "dx",
               "form-builder",
@@ -389,10 +389,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T17:57:58Z",
-            "open_issues": 249,
+            "open_issues": 251,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32492,
+            "stars": 32491,
             "topics": [
               "cache",
               "data",
@@ -427,7 +427,7 @@
             "open_issues": 5,
             "owner": "yocontra",
             "repo": "react-responsive",
-            "stars": 7182,
+            "stars": 7179,
             "topics": [
               "react"
             ]
@@ -631,7 +631,7 @@
             "open_issues": 58,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3505,
+            "stars": 3506,
             "topics": [
               "hook",
               "hooks",
@@ -848,7 +848,7 @@
             "open_issues": 21,
             "owner": "LeetCode-OpenSource",
             "repo": "rxjs-hooks",
-            "stars": 2175,
+            "stars": 2174,
             "topics": [
               "observable",
               "react",
@@ -1034,7 +1034,7 @@
             "open_issues": 12,
             "owner": "heluxjs",
             "repo": "helux",
-            "stars": 1389,
+            "stars": 1388,
             "topics": [
               "atom",
               "better-redux",
@@ -2394,8 +2394,8 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T12:57:31Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-03T12:28:40Z",
+            "open_issues": 6,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 161,
@@ -3547,27 +3547,6 @@
         },
         {
           "node_type": "item",
-          "title": "react-use-idb",
-          "description": "React hook for storing value in the browser using .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "React side-effect hook that manages a single indexDB item.",
-            "homepage": "https://www.npmjs.com/package/react-use-idb",
-            "id": 156285088,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2020-05-11T17:55:39Z",
-            "open_issues": 5,
-            "owner": "kigiri",
-            "repo": "react-use-idb",
-            "stars": 44,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T16:57:12.781Z"
-        },
-        {
-          "node_type": "item",
           "title": "react-use-scroll-position",
           "description": "React hook for using the scroll position.",
           "children": [],
@@ -3604,8 +3583,8 @@
             "id": 263476527,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T15:27:53Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-03T13:03:04Z",
+            "open_issues": 1,
             "owner": "helderberto",
             "repo": "use-is-mounted-ref",
             "stars": 44,
@@ -3617,6 +3596,27 @@
               "react-hook",
               "react-ref"
             ]
+          },
+          "first_seen": "2026-08-28T16:57:12.781Z"
+        },
+        {
+          "node_type": "item",
+          "title": "react-use-idb",
+          "description": "React hook for storing value in the browser using .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "React side-effect hook that manages a single indexDB item.",
+            "homepage": "https://www.npmjs.com/package/react-use-idb",
+            "id": 156285088,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2020-05-11T17:55:39Z",
+            "open_issues": 5,
+            "owner": "kigiri",
+            "repo": "react-use-idb",
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
         },
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:24:39.870Z",
+    "last_updated": "2026-11-04T12:36:12.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 12,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10275,
+      "stars": 10273,
       "topics": [
         "awesome",
         "awesome-list",
