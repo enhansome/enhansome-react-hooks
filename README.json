@@ -110,7 +110,7 @@
             "open_issues": 152,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14975,
+            "stars": 14974,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T12:18:53Z",
-            "open_issues": 116,
+            "last_commit": "2026-11-05T08:08:13Z",
+            "open_issues": 111,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50523,
+            "stars": 50528,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T11:06:26Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-05T07:23:06Z",
+            "open_issues": 9,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44899,
+            "stars": 44903,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 677,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43988,
+            "stars": 43983,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -389,10 +389,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T17:57:58Z",
-            "open_issues": 251,
+            "open_issues": 253,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32491,
+            "stars": 32489,
             "topics": [
               "cache",
               "data",
@@ -563,7 +563,7 @@
             "open_issues": 7,
             "owner": "diegohaz",
             "repo": "constate",
-            "stars": 4006,
+            "stars": 4007,
             "topics": [
               "constate",
               "hooks",
@@ -1213,7 +1213,7 @@
             "open_issues": 32,
             "owner": "slorber",
             "repo": "react-async-hook",
-            "stars": 1186,
+            "stars": 1185,
             "topics": [
               "hooks"
             ]
@@ -2394,8 +2394,8 @@
             "id": 156375263,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T12:28:40Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-04T12:39:51Z",
+            "open_issues": 5,
             "owner": "mauricedb",
             "repo": "use-abortable-fetch",
             "stars": 161,
@@ -3583,8 +3583,8 @@
             "id": 263476527,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T13:03:04Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-04T13:02:57Z",
+            "open_issues": 2,
             "owner": "helderberto",
             "repo": "use-is-mounted-ref",
             "stars": 44,
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:36:12.960Z",
+    "last_updated": "2026-11-05T12:46:34.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
