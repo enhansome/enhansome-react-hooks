@@ -110,7 +110,7 @@
             "open_issues": 154,
             "owner": "alibaba",
             "repo": "hooks",
-            "stars": 14978,
+            "stars": 14979,
             "topics": [
               "ahooks",
               "hooks-library",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T01:34:18Z",
-            "open_issues": 134,
+            "last_commit": "2026-11-12T10:23:00Z",
+            "open_issues": 137,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50562,
+            "stars": 50579,
             "topics": [
               "async",
               "cache",
@@ -337,10 +337,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-11T10:23:16Z",
-            "open_issues": 8,
+            "open_issues": 11,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44920,
+            "stars": 44916,
             "topics": [
               "dx",
               "form-builder",
@@ -368,10 +368,10 @@
             "language": "TypeScript",
             "license": "Unlicense",
             "last_commit": "2026-06-10T18:51:23Z",
-            "open_issues": 681,
+            "open_issues": 682,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43977,
+            "stars": 43978,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -627,8 +627,8 @@
             "id": 159676569,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-10T09:09:12Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-11T15:48:38Z",
+            "open_issues": 18,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
             "stars": 3506,
@@ -951,7 +951,7 @@
             "open_issues": 8,
             "owner": "kentcdodds",
             "repo": "use-deep-compare-effect",
-            "stars": 1914,
+            "stars": 1913,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -1073,7 +1073,7 @@
             "open_issues": 42,
             "owner": "wellyshen",
             "repo": "use-places-autocomplete",
-            "stars": 1292,
+            "stars": 1293,
             "topics": [
               "autocomplete",
               "geocoding",
@@ -1213,7 +1213,7 @@
             "open_issues": 32,
             "owner": "slorber",
             "repo": "react-async-hook",
-            "stars": 1185,
+            "stars": 1184,
             "topics": [
               "hooks"
             ]
@@ -1324,7 +1324,7 @@
             "open_issues": 30,
             "owner": "wsmd",
             "repo": "react-use-form-state",
-            "stars": 928,
+            "stars": 927,
             "topics": [
               "hook",
               "react",
@@ -1662,7 +1662,7 @@
             "id": 155645096,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-11T11:46:17Z",
+            "last_commit": "2026-11-12T00:58:44Z",
             "open_issues": 19,
             "owner": "sandiiarov",
             "repo": "use-events",
@@ -3583,7 +3583,7 @@
             "id": 263476527,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T13:02:51Z",
+            "last_commit": "2026-11-12T13:03:14Z",
             "open_issues": 7,
             "owner": "helderberto",
             "repo": "use-is-mounted-ref",
@@ -3862,7 +3862,7 @@
             "id": 156754728,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-11T11:07:39Z",
+            "last_commit": "2026-11-12T01:24:03Z",
             "open_issues": 34,
             "owner": "sandiiarov",
             "repo": "use-simple-undo",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T12:13:02.369Z",
+    "last_updated": "2026-11-12T13:18:40.183Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 12,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10273,
+      "stars": 10272,
       "topics": [
         "awesome",
         "awesome-list",
