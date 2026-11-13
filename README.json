@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T10:23:00Z",
-            "open_issues": 137,
+            "last_commit": "2026-11-13T03:05:09Z",
+            "open_issues": 140,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50579,
+            "stars": 50591,
             "topics": [
               "async",
               "cache",
@@ -336,11 +336,11 @@
             "id": 174038031,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T10:23:16Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-13T03:54:50Z",
+            "open_issues": 8,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44916,
+            "stars": 44921,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 682,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43978,
+            "stars": 43976,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -392,7 +392,7 @@
             "open_issues": 258,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32489,
+            "stars": 32490,
             "topics": [
               "cache",
               "data",
@@ -427,7 +427,7 @@
             "open_issues": 5,
             "owner": "yocontra",
             "repo": "react-responsive",
-            "stars": 7179,
+            "stars": 7181,
             "topics": [
               "react"
             ]
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T20:45:13Z",
+            "last_commit": "2026-11-13T10:28:25Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -627,8 +627,8 @@
             "id": 159676569,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-11T15:48:38Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-12T16:31:47Z",
+            "open_issues": 16,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
             "stars": 3506,
@@ -972,7 +972,7 @@
             "open_issues": 11,
             "owner": "nearform",
             "repo": "graphql-hooks",
-            "stars": 1889,
+            "stars": 1888,
             "topics": [
               "graphql",
               "graphql-client",
@@ -1073,7 +1073,7 @@
             "open_issues": 42,
             "owner": "wellyshen",
             "repo": "use-places-autocomplete",
-            "stars": 1293,
+            "stars": 1294,
             "topics": [
               "autocomplete",
               "geocoding",
@@ -1171,7 +1171,7 @@
             "open_issues": 37,
             "owner": "wellyshen",
             "repo": "react-cool-virtual",
-            "stars": 1222,
+            "stars": 1221,
             "topics": [
               "carousel",
               "chatroom",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:18:40.183Z",
+    "last_updated": "2026-11-13T12:39:47.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 12,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10272,
+      "stars": 10274,
       "topics": [
         "awesome",
         "awesome-list",
