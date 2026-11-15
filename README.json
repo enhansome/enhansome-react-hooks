@@ -107,7 +107,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-27T14:23:51Z",
-            "open_issues": 154,
+            "open_issues": 155,
             "owner": "alibaba",
             "repo": "hooks",
             "stars": 14979,
@@ -137,7 +137,7 @@
             "open_issues": 32,
             "owner": "react-hookz",
             "repo": "web",
-            "stars": 2215,
+            "stars": 2214,
             "topics": [
               "browser",
               "hacktoberfest",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T11:28:44Z",
-            "open_issues": 141,
+            "last_commit": "2026-11-14T13:25:43Z",
+            "open_issues": 143,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50564,
+            "stars": 50568,
             "topics": [
               "async",
               "cache",
@@ -337,10 +337,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-14T10:32:04Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44919,
+            "stars": 44918,
             "topics": [
               "dx",
               "form-builder",
@@ -371,7 +371,7 @@
             "open_issues": 682,
             "owner": "streamich",
             "repo": "react-use",
-            "stars": 43976,
+            "stars": 43975,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -450,7 +450,7 @@
             "open_issues": 5,
             "owner": "thebuilder",
             "repo": "react-intersection-observer",
-            "stars": 5543,
+            "stars": 5544,
             "topics": [
               "hook",
               "hooks",
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T07:27:31Z",
+            "last_commit": "2026-11-15T01:53:33Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -627,11 +627,11 @@
             "id": 159676569,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T16:31:47Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-15T11:51:54Z",
+            "open_issues": 15,
             "owner": "JohannesKlauss",
             "repo": "react-hotkeys-hook",
-            "stars": 3504,
+            "stars": 3505,
             "topics": [
               "hook",
               "hooks",
@@ -775,7 +775,7 @@
             "open_issues": 92,
             "owner": "ava",
             "repo": "use-http",
-            "stars": 2297,
+            "stars": 2296,
             "topics": [
               "fetch",
               "fetch-data",
@@ -2178,7 +2178,7 @@
             "open_issues": 6,
             "owner": "ItsBenCodes",
             "repo": "cookies",
-            "stars": 215,
+            "stars": 214,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:47:07.874Z",
+    "last_updated": "2026-11-15T12:18:52.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 12,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10274,
+      "stars": 10272,
       "topics": [
         "awesome",
         "awesome-list",
