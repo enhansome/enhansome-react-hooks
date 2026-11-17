@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-16T12:18:45Z",
-            "open_issues": 142,
+            "last_commit": "2026-11-17T13:45:56Z",
+            "open_issues": 143,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50568,
+            "stars": 50569,
             "topics": [
               "async",
               "cache",
@@ -337,10 +337,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-14T10:32:04Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44919,
+            "stars": 44922,
             "topics": [
               "dx",
               "form-builder",
@@ -389,10 +389,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-16T17:57:58Z",
-            "open_issues": 260,
+            "open_issues": 261,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32490,
+            "stars": 32491,
             "topics": [
               "cache",
               "data",
@@ -427,7 +427,7 @@
             "open_issues": 5,
             "owner": "yocontra",
             "repo": "react-responsive",
-            "stars": 7181,
+            "stars": 7180,
             "topics": [
               "react"
             ]
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-15T18:00:08Z",
+            "last_commit": "2026-11-17T03:50:00Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -1662,7 +1662,7 @@
             "id": 155645096,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-12T00:58:44Z",
+            "last_commit": "2026-11-16T16:10:03Z",
             "open_issues": 19,
             "owner": "sandiiarov",
             "repo": "use-events",
@@ -3862,7 +3862,7 @@
             "id": 156754728,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-12T01:24:03Z",
+            "last_commit": "2026-11-17T01:27:58Z",
             "open_issues": 34,
             "owner": "sandiiarov",
             "repo": "use-simple-undo",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:10:58.714Z",
+    "last_updated": "2026-11-17T13:53:57.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
@@ -5747,7 +5747,7 @@
       "open_issues": 13,
       "owner": "rehooks",
       "repo": "awesome-react-hooks",
-      "stars": 10276,
+      "stars": 10277,
       "topics": [
         "awesome",
         "awesome-list",
