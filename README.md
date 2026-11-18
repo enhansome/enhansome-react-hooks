@@ -54,7 +54,7 @@
 
 ## Catalogs
 
-* [ahooks](https://github.com/alibaba/hooks) ⭐ 14,981 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-27 A collection of React Hooks specifically aiming at enterprise applications.
+* [ahooks](https://github.com/alibaba/hooks) ⭐ 14,983 | 🐛 157 | 🌐 TypeScript | 📅 2026-10-27 A collection of React Hooks specifically aiming at enterprise applications.
 * [@react-hookz/web](https://github.com/react-hookz/web) ⭐ 2,214 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-09 - A library of general-purpose React hooks built with care and SSR compatibility in mind.
 * [react-recipes](https://github.com/craig1123/react-recipes) ⭐ 1,043 | 🐛 13 | 🌐 JavaScript | 📅 2025-05-23 👩‍🍳 Collection of essential hook recipes 🥘
 * [Sunflower(🌻)](https://github.com/ant-design/sunflower) ⭐ 489 | 🐛 30 | 🌐 TypeScript | 📅 2023-02-04 Collection of React Hooks returning components of antd.
@@ -69,14 +69,14 @@
 
 ## Packages
 
-* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,569 | 🐛 143 | 🌐 TypeScript | 📅 2026-11-17 Hooks for fetching, caching and updating asynchronous data in React.
-* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,922 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-14 Form validation without the hassle.
-* [`react-use`](https://github.com/streamich/react-use) ⭐ 43,975 | 🐛 682 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
-* [`swr`](https://github.com/zeit/swr) ⭐ 32,491 | 🐛 261 | 🌐 TypeScript | 📅 2026-10-16 React Hooks library for remote data fetching.
+* [`react-query`](https://github.com/tannerlinsley/react-query) ⭐ 50,575 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-18 Hooks for fetching, caching and updating asynchronous data in React.
+* [`react-hook-form`](https://github.com/bluebill1049/react-hook-form) ⭐ 44,923 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-18 Form validation without the hassle.
+* [`react-use`](https://github.com/streamich/react-use) ⭐ 43,978 | 🐛 682 | 🌐 TypeScript | 📅 2026-06-10 Collection of essential hooks.
+* [`swr`](https://github.com/zeit/swr) ⭐ 32,493 | 🐛 261 | 🌐 TypeScript | 📅 2026-10-16 React Hooks library for remote data fetching.
 * [`react-responsive`](https://github.com/contra/react-responsive) ⭐ 7,180 | 🐛 5 | 🌐 TypeScript | 📅 2025-03-01 React media query module.
 * [`useInView`](https://github.com/thebuilder/react-intersection-observer) ⭐ 5,544 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-24 React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.
 * [`easy-peasy`](https://github.com/ctrlplusb/easy-peasy) ⭐ 5,040 | 🐛 27 | 🌐 JavaScript | 📅 2026-06-30 Easy peasy global state for React.
-* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,554 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 29,002 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-10 to manipulate state.
+* [`use-immer`](https://github.com/mweststrate/use-immer) ⭐ 4,553 | 🐛 12 | 🌐 TypeScript | 📅 2024-12-17 A hook to use [immer](https://github.com/mweststrate/immer) ⭐ 29,004 | 🐛 59 | 🌐 JavaScript | 📅 2026-11-10 to manipulate state.
 * [`the-platform`](https://github.com/palmerhq/the-platform) ⭐ 4,368 | 🐛 40 | 🌐 TypeScript | 📅 2022-12-09 Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.
 * [`constate`](https://github.com/diegohaz/constate) ⭐ 4,006 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-17 Transform your local state into global state using `useContextState` and `useContextReducer`.
 * [`react-firebase-hooks`](https://github.com/csfrequency/react-firebase-hooks) ⭐ 3,628 | 🐛 43 | 🌐 TypeScript | 📅 2024-04-22 A collection of hooks for use with [Firebase](https://firebase.google.com).
@@ -90,10 +90,10 @@
 * [`rxjs-hooks`](https://github.com/LeetCode-OpenSource/rxjs-hooks) ⭐ 2,174 | 🐛 21 | 🌐 TypeScript | 📅 2023-04-07 An easy way to use RxJS v6+ with react hooks.
 * [`mobx-react-lite`](https://github.com/mobxjs/mobx-react-lite) ⚠️ Archived Lightweight React bindings for MobX based on experimental React hooks.
 * [`react-swipeable`](https://github.com/dogfessional/react-swipeable) ⭐ 2,111 | 🐛 30 | 🌐 TypeScript | 📅 2024-12-23 React swipe event handler hook.
-* [`react-hanger`](https://github.com/kitze/react-hanger) ⭐ 1,929 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-28 A small collection of utility hooks.
+* [`react-hanger`](https://github.com/kitze/react-hanger) ⭐ 1,930 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-28 A small collection of utility hooks.
 * [`use-deep-compare-effect`](https://github.com/kentcdodds/use-deep-compare-effect) ⭐ 1,913 | 🐛 8 | 🌐 TypeScript | 📅 2024-08-21 🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.
 * [`graphql-hooks`](https://github.com/nearform/graphql-hooks) ⭐ 1,888 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-29 Minimal hooks-first GraphQL client.
-* [`@hookstate/core`](https://github.com/avkonst/hookstate) ⭐ 1,650 | 🐛 32 | 🌐 TypeScript | 📅 2025-03-20 Modern, very fast and extendable state management for React.
+* [`@hookstate/core`](https://github.com/avkonst/hookstate) ⭐ 1,649 | 🐛 32 | 🌐 TypeScript | 📅 2025-03-20 Modern, very fast and extendable state management for React.
 * [`concent`](https://github.com/concentjs/concent) ⭐ 1,388 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-20 State management that tailored for react, it is simple, predictable, progressive and efficient.
 * [`use-places-autocomplete`](https://github.com/wellyshen/use-places-autocomplete) ⭐ 1,294 | 🐛 42 | 🌐 TypeScript | 📅 2025-04-02 📍 React hook for Google Maps Places Autocomplete.
 * [`useDarkMode`](https://github.com/donavon/use-dark-mode) ⭐ 1,281 | 🐛 46 | 🌐 JavaScript | 📅 2023-01-03 A custom React Hook to help you implement a "dark mode" component.
@@ -158,7 +158,7 @@
 * [`use-scroll-to-bottom`](https://github.com/tudorgergely/use-scroll-to-bottom) ⭐ 107 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-18 React hook for detecting when an element was scrolled to bottom.
 * [`use-substate`](https://github.com/philipp-spiess/use-substate) ⭐ 100 | 🐛 1 | 🌐 JavaScript | 📅 2018-11-17 React hook for subscribing to your single app state (works with your current [Redux](https://redux.js.org/) app).
 * [`react-powerhooks`](https://github.com/kalcifer/react-powerhooks) ⭐ 99 | 🐛 19 | 🌐 JavaScript | 📅 2022-12-09 Hooks api for react-powerplug components.
-* [`react-window-communication-hook`](https://github.com/AvraamMavridis/react-window-communication-hook) ⭐ 91 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-28 React hook to communicate among browser contexts (tabs, windows, iframes).
+* [`react-window-communication-hook`](https://github.com/AvraamMavridis/react-window-communication-hook) ⭐ 90 | 🐛 0 | 🌐 JavaScript | 📅 2020-12-28 React hook to communicate among browser contexts (tabs, windows, iframes).
 * [`react-hookedup`](https://github.com/zakariaharti/react-hookedup) ⭐ 87 | 🐛 20 | 🌐 TypeScript | 📅 2023-01-04 A collection of useful React hooks.
 * [`react-selector-hooks`](https://github.com/Andarist/react-selector-hooks) ⭐ 85 | 🐛 1 | 🌐 JavaScript | 📅 2018-10-29 Collection of hook-based memoized selector factories for declarations outside of render.
 * [`@rehooks/window-scroll-position`](https://github.com/rehooks/window-scroll-position) ⭐ 82 | 🐛 16 | 🌐 JavaScript | 📅 2021-09-01 React hook for getting window `x` and `y` position.
@@ -291,4 +291,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
