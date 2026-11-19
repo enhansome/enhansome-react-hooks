@@ -133,7 +133,7 @@
             "id": 357335336,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T00:05:33Z",
+            "last_commit": "2026-11-19T00:09:34Z",
             "open_issues": 32,
             "owner": "react-hookz",
             "repo": "web",
@@ -298,11 +298,11 @@
             "id": 207645083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T11:02:54Z",
-            "open_issues": 130,
+            "last_commit": "2026-11-19T13:57:20Z",
+            "open_issues": 135,
             "owner": "TanStack",
             "repo": "query",
-            "stars": 50575,
+            "stars": 50583,
             "topics": [
               "async",
               "cache",
@@ -337,10 +337,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-18T00:15:09Z",
-            "open_issues": 11,
+            "open_issues": 17,
             "owner": "react-hook-form",
             "repo": "react-hook-form",
-            "stars": 44923,
+            "stars": 44925,
             "topics": [
               "dx",
               "form-builder",
@@ -392,7 +392,7 @@
             "open_issues": 261,
             "owner": "vercel",
             "repo": "swr",
-            "stars": 32493,
+            "stars": 32492,
             "topics": [
               "cache",
               "data",
@@ -515,7 +515,7 @@
             "open_issues": 12,
             "owner": "immerjs",
             "repo": "use-immer",
-            "stars": 4553,
+            "stars": 4554,
             "topics": []
           },
           "first_seen": "2026-08-28T16:57:12.781Z"
@@ -559,7 +559,7 @@
             "id": 127461319,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T03:50:00Z",
+            "last_commit": "2026-11-18T21:47:17Z",
             "open_issues": 6,
             "owner": "diegohaz",
             "repo": "constate",
@@ -594,7 +594,7 @@
             "open_issues": 43,
             "owner": "CSFrequency",
             "repo": "react-firebase-hooks",
-            "stars": 3628,
+            "stars": 3627,
             "topics": [
               "firebase",
               "firebase-auth",
@@ -689,7 +689,7 @@
             "open_issues": 31,
             "owner": "alewin",
             "repo": "useWorker",
-            "stars": 3110,
+            "stars": 3109,
             "topics": [
               "background",
               "hook",
@@ -747,7 +747,7 @@
             "open_issues": 18,
             "owner": "dai-shi",
             "repo": "react-tracked",
-            "stars": 2820,
+            "stars": 2819,
             "topics": [
               "global-states",
               "react",
@@ -2336,7 +2336,7 @@
             "open_issues": 18,
             "owner": "CharlesStover",
             "repo": "use-clippy",
-            "stars": 177,
+            "stars": 176,
             "topics": [
               "clipboard",
               "clipboard-api",
@@ -2496,7 +2496,7 @@
             "open_issues": 28,
             "owner": "kmoskwiak",
             "repo": "useSSE",
-            "stars": 143,
+            "stars": 142,
             "topics": [
               "react",
               "server-side-rendering",
@@ -4225,7 +4225,7 @@
             "id": 187557648,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2022-12-10T15:21:12Z",
+            "last_commit": "2026-11-19T05:51:23Z",
             "open_issues": 13,
             "owner": "vardius",
             "repo": "react-peer-data",
@@ -4273,7 +4273,7 @@
             "id": 187561585,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2022-12-10T15:20:32Z",
+            "last_commit": "2026-11-19T05:11:58Z",
             "open_issues": 12,
             "owner": "vardius",
             "repo": "react-user-media",
@@ -5735,7 +5735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T13:29:42.014Z",
+    "last_updated": "2026-11-19T13:57:28.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome React Hooks",
